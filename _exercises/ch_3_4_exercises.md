@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exercises Ch. 3-4
-description: Completed exercises from Python Crash Course
+description: Introducing Lists, Working with Lists
 ---
 
 # Chapter 3: Introducing Lists, Chapter 4: Working with Lists #

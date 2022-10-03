@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exercises Ch. 2
-description: Completed exercises from Python Crash Course
+description: Variables and Simple Data Types
 ---
 
 # Chapter 2: Variables and Simple Data Types
