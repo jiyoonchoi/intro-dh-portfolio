@@ -8,14 +8,3 @@ categories: jekyll update
 
 ## Reflection
 < in progress >
-<!-- Opening
-- 
-
-Identify problem/question/issue
-- 
-
-2-3 salient ideas
-- 
-
-1-2 questions inspired by reading
-- -->
