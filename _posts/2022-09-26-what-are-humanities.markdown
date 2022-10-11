@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Humanities: What are the Humanities? (William Drees)"
+title:  "The Humanities: What are the Humanities?"
 date:   "2022-09-26"
 categories: jekyll update
 ---
@@ -9,7 +9,9 @@ categories: jekyll update
 In my reflection, I'll be delving into a section I found interesting in William Drees' book "What are the Humanities for?". In it, he describes 
 the way humans tend to study humans and experience the universal human condition. Drees poses the question, what even are the humanities? In doing so, he offers the tentative definition:
 
+<blockquote>
 "Humanities are academic disciplines in which humans seek understanding of human self-understandings and self-expressions, and of the ways in which people thereby construct and experience the world they live in."
+</blockquote>
 
 However, this definition is arguably still insufficient. Drees goes on to mention Martin Hollis' "The Philosophy of Social Science: An Introduction", where Hollis describes the two approaches understanding humanities: that humans are both agents and actors. I found this section of the reading particularly interesting because it was essentially the breakdown of human behavior in terms of being an agent who impacts their surrounding environment and an actor who impacts said surroundings with the context of intent and reason.
 
