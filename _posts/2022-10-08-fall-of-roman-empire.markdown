@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Overview of The Decline and Fall of the Roman Empire."
+title:  "An Overview of The Decline and Fall of the Roman Empire"
 date:   "2022-10-08"
 categories: jekyll update
 ---
