@@ -1,3 +1,9 @@
+---
+layout: page
+title: Exercises Ch. 8
+description: Functions
+---
+
 # Chapter 8: Functions #
 
 Course: Intro to Digital Humanities (CLS-161)
