@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: Welcome!
 permalink: /
 ---
 Welcome to my portfolio for CLS 161: Introduction to Digital Humanities. 
