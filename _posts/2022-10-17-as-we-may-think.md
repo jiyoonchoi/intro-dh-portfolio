@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 ## Reflection
-(in progress)
+The Atlantic article, "As We May Think" by Vannevar Bush offers much to discuss on the topic of technological evolution and where we are today with the advancements in 
