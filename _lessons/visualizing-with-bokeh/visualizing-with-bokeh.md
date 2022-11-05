@@ -80,7 +80,7 @@ p.legend.click_policy='hide'
 show(p)
 ```
 
-![Screen%20Shot%202022-11-05%20at%201.59.51%20PM.png](attachment:Screen%20Shot%202022-11-05%20at%201.59.51%20PM.png)
+![png](../assets/bokeh-1.png)
 
 ## Exploring the WWII THOR Dataset
 
@@ -257,7 +257,7 @@ p.add_tools(hover)
 show(p)
 ```
 
- ![Screen%20Shot%202022-11-05%20at%202.09.31%20PM.png](attachment:Screen%20Shot%202022-11-05%20at%202.09.31%20PM.png)
+![png](../assets/bokeh-2.png)
 
 ## Visualizing the Data (Categorical Data and Bar Charts)
 
@@ -340,7 +340,7 @@ p.add_tools(hover)
 show(p)
 ```
 
-![Screen%20Shot%202022-11-05%20at%202.14.27%20PM.png](attachment:Screen%20Shot%202022-11-05%20at%202.14.27%20PM.png)
+![png](../assets/bokeh-3.png)
 
 ## Visualizing the Data (Stacked Bar Charts and Sub-sampling Data)
 
@@ -421,7 +421,7 @@ p.yaxis.axis_label = 'Kilotons of Munitions'
 show(p)
 ```
 
-![Screen%20Shot%202022-11-05%20at%202.18.40%20PM.png](attachment:Screen%20Shot%202022-11-05%20at%202.18.40%20PM.png)
+![png](../assets/bokeh-4.png)
 
 ## Visualizing the Data (Time-Series and Annotations)
 
@@ -462,7 +462,7 @@ show(p)
     BokehDeprecationWarning: 'legend' keyword is deprecated, use explicit 'legend_label', 'legend_field', or 'legend_group' keywords instead
 
 
-![Screen%20Shot%202022-11-05%20at%202.19.37%20PM.png](attachment:Screen%20Shot%202022-11-05%20at%202.19.37%20PM.png)
+![png](../assets/bokeh-5.png)
 
 ## Resampling Time-Series Data
 
@@ -476,7 +476,7 @@ grouped = df.groupby(pd.Grouper(key='MSNDATE', freq='M'))['TOTAL_TONS', 'TONS_IC
       grouped = df.groupby(pd.Grouper(key='MSNDATE', freq='M'))['TOTAL_TONS', 'TONS_IC', 'TONS_FRAG'].sum()
 
 
-![Screen%20Shot%202022-11-05%20at%202.20.37%20PM.png](attachment:Screen%20Shot%202022-11-05%20at%202.20.37%20PM.png)
+![png](../assets/bokeh-6.png)
 
 ## Annotating Trends in Plots
 
@@ -500,7 +500,7 @@ p.add_layout(box)
 show(p)
 ```
 
-![Screen%20Shot%202022-11-05%20at%202.23.12%20PM.png](attachment:Screen%20Shot%202022-11-05%20at%202.23.12%20PM.png)
+![png](../assets/bokeh-7.png)
 
 ## Spatial Data: Mapping Target Locations
 
@@ -571,7 +571,7 @@ p.axis.visible = False
 show(p)
 ```
 
-![Screen%20Shot%202022-11-05%20at%202.25.39%20PM.png](attachment:Screen%20Shot%202022-11-05%20at%202.25.39%20PM.png)
+![png](../assets/bokeh-8.png)
 
 
 ```python
