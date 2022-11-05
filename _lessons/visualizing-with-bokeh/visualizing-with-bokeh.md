@@ -80,7 +80,7 @@ p.legend.click_policy='hide'
 show(p)
 ```
 
-![png](../assets/bokeh-1.png)
+![png](../../assets/bokeh-1.png)
 
 ## Exploring the WWII THOR Dataset
 
@@ -257,7 +257,7 @@ p.add_tools(hover)
 show(p)
 ```
 
-![png](../assets/bokeh-2.png)
+![png](../../assets/bokeh-2.png)
 
 ## Visualizing the Data (Categorical Data and Bar Charts)
 
@@ -340,7 +340,7 @@ p.add_tools(hover)
 show(p)
 ```
 
-![png](../assets/bokeh-3.png)
+![png](../../assets/bokeh-3.png)
 
 ## Visualizing the Data (Stacked Bar Charts and Sub-sampling Data)
 
@@ -421,7 +421,7 @@ p.yaxis.axis_label = 'Kilotons of Munitions'
 show(p)
 ```
 
-![png](../assets/bokeh-4.png)
+![png](../../assets/bokeh-4.png)
 
 ## Visualizing the Data (Time-Series and Annotations)
 
@@ -462,7 +462,7 @@ show(p)
     BokehDeprecationWarning: 'legend' keyword is deprecated, use explicit 'legend_label', 'legend_field', or 'legend_group' keywords instead
 
 
-![png](../assets/bokeh-5.png)
+![png](../../assets/bokeh-5.png)
 
 ## Resampling Time-Series Data
 
@@ -476,7 +476,7 @@ grouped = df.groupby(pd.Grouper(key='MSNDATE', freq='M'))['TOTAL_TONS', 'TONS_IC
       grouped = df.groupby(pd.Grouper(key='MSNDATE', freq='M'))['TOTAL_TONS', 'TONS_IC', 'TONS_FRAG'].sum()
 
 
-![png](../assets/bokeh-6.png)
+![png](../../assets/bokeh-6.png)
 
 ## Annotating Trends in Plots
 
@@ -500,7 +500,7 @@ p.add_layout(box)
 show(p)
 ```
 
-![png](../assets/bokeh-7.png)
+![png](../../assets/bokeh-7.png)
 
 ## Spatial Data: Mapping Target Locations
 
@@ -571,7 +571,7 @@ p.axis.visible = False
 show(p)
 ```
 
-![png](../assets/bokeh-8.png)
+![png](../../assets/bokeh-8.png)
 
 
 ```python
