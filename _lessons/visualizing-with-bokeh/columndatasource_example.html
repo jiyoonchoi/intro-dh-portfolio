@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.2.3.min.js" integrity="sha384-T2yuo9Oe71Cz/I4X9Ac5+gpEa5a8PpJCDlqKYO0CfAuEszu1JrXLl8YugMqYe3sM" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="e9c58ee4-23c8-430c-852a-1cef5d2dcbc0" data-root-id="1303"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1434">
+          {"ea28b537-f023-4278-acbd-57b0fbac7c24":{"roots":{"references":[{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"green"},"line_alpha":{"value":0.1},"line_color":{"value":"green"},"size":{"units":"screen","value":10},"x":{"field":"TOTAL_TONS"},"y":{"field":"AC_ATTACKING"}},"id":"1336","type":"Circle"},{"attributes":{},"id":"1350","type":"UnionRenderers"},{"attributes":{"fill_color":{"value":"green"},"line_color":{"value":"green"},"size":{"units":"screen","value":10},"x":{"field":"TOTAL_TONS"},"y":{"field":"AC_ATTACKING"}},"id":"1335","type":"Circle"},{"attributes":{"bottom_units":"screen","fill_alpha":0.5,"fill_color":"lightgrey","left_units":"screen","level":"overlay","line_alpha":1.0,"line_color":"black","line_dash":[4,4],"line_width":2,"right_units":"screen","top_units":"screen"},"id":"1326","type":"BoxAnnotation"},{"attributes":{},"id":"1351","type":"Selection"},{"attributes":{},"id":"1321","type":"WheelZoomTool"},{"attributes":{},"id":"1304","type":"DataRange1d"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"1320"},{"id":"1321"},{"id":"1322"},{"id":"1323"},{"id":"1324"},{"id":"1325"},{"id":"1342"}]},"id":"1327","type":"Toolbar"},{"attributes":{"axis":{"id":"1316"},"dimension":1,"ticker":null},"id":"1319","type":"Grid"},{"attributes":{},"id":"1308","type":"LinearScale"},{"attributes":{"data":{"AC_ATTACKING":{"__ndarray__":"AAAAAAAA+H8AAAAAAAD4fwAAAAAAACRAAAAAAAAA+H8AAAAAAAD4fwAAAAAAAPA/AAAAAAAA+H8AAAAAAAAoQAAAAAAAAABAAAAAAAAA+H8AAAAAAAAoQAAAAAAAAABAAAAAAAAA+H8AAAAAAAAYQAAAAAAAAPA/AAAAAAAA+H8AAAAAAADwPwAAAAAAABRAAAAAAAAA+H8AAAAAAAAgQAAAAAAAAPA/AAAAAAAAEEAAAAAAAAD4fwAAAAAAABRAAAAAAAAA8D8AAAAAAAAkQAAAAAAAACJAAAAAAAAA+H8AAAAAAAAoQAAAAAAAAPh/AAAAAAAAJEAAAAAAAADwPwAAAAAAACZAAAAAAAAAN0AAAAAAAADwPwAAAAAAADlAAAAAAAAACEAAAAAAAAD4fwAAAAAAgEVAAAAAAAAAOkAAAAAAAAD4fwAAAAAAACJAAAAAAAAAKkAAAAAAAAD4fwAAAAAAAPA/AAAAAAAA+H8AAAAAAAAQQAAAAAAAAABAAAAAAAAAEEAAAAAAAADwPw==","dtype":"float64","order":"little","shape":[50]},"AIRCRAFT_NAME":["A26","B24","B17","B24","A20","B24","A36","B24","B17","B17","B17","WELLINGTON","P51","B24","HAMPDEN","B26","A20","BLENHEIM","HAMPDEN","BLENHEIM","B17","P40","LANCASTER","MEDIUM","B24","B17","B24","B26","P38","B17","A20","A26","A20","B24","LIGHT","B17","B25","B17","B24","B17","HAMPDEN","B25","P38","WELLINGTON","B24","WELLINGTON","P40","P40","P40","BLENHEIM"],"COUNTRY_FLYING_MISSION":["NaN","NaN","NaN","NaN","USA","USA","USA","USA","USA","NaN","NaN","GREAT BRITAIN","USA","USA","GREAT BRITAIN","USA","NaN","GREAT BRITAIN","GREAT BRITAIN","GREAT BRITAIN","USA","USA","GREAT BRITAIN","GREAT BRITAIN","USA","NaN","NaN","USA","USA","NaN","USA","USA","USA","USA","GREAT BRITAIN","NaN","USA","NaN","USA","USA","GREAT BRITAIN","USA","USA","GREAT BRITAIN","USA","GREAT BRITAIN","USA","USA","USA","GREAT BRITAIN"],"MSNDATE":["03/19/1945","12/27/1942","08/14/1944","12/12/1944","04/23/1945","05/01/1945","07/08/1943","03/30/1944","08/25/1944","09/15/1943","07/29/1944","07/02/1941","03/07/1944","05/06/1945","10/09/1940","07/11/1944","04/16/1945","01/26/1942","06/18/1941","04/05/1941","04/18/1945","10/18/1944","03/22/1945","02/28/1943","04/23/1944","01/16/1945","11/21/1944","09/14/1944","04/04/1945","09/03/1943","12/30/1944","04/21/1945","08/14/1944","07/19/1944","11/01/1944","04/18/1944","08/02/1944","01/30/1944","10/13/1944","07/02/1944","08/05/1941","11/10/1944","01/09/1945","07/08/1941","02/16/1943","06/20/1941","12/14/1944","02/04/1945","10/19/1944","12/08/1940"],"NAF":["NaN","NaN","NaN","NaN","12 AF","5 AF","12 AF","7 AF","15 AF","NaN","NaN","RAF","10 AF","13 AF","RAF","9 AF","NaN","RAF","RAF","RAF","7 AF","5 AF","RAF","RAF","13 AF","NaN","NaN","9 AF","5 AF","NaN","12 AF","12 AF","12 AF","8 AF","RAF","NaN","7 AF","NaN","15 AF","15 AF","RAF","7 AF","5 AF","RAF","7 AF","RAF","5 AF","5 AF","5 AF","RAF"],"TAKEOFF_BASE":["NaN","NaN","NaN","NaN","NaN","NaN","PONTE OLIVO AIRFIELD","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","\"MINGALADON AIRFIELD, RANGOON\"","NaN","GAMBUT (LG 88?)","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN"],"TAKEOFF_COUNTRY":["NaN","NaN","NaN","NaN","NaN","NaN","SICILY","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","BURMA","NaN","EGYPT","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN","NaN"],"TAKEOFF_LATITUDE":{"__ndarray__":"AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/PIcyVMWQQkAAAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4f05/9iNF6DBAAAAAAAAA+H9li2LBFvw+QAAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fw==","dtype":"float64","order":"little","shape":[50]},"TAKEOFF_LONGITUDE":{"__ndarray__":"AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/xa7t7ZakLEAAAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4f+VGkbWGCFhAAAAAAAAA+H9Nuk6f9Nk9QAAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fwAAAAAAAPh/AAAAAAAA+H8AAAAAAAD4fw==","dtype":"float64","order":"little","shape":[50]},"TGT_COUNTRY":["GERMANY","TUNISIA","GERMANY","AUSTRIA","ITALY","FORMOSA AND RYUKYU ISLANDS","ITALY","CAROLINE ISLANDS","HUNGARY","FRANCE","GERMANY","GERMANY","BURMA","CELEBES ISLANDS","GERMANY","FRANCE","ITALY","BURMA","GERMANY","LIBYA","BISMARK ARCHIPELAGO","CELEBES ISLANDS","GERMANY","FRANCE","CAROLINE ISLANDS","GERMANY","GERMANY","FRANCE","PHILIPPINE ISLANDS","FRANCE","ITALY","ITALY","ITALY","GERMANY","GERMANY","GERMANY","CAROLINE ISLANDS","GERMANY","HUNGARY","YUGOSLAVIA","GERMANY","BISMARK ARCHIPELAGO","PHILIPPINE ISLANDS","BELGIUM","CAROLINE ISLANDS","GERMANY","PHILIPPINE ISLANDS","PHILIPPINE ISLANDS","CELEBES ISLANDS","FRANCE"],"TGT_LATITUDE":{"__ndarray__":"pHA9CtejSUAAAAAAAIBCQFyPwvUovEhAAAAAAAAA+H/2KFyPwlVGQBjREyIiojZAzczMzMyMQkAAAAAAAAAeQAAAAAAAwEdAw/UoXI9iSEDNzMzMzKxJQArXo3A9ikpAAAAAAABAOkAzMzMzMzMVwAAAAAAAAPh/AAAAAABgSEAAAAAAAAD4f0t0llmEijBA16NwPQp3SkD2KFyPwnU+QOKX493d3RPAMzMzMzMz8z8zMzMzM9NJQKRwPQrXo0dAezF9d3d3HUCPwvUoXM9JQGZmZmZmxkpAMzMzMzMzSECYolwav9glQDMzMzMzc0hAj8L1KFzPRED2KFyPwlVGQAAAAAAAgERAXI/C9SjcR0A9CtejcF1JQHE9CtejEEhAAAAAAAAAHEBmZmZmZmZJQM3MzMzMzEdAw/UoXI+iRkCamZmZmVlIQEj+SURERBbAafdxVVXVL0Bcj8L1KJxJQAAAAAAAANA/pHA9CtdDS0AJFRxeEBHpPwAAAAAAgC1AAAAAAAAA9D9xPQrXo1BJQA==","dtype":"float64","order":"little","shape":[50]},"TGT_LOCATION":["SCHWELM","TUNIS","LUDWIGSHAFEN","NaN","44 40 N 008 20 E","TAKAO","LICATA","TRUK ISLAND","BUDAPEST","PARIS","MERSEBURG","BREMEN","HUKAWNG VALLEY","LIMBOENG","NaN","FLERS","NaN","KAWRAREIK/MYAWADDY ROAD","VERDEN","MARBLE ARCH L.G.","UBILI","WASILE BAY","DORSTEN","ST NAZAIRE","WOLEAI ISLAND","BITTERFELD","HAMBURG","BREST","RIZAL","ST ANDRE DE L EURE","ATINA","44 40 N 010 20 E","41 00 N 016 00 E","KEMPTEN","BONN","OBER PFAFFENHOFEN","PONAPE ISLAND","DUREN","BANHIDA","VINKOVCI","ZELL","REIN BAY","ROSALES","OSTENDE","15 N 151 3","SCHLESWIG","TERNATE","WAWA","LOLOBATA","LILLE"],"TGT_LONGITUDE":{"__ndarray__":"H4XrUbgeHUBmZmZmZuYhQGZmZmZm5iBAAAAAAAAA+H8pXI/C9aggQIlX/iEiEl5A16NwPQrXK0BexZiqqvpiQEjhehSuBzNAmpmZmZmZAUAAAAAAAAAoQHE9CtejcCFA7T6uqqrqV0BDdc6qqtpdQAAAAAAAAPh/PQrXo3A94r8AAAAAAAD4f2tiga/ooVhA9ihcj8J1IkCPwvUoXI8yQG8HNCIi6mJAO9QA7+4OYEDhehSuR+EbQJqZmZmZmQHAojpnVVX9YUApXI/C9agoQAAAAAAAACRAAAAAAAAAEsCg3/dvXkFfQHsUrkfhevQ/mpmZmZmZK0ApXI/C9agkQAAAAAAAADBAmpmZmZmZJEBI4XoUrkccQArXo3A9iiZAojpnVVXNY0DsUbgehesZQB+F61G4XjJAFK5H4XrUMkCkcD0K1yMgQGZmZmZmpmJAvYoxVVUlXkCamZmZmZkHQAAAAAAA8GJAKVyPwvUoI0BwYd14d9dfQEN1zqqqSl5ACKHNu7sDYECPwvUoXI8IQA==","dtype":"float64","order":"little","shape":[50]},"THEATER":["ETO","MTO","ETO","ETO","MTO","PTO","MTO","PTO","MTO","ETO","ETO","ETO","CBI","PTO","ETO","ETO","MTO","CBI","ETO","MTO","PTO","PTO","ETO","ETO","PTO","ETO","ETO","ETO","PTO","ETO","MTO","MTO","MTO","ETO","ETO","ETO","PTO","ETO","MTO","MTO","ETO","PTO","PTO","ETO","PTO","ETO","PTO","PTO","PTO","ETO"],"TONS_FRAG":{"__ndarray__":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==","dtype":"float64","order":"little","shape":[50]},"TONS_HE":{"__ndarray__":"AAAAAAAAQkAAAAAAAAAIQAAAAAAAADNAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAKEAAAAAAAAA4QAAAAAAAABhAAAAAAAAAT0AAAAAAAAA9QAAAAAAAABBAAAAAAAAA8D8AAAAAAAA3QAAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAQAAAAAAAAENAAAAAAAAA8D8AAAAAAAAAAAAAAAAAADlAAAAAAAAAUkAAAAAAAAAoQAAAAAAAgEBAAAAAAAAAHEAAAAAAAADwPwAAAAAAACZAAAAAAAAATUAAAAAAAADwPwAAAAAAAAAAAAAAAAAACEAAAAAAAAAAQAAAAAAAgFRAAAAAAACAU0AAAAAAAAAAAAAAAAAAACJAAAAAAAAAHEAAAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAAAIQAAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA==","dtype":"float64","order":"little","shape":[50]},"TONS_IC":{"__ndarray__":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADRAAAAAAAAAAAAAAAAAAAA+QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==","dtype":"float64","order":"little","shape":[50]},"TOTAL_TONS":{"__ndarray__":"AAAAAAAAQkAAAAAAAAAIQAAAAAAAADNAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAhAAAAAAAAAKEAAAAAAAAA4QAAAAAAAABhAAAAAAAAAT0AAAAAAAAA9QAAAAAAAABBAAAAAAAAA8D8AAAAAAAA3QAAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAQAAAAAAAAE1AAAAAAAAA8D8AAAAAAAA+QAAAAAAAADlAAAAAAAAAUkAAAAAAAAAoQAAAAAAAgEBAAAAAAAAAHEAAAAAAAADwPwAAAAAAACZAAAAAAAAATUAAAAAAAADwPwAAAAAAgEFAAAAAAAAACEAAAAAAAAAAQAAAAAAAgFRAAAAAAACAU0AAAAAAAAAAAAAAAAAAACJAAAAAAAAAHEAAAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAAAIQAAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA==","dtype":"float64","order":"little","shape":[50]},"UNIT_ID":["NaN","NaN","NaN","NaN","NaN","33 BS","27 FBG","431 BS","NaN","NaN","NaN","NaN","529 FS","307 BG","NaN","NaN","NaN","NO. 225 GROUP","NaN","45/55 SQDN","65 BS","82 FS","NaN","NaN","868 BS","NaN","NaN","NaN","36 FS","NaN","NaN","NaN","NaN","NaN","NaN","NaN","820 BS","NaN","NaN","NaN","NaN","498 BS","9 FS","NaN","400 BS","NaN","82 FS","110 FS","82 FS","NaN"],"index":[145750,66447,115335,13395,10394,57175,101896,121761,81708,163469,131464,69876,16214,120110,21961,19874,30427,67086,5946,10967,14256,40618,47109,161392,16537,134846,125281,168045,103150,138668,86064,30700,99038,161544,23099,142244,55981,46961,171045,170156,6152,91761,86896,13790,16531,26567,65396,34815,40620,2966]},"selected":{"id":"1351"},"selection_policy":{"id":"1350"}},"id":"1302","type":"ColumnDataSource"},{"attributes":{},"id":"1317","type":"BasicTicker"},{"attributes":{},"id":"1313","type":"BasicTicker"},{"attributes":{"below":[{"id":"1312"}],"center":[{"id":"1315"},{"id":"1319"}],"left":[{"id":"1316"}],"renderers":[{"id":"1337"}],"title":{"id":"1341"},"toolbar":{"id":"1327"},"x_range":{"id":"1304"},"x_scale":{"id":"1308"},"y_range":{"id":"1306"},"y_scale":{"id":"1310"}},"id":"1303","subtype":"Figure","type":"Plot"},{"attributes":{"axis_label":"Number of Attacking Aircraft","formatter":{"id":"1347"},"ticker":{"id":"1317"}},"id":"1316","type":"LinearAxis"},{"attributes":{},"id":"1306","type":"DataRange1d"},{"attributes":{},"id":"1320","type":"PanTool"},{"attributes":{"overlay":{"id":"1326"}},"id":"1322","type":"BoxZoomTool"},{"attributes":{},"id":"1347","type":"BasicTickFormatter"},{"attributes":{"source":{"id":"1302"}},"id":"1338","type":"CDSView"},{"attributes":{"axis":{"id":"1312"},"ticker":null},"id":"1315","type":"Grid"},{"attributes":{"text":"Attacking Aircraft and Munitions Dropped"},"id":"1341","type":"Title"},{"attributes":{},"id":"1310","type":"LinearScale"},{"attributes":{"axis_label":"Tons of Munitions Dropped","formatter":{"id":"1349"},"ticker":{"id":"1313"}},"id":"1312","type":"LinearAxis"},{"attributes":{"data_source":{"id":"1302"},"glyph":{"id":"1335"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1336"},"selection_glyph":null,"view":{"id":"1338"}},"id":"1337","type":"GlyphRenderer"},{"attributes":{"callback":null,"tooltips":[["Attack Date","@MSNDATE"],["Attacking Aircraft","@AC_ATTACKING"],["Tons of Munitions","@TOTAL_TONS"],["Type of Aircraft","@AIRCRAFT_NAME"]]},"id":"1342","type":"HoverTool"},{"attributes":{},"id":"1324","type":"ResetTool"},{"attributes":{},"id":"1349","type":"BasicTickFormatter"},{"attributes":{},"id":"1325","type":"HelpTool"},{"attributes":{},"id":"1323","type":"SaveTool"}],"root_ids":["1303"]},"title":"Bokeh Application","version":"2.2.3"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1434').textContent;
+                  var render_items = [{"docid":"ea28b537-f023-4278-acbd-57b0fbac7c24","root_ids":["1303"],"roots":{"1303":"e9c58ee4-23c8-430c-852a-1cef5d2dcbc0"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>

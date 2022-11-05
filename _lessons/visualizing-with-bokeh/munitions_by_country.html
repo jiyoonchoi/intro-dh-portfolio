@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.2.3.min.js" integrity="sha384-T2yuo9Oe71Cz/I4X9Ac5+gpEa5a8PpJCDlqKYO0CfAuEszu1JrXLl8YugMqYe3sM" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="5d197d55-abf2-4dbc-af61-f1ed57071a35" data-root-id="1436"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1565">
+          {"2fe9020e-1fee-46cc-985b-8670c9a08a9d":{"roots":{"references":[{"attributes":{"callback":null,"mode":"vline","tooltips":[["Totals","@TONS_HE High Explosive / @TONS_IC Incendiary / @TONS_FRAG Fragmentation"]]},"id":"1473","type":"HoverTool"},{"attributes":{},"id":"1478","type":"BasicTickFormatter"},{"attributes":{},"id":"1441","type":"CategoricalScale"},{"attributes":{"below":[{"id":"1445"}],"center":[{"id":"1447"},{"id":"1451"}],"left":[{"id":"1448"}],"renderers":[{"id":"1470"}],"title":{"id":"1472"},"toolbar":{"id":"1459"},"x_range":{"id":"1437"},"x_scale":{"id":"1441"},"y_range":{"id":"1439"},"y_scale":{"id":"1443"}},"id":"1436","subtype":"Figure","type":"Plot"},{"attributes":{},"id":"1456","type":"ResetTool"},{"attributes":{"factors":["AUSTRALIA","GREAT BRITAIN","NEW ZEALAND","SOUTH AFRICA","USA"]},"id":"1437","type":"FactorRange"},{"attributes":{},"id":"1443","type":"LinearScale"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"1452"},{"id":"1453"},{"id":"1454"},{"id":"1455"},{"id":"1456"},{"id":"1457"},{"id":"1473"}]},"id":"1459","type":"Toolbar"},{"attributes":{"axis":{"id":"1445"},"ticker":null},"id":"1447","type":"Grid"},{"attributes":{"source":{"id":"1435"}},"id":"1471","type":"CDSView"},{"attributes":{},"id":"1446","type":"CategoricalTicker"},{"attributes":{"data_source":{"id":"1435"},"glyph":{"id":"1468"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1469"},"selection_glyph":null,"view":{"id":"1471"}},"id":"1470","type":"GlyphRenderer"},{"attributes":{"axis_label":"Kilotons of Munitions","formatter":{"id":"1478"},"ticker":{"id":"1449"}},"id":"1448","type":"LinearAxis"},{"attributes":{"bottom_units":"screen","fill_alpha":0.5,"fill_color":"lightgrey","left_units":"screen","level":"overlay","line_alpha":1.0,"line_color":"black","line_dash":[4,4],"line_width":2,"right_units":"screen","top_units":"screen"},"id":"1458","type":"BoxAnnotation"},{"attributes":{"axis":{"id":"1448"},"dimension":1,"ticker":null},"id":"1451","type":"Grid"},{"attributes":{"data":{"COUNTRY_FLYING_MISSION":["AUSTRALIA","GREAT BRITAIN","NEW ZEALAND","SOUTH AFRICA","USA"],"TONS_FRAG":{"__ndarray__":"g/qWOV0Wkz+HFtnO91PzPwAAAAAAAAAAAAAAAAAAAAAgtYmT++lfQA==","dtype":"float64","order":"little","shape":[5]},"TONS_HE":{"__ndarray__":"sOHplbIM3T/Du1zENyKLQB3Sb18HDhFAuB6F61G4jj+x4emV0keUQA==","dtype":"float64","order":"little","shape":[5]},"TONS_IC":{"__ndarray__":"YAfOGVHaiz+kb9I0KCFqQB1aZDvfT8U/AAAAAAAAAACh1jTvOKlpQA==","dtype":"float64","order":"little","shape":[5]},"TOTAL_TONS":{"__ndarray__":"LVvri4S23j/DFyZTZWKRQCzG+ZtQCAVAjJyFPe3whz+ny2Ji82WZQA==","dtype":"float64","order":"little","shape":[5]}},"selected":{"id":"1482"},"selection_policy":{"id":"1481"}},"id":"1435","type":"ColumnDataSource"},{"attributes":{"axis_label":"Country","formatter":{"id":"1480"},"ticker":{"id":"1446"}},"id":"1445","type":"CategoricalAxis"},{"attributes":{},"id":"1481","type":"UnionRenderers"},{"attributes":{},"id":"1452","type":"PanTool"},{"attributes":{},"id":"1439","type":"DataRange1d"},{"attributes":{"fill_color":{"field":"COUNTRY_FLYING_MISSION","transform":{"id":"1466"}},"line_color":{"field":"COUNTRY_FLYING_MISSION","transform":{"id":"1466"}},"top":{"field":"TOTAL_TONS"},"width":{"value":0.7},"x":{"field":"COUNTRY_FLYING_MISSION"}},"id":"1468","type":"VBar"},{"attributes":{"overlay":{"id":"1458"}},"id":"1454","type":"BoxZoomTool"},{"attributes":{"factors":["AUSTRALIA","GREAT BRITAIN","NEW ZEALAND","SOUTH AFRICA","USA"],"palette":["#2b83ba","#abdda4","#ffffbf","#fdae61","#d7191c"]},"id":"1466","type":"CategoricalColorMapper"},{"attributes":{},"id":"1457","type":"HelpTool"},{"attributes":{},"id":"1453","type":"WheelZoomTool"},{"attributes":{"text":"Munitions Dropped by Allied Country"},"id":"1472","type":"Title"},{"attributes":{},"id":"1455","type":"SaveTool"},{"attributes":{},"id":"1480","type":"CategoricalTickFormatter"},{"attributes":{},"id":"1482","type":"Selection"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"field":"COUNTRY_FLYING_MISSION","transform":{"id":"1466"}},"line_alpha":{"value":0.1},"line_color":{"field":"COUNTRY_FLYING_MISSION","transform":{"id":"1466"}},"top":{"field":"TOTAL_TONS"},"width":{"value":0.7},"x":{"field":"COUNTRY_FLYING_MISSION"}},"id":"1469","type":"VBar"},{"attributes":{},"id":"1449","type":"BasicTicker"}],"root_ids":["1436"]},"title":"Bokeh Application","version":"2.2.3"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1565').textContent;
+                  var render_items = [{"docid":"2fe9020e-1fee-46cc-985b-8670c9a08a9d","root_ids":["1436"],"roots":{"1436":"5d197d55-abf2-4dbc-af61-f1ed57071a35"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
