@@ -13,7 +13,7 @@ The Google Ngram Viewer project is a text visualization tool. The Google Ngram V
 
 The goals of this project are to make the data visualization of any word or phrase accessible to anyone on the internet. The user is able to input multiple ngrams to see their relationship to one another and potentially inquire questions about noticeable patterns or distinctions. For instance, below is the result of when I input "penny", "quarter", "dime", and "dollar". 
 
-![png](../assets/ngrams.png)
+![png](../assets/ngrams1.png)
 
 I put in these terms because I was curious to see how our references to currency may have changed over the years and which were the most ubiquitous. The resulting graph makes me wonder, why did "dollar" rise as "quarter" fell and what made them both eventually decline in frequency in the late 1980s? Did a different term replace them, and if so which one? How have our references to currency evolved as the English language has been evolving?
 
