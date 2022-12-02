@@ -9,7 +9,7 @@ description: This lesson uses Python and the Bokeh and Pandas Libraries to visua
 [Charlie Harper, "Visualizing Data with Bokeh and Pandas," Programming Historian 7 (2018), https://doi.org/10.46430/phen0081](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
 
 ## Reflection
-Bokeh is a visualization tool that plots data on a graph in a readable and digestable way.
+Bokeh is a visualization tool that plots data on a graph in a readable and digestable way. (in progress)
 
 
 
