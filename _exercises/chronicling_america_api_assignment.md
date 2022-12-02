@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Chronicling America API Assignment"
-date:   "2022-11-05"
-categories: jekyll update
+layout: page
+title: "Chronicling America API Assignment"
+description: Exploring Chronicling America's API
 ---
 
 In this assignment, you are tasked with:
