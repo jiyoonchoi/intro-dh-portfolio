@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Voyant Tools"
-date:   "2022-10-24"
+date:   "2022-10-30"
 categories: jekyll update
 ---
 
