@@ -3,8 +3,7 @@ layout: page
 title: TEI Exercise
 description: Exploring Text Encoding Initiative
 ---
-```python
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+'''<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
      <fileDesc>
        <titleStmt>
@@ -32,4 +31,4 @@ description: Exploring Text Encoding Initiative
                         </p>     
                 </body>
         </text>
- </TEI>```
+ </TEI>'''
