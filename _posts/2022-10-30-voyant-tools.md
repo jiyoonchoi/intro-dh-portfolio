@@ -13,6 +13,9 @@ After learning about <a href="https://voyant-tools.org/">Voyant Tools</a>, which
 Once I inputted my data, I started to explore the different tools available for data visualization. The most interesting ones to me were "TextualArc" and "Knots" because they are animated visualizers that allow you to see the relation of the included words to each other. I've never used a project like this before and since I used text from a book, the highest frequency words were expectedly filler words. For instance, "says", "said", "like", "Marianne", "Connell", are the most frequently mentioned terms which makes sense when considering the overall structure of novels -- where Marianne and Connell are the main characters. There likely is a way to filter out those types of words to really distinguish the more significant words I'm looking for when comparing the first chapter and the last chapter. Such significant words would be like how in the first chapter of the novel, the word "school" is one of most frequent non-filler words, (which is representative of the textual content) and "school" is not mentioned at all in the last chapter (which also makes sense because they're older and at a different stage in life by the end). The lack of "school" in
 the final chapter of this bittersweet novel was eye-opening to me when approaching this body
 of text through the perspective of digital humanities. By utilizing keywords, one can easily
-navigate 
+navigate the general story plot and timeline of the textual corpus at hand. Especially with
+a text like this novel which is a chronological fictional story, keywords like "school"
+would naturally only appear when the characters are in a school environment at that stage
+of the book.
 
 Exploring Voyant tools was a great experience and I had the opportunity to see the applications of digital humanities in an interactive way and to customize the inputted corpus of text.
