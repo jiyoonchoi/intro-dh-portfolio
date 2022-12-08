@@ -6,7 +6,8 @@ categories: jekyll update
 ---
 
 ## Reflection
-In "Topic Modeling: A Basic Introduction", author Megan R. Brett generalizes and details the basic concepts of topic modeling and its wide applications. According to Brett, topic modeling is one of the many ways to identify patterns in a corpus. The phrase "topic modeling" is fitting because this method is essentially identifying specific "topics" for potential further data analysis. 
+
+In ["Topic Modeling: A Basic Introduction"](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/), author Megan R. Brett generalizes and details the basic concepts of topic modeling and its wide applications. According to Brett, topic modeling is one of the many ways to identify patterns in a corpus. The phrase "topic modeling" is fitting because this method is essentially identifying specific "topics" for potential further data analysis. 
 
 In Brett's thorough explanation, I found her analogy of color-coding a text using highlighters particularly interesting. This analogy is an intuitive and very human textual analysis technique that most, if not all scholars have used in their studies over the years. Using physical highlighters for specific terms and groups as you sift through the material is what we've always done, but now with digital humanities methods like topic modeling, is that all ancient history? Was there ever any value in the gruesome process of manually highlighting and identifying patterns by hand if the ultimate end-goal was to analyze the <i>results</i>? 
 
