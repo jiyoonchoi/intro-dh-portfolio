@@ -3,7 +3,7 @@ layout: page
 title: TEI Exercise
 description: Exploring Text Encoding Initiative
 ---
-```
+```html
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
      <fileDesc>
