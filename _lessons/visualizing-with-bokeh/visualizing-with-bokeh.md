@@ -9,11 +9,15 @@ description: This lesson uses Python and the Bokeh and Pandas Libraries to visua
 [Charlie Harper, "Visualizing Data with Bokeh and Pandas," Programming Historian 7 (2018), https://doi.org/10.46430/phen0081](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
 
 ## Reflection
-Bokeh is a visualization tool that plots data on a graph in a readable and digestable way. (in progress)
+Bokeh is a visualization tool that plots data on a graph in a readable and digestable way. From this Programming Historian lesson, I learned how to utilize the Bokeh and Pandas libraries to generate images that visualize my data. Bokeh is a library with the purpose of creating interactive data visualizations in a web browser. This library is special because it allows users to create not only concise and easily readable syntax, but also to show their data visualizations with rapid speed.
 
+With any loaded tabular CSV file, I learned that I can aggregate and sub-sample raw data and even incorporate interactive elements to my data visuals like notes that appear when hovering over certain data points. The greatest strength that comes with using the Bokeh library is that it is versatile because it can show data in a wide variety of ways. This includes quantitative, categorical, and geographic data for web display. 
 
+This lesson specifically guided me through the example of the WWII THOR Dataset which lists aerial bombing operations during World War I, World War II, the Korean War, and the Vietnam War undertaken by the United States and Allied Powers. I generated graphs that aggregated data visualizing the munitions dropped by allied countries using a scatterplot graph, a standard bar chart, a stacked bar chart, a time-series, and a map.
 
-<!-- (FROM WEBSITE) Bokeh’s strength as a visualization tool lies in its ability to show differing types of data in an interactive and web-friendly manner. This tutorial has only scratched the surface of Bokeh’s capabilities and the reader is encourage to delve deeper into the library’s workings. A great place to start is the Bokeh gallery, where you can see a variety of visualizations and decide how you might apply these techniques to your own data. If you’re more inclined to dive right into further code examples, Bokeh’s online notebook is an excellent place to start! -->
+After completing this lesson, I feel confident enough to run the code I learned on my own CSV file and generate data visualizations that can include details like interactive annotations. I know that this lesson is only the tip of the iceberg when it comes to all the potential applications of data visualization so I'm excited to have gotten this introduction with Bokeh.
+This Programming Historian lesson feels like the perfect place to start with the exploration of data visualization.
+
 
 ## Code
 
