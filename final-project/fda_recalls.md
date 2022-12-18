@@ -1,7 +1,7 @@
 ---
-layout: default
-title:  "Food Recalls in the United States"
-categories: jekyll update
+layout: page
+title: Final Project
+permalink: /final-project/
 ---
 
 ## Data-gathering and Preparation
