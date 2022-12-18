@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Final Project
-permalink: /final-project/
+title: Food Recalls in the United States
+permalink: ../final-project/
 ---
-
-# Food Recalls in the United States
 
 ## Data-gathering and Preparation
 For part of my final project, I'm applying what I learned from my ["Visualizing with Bokeh and Pandas"](https://jiyoonchoi.github.io/intro-dh-portfolio/lessons/visualizing-with-bokeh/visualizing-with-bokeh.html) Programming Historian Lesson. With the data (in CSV form) which contains all the information I'm analyzing about the Federal Food Recalls the past 12 years, I was able to generate a graph using Bokeh.
