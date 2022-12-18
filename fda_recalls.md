@@ -2,6 +2,7 @@
 layout: page
 title: Food Recalls in the United States
 description: Final Project
+permalink: /final-project/
 ---
 
 # Food Recalls in the United States
