@@ -18,6 +18,8 @@ The key takeaway from this Programming Historian Lesson was the power and robust
 
 Data mining can be used in countless other situations, including detecting inconsistencies in large datasets like when bank accounts are flagged for fraudulent activity. This method of data analysis is a technique I had heard about before, but never dove into the meaning of it and its real-world applications until this assignment.
 
+Note: In order to see the scraping results, you'll have to scroll way down. (Had to download thousands of XML files!)
+
 ## Code
 
 ## Accessing an Internet Archive Collection in Python
@@ -17718,20 +17720,6 @@ for result in search:
     Downloading lettertomydearmr00webb_8 ...
     Downloading lettertomydearmr00webb_9 ...
     Downloading lettertomydearmr00wels ...
-
-
-
-    ---------------------------------------------------------------------------
-
-    KeyboardInterrupt                         Traceback (most recent call last)
-
-    Input In [6], in <cell line: 8>()
-         17 else:
-         18     print("Downloading " + itemid + " ...")
-    ---> 19     time.sleep(1)
-
-
-    KeyboardInterrupt: 
 
 
 ## Scraping Information from a MARC Record
