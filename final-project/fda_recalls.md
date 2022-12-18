@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title:  "Food Recalls in the United States"
-date:   "2022-12-17"
 categories: jekyll update
 ---
 
