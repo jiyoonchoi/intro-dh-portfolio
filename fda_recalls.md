@@ -273,12 +273,12 @@ show(p)
 
 The resulting bar graph describing the "Quantity of FDA Recalled Foods by Risk Level" is below.
 ### Figure 1
-![Screen%20Shot%202022-12-16%20at%208.01.27%20PM.png](attachment:Screen%20Shot%202022-12-16%20at%208.01.27%20PM.png)
+![png](../assets/artifact1.png)
 
 Additionally, I created the following [ArcGIS map](https://tuftsgis.maps.arcgis.com/apps/instant/basic/index.html?appid=bbe3926ecd5b40a19ed183d1263de2d9) visualizing the frequency of food recalls per state in the United States.
 
 ### Figure 2
-![Screen%20Shot%202022-12-17%20at%2010.11.41%20PM.png](attachment:Screen%20Shot%202022-12-17%20at%2010.11.41%20PM.png)
+![png](../assets/artifact2.png)
 
 ## Written Discussion
 
