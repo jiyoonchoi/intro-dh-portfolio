@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Food Recalls in the United States
-permalink: ../final-project/
+permalink: /final-project/
 ---
 
 ## Data-gathering and Preparation
