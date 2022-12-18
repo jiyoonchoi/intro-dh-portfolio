@@ -4,7 +4,6 @@ title: Final Project
 permalink: /final-project/
 ---
 
-<div>
 # Food Recalls in the United States
 
 ## Data-gathering and Preparation
@@ -301,6 +300,3 @@ Some issues I ran into when working with this data was deciding how I wanted to 
 In conclusion, tracking the patterns in federal food recalls is important for the safety of our communities because it helps us understand the root causes of food contamination and take steps to prevent it from happening again in the future. By analyzing the data on past recalls, we can identify trends and patterns that may indicate broader issues with the food production or distribution system. For example, if a large number of recalls are linked to a particular supplier or type of food, this could indicate that there are problems with the way that these products are being handled or processed. By identifying and addressing these issues, we can help to protect the health and safety of our communities and prevent future foodborne illness outbreaks. In addition, tracking patterns in recalls can also help to identify any weaknesses in our food safety system and allow us to take steps to improve it. By working to prevent food contamination, we can help to ensure that our communities have access to safe, healthy, and high-quality food. 
 
 Digital humanities is important for protecting community health in several ways. It allows researchers to analyze and interpret large amounts of data quickly and accurately, which can help identify trends and patterns that may be relevant to public health. Digital humanities can also be used to develop and disseminate public health messages more effectively, using targeted and personalized approaches to reach specific groups or communities. Finally, digital humanities can help to improve the accessibility and dissemination of information on public health issues like federal food recalls, allowing more people to stay informed and take steps to protect themselves and their communities.
-
-
-</div>
