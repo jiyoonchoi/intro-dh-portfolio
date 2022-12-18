@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02006ntm a22003497a 4500</leader>
+  <controlfield tag="001">3743968</controlfield>
+  <controlfield tag="005">20111020224200.0</controlfield>
+  <controlfield tag="008">090115s1864    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18640906</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3743968</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.1.1 v.6, p.88</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear friend May</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Peterboro, [N.Y.],</subfield>
+    <subfield code="c">Sept. 6, 1864.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (3 p.) ;</subfield>
+    <subfield code="c">8 x 5 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">William Lloyd Garrison tells of his visit with Gerrit Smith. There, he saw General John Cochrane, &quot;who is on the Fremont ticket.&quot; He also saw Gerrit Smith&apos;s son and Miss Fitzhugh. Garrison writes: &quot;It must be apparent, I think, to all but the blindest of the blind, that the Fremont movement has proved an abortion; and the best thing that its nominees and its partisans can do, for themselves and for their country, is to accept what is inevitable, and join the general mass of loyal men in sustaining Mr. Lincoln, and thus save the country from the shame and calamity of a copperhead triumph.&quot; Garrison viewed the country around Peterboro and thought it was &quot;&apos;a goodly country&apos; to behold.&quot; Garrison will be in Syracuse on Friday.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Merrill, Walter M. Letters of William Lloyd Garrison,</subfield>
+    <subfield code="c">v.5, no.96.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">May, Samuel J.</subfield>
+    <subfield code="q">(Samuel Joseph),</subfield>
+    <subfield code="d">1797-1871</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Cochrane, John,</subfield>
+    <subfield code="d">1813-1898.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Frémont, John Charles,</subfield>
+    <subfield code="d">1813-1890.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Lincoln, Abraham,</subfield>
+    <subfield code="d">1809-1865.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Smith, Gerrit,</subfield>
+    <subfield code="d">1797-1874.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">May, Samuel J.</subfield>
+    <subfield code="q">(Samuel Joseph),</subfield>
+    <subfield code="d">1797-1871,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">William Lloyd Garrison Correspondence (1823-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01053nam a2200277Ia 4500</leader>
+  <controlfield tag="001">3582270</controlfield>
+  <controlfield tag="005">20100923155800.0</controlfield>
+  <controlfield tag="008">760603s1825    nyu           000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   95845460 </subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">32746270</subfield>
+    <subfield code="a">47810898</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)2208383</subfield>
+    <subfield code="z">(OCoLC)32746270</subfield>
+    <subfield code="z">(OCoLC)47810898</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm02208383</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">AQM</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nw-----</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">AC901</subfield>
+    <subfield code="b">.M5 vol. 779, no. 8</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7586.57 no. 4</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Heyrick, Elizabeth,</subfield>
+    <subfield code="d">1769-1831.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Immediate, not gradual abolition; :</subfield>
+    <subfield code="b">or an inquiry into the shortest, safest, and most effectual means of getting rid of West Indian slavery.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New-York :</subfield>
+    <subfield code="b">Republished by James V. Seaman ...</subfield>
+    <subfield code="c">1825.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[3], 4-24 p.</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">London published l824.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Attributed to Heyrick in the National Union Catalog and in Richard H. Shoemaker, A Checklist of American Imprints for 1825.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slaves</subfield>
+    <subfield code="x">Emancipation.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">West Indies, British.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01872ntm a22003257a 4500</leader>
+  <controlfield tag="001">3683802</controlfield>
+  <controlfield tag="005">20110527123400.0</controlfield>
+  <controlfield tag="008">090115s1841    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18410401</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.1.1 v.3, p.75</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boston, [Mass.],</subfield>
+    <subfield code="c">April 1, 1841.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (2 p.) ;</subfield>
+    <subfield code="c">10 x 7 7/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This letter is signed by both William Lloyd Garrison and Ellis Gray Loring. The text is entirely in the hand of William Lloyd Garrison.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">William Lloyd Garrison and Ellis Gray Loring want John Anderson Collins to return home to resume in the general agency for the Massachusetts Anti-Slavery Society. All agency operations were suspended during Collins&apos;s absence; hence, friends of the Society were less disposed to contribute. This letter quotes the resolution passed at a special meeting of the Massachusetts Anti-Slavery Society requesting the return of John Anderson Collins. They send Collins their deepest sympathies for the assaults made on his character and mission.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Merrill, Walter M. Letters of William Lloyd Garrison,</subfield>
+    <subfield code="c">v.3, no.9.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Loring, Ellis Gray,</subfield>
+    <subfield code="d">1803-1858</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Collins, John A.</subfield>
+    <subfield code="q">(John Anderson),</subfield>
+    <subfield code="d">1810-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Massachusetts Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Collins, John A.</subfield>
+    <subfield code="q">(John Anderson),</subfield>
+    <subfield code="d">1810-1879,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">William Lloyd Garrison Correspondence (1823-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 2</subfield>
+  </datafield>
+</record>

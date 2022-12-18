@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01758ntm a22003497a 4500</leader>
+  <controlfield tag="001">3721945</controlfield>
+  <controlfield tag="005">20110908223400.0</controlfield>
+  <controlfield tag="008">090115s1858    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18580911</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3721945</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.1.1 v.5, p.69</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear McKim</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boston, [Mass.],</subfield>
+    <subfield code="c">Sept. 11, 1858.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (2 p.) ;</subfield>
+    <subfield code="c">8 x 6 1/2 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This letter is concerned with the dates for the Pennsylvania and Ohio Anti-Slavery Societies&apos; anniversary meetings. William Lloyd Garrison would like to lecture on slavery in Pittsburgh, but he knows no one there. His recent trip to Vermont was pleasant and highly successful. He likes visiting no part of the country as much as Pennsylvania and feels a special attachment to progressive Quakerism. James and Lucretia Mott are in excellent health. Garrison received an interesting letter from Mary Grew.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Merrill, Walter M. Letters of William Lloyd Garrison,</subfield>
+    <subfield code="c">v.4, no.233.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">M&apos;Kim, J. Miller</subfield>
+    <subfield code="q">(James Miller),</subfield>
+    <subfield code="d">1810-1874</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grew, Mary,</subfield>
+    <subfield code="d">1813-1896.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Mott, James,</subfield>
+    <subfield code="d">1788-1868.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Mott, Lucretia,</subfield>
+    <subfield code="d">1793-1880.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="0">
+    <subfield code="a">Society of Friends.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">M&apos;Kim, J. Miller</subfield>
+    <subfield code="q">(James Miller),</subfield>
+    <subfield code="d">1810-1874,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">William Lloyd Garrison Correspondence (1823-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

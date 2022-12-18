@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02923ntm a22003857a 4500</leader>
+  <controlfield tag="001">3325315</controlfield>
+  <controlfield tag="005">20090430021800.0</controlfield>
+  <controlfield tag="008">090115s1848    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18481112</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3325315</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.24, p.43</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Caroline</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Poplar St., [Boston],</subfield>
+    <subfield code="c">Nov. 12, 1848. Sunday.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">10 1/8 x 8 1/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There is cross-writing on two pages of the letter. The greater part of the second leaf is torn off.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Anne Warren Weston dwells at length on a letter that Maria W. Chapman is said to have written to Mrs. (Mary) Howitt from Paris, and which was seen by a Miss Griffiths &quot;who wonders that &apos;this woman&apos; [meaning Maria] should dare to write about him in such a manner.&quot; The substance of the letter was that Mrs. Chapman thought Douglass selfish and regretted his receiving so many personal presents from England. Douglass appeared cast down and offended. Anne thinks it would be absurd to have a fight with Douglass, whom she considers merely weak and touchy. She regrets that Maria W. Chapman is in correspondence with Mrs. Howitt at all. Mrs. Follen read to Anne a letter from Miss Harriet Martineau concerning the Howitts. Anne is resolved &quot;not to open my mouth about [John] Saunders or Mary H. [Mary Howitt] or Harriet M. [Harriet Martineau] in connexion with the two first.&quot; She tells about a confidential letter from Dr. [John Bishop] Estlin to [Samuel] May. Anne exhorts Caroline Weston and Maria W. Chapman to be careful about what they say and write. She reports on the progress of the Liberty Bell. She fears it may be &quot;a stupid sort of affair. [James] Russell Lowell may bring it up with a wet sail, as his piece is yet to come in.&quot; She wishes Lady Byron had been willing to put her article (poem) into rhyme. She comments also on the contributions of (James) Haughton, R. D. Webb, Mary Carpenter, and Edwin Champan. She adivises Caroline: &quot;Don&apos;t abuse anybody but New Orgs.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Griffiths, Julia,</subfield>
+    <subfield code="d">d. 1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Howitt, Mary Botham,</subfield>
+    <subfield code="d">1799-1888.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Martineau, Harriet,</subfield>
+    <subfield code="d">1802-1876.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Lowell, James Russell,</subfield>
+    <subfield code="d">1819-1891.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Liberty bell (Boston, Mass.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

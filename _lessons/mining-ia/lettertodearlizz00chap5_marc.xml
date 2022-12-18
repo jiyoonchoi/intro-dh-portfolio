@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02293ntm a22003737a 4500</leader>
+  <controlfield tag="001">3445916</controlfield>
+  <controlfield tag="005">20091106102900.0</controlfield>
+  <controlfield tag="008">090115s1864    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18640215</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.32, p.7</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Lizzy &amp; Auguste</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Boston, Mass.],</subfield>
+    <subfield code="c">Tuesday, Feb&apos;y 15th, 1864.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">8 1/8 x 5 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Maria Weston Chapman and Aunt Mary [Gray Chapman] are looking forward to seeing the Elizabeth and Auguste Laugel and their children. Wendell Phillips is lecturing in New York tonight against President Lincoln. George Thompson is lecturing on England and the rebellion. Chapman is not troubled by the differences between the views of William Lloyd Garrison and Wendell Phillips. Garrison put Thompson in communication with Governor Andrew, who took him to the Union Club and is going to preside at the reception given him. John Forbes is busy with it. Chapman has &quot;left no stone unturned to prevent playing into the hands of the South.&quot; Fortunately &quot;the ruling class in England is not the governing class--nor are Roebuck &amp; Wharncliffe, et id gens omne either nation or government.&quot; Chapman was called to Mrs. [Frederick?] Tudor to help her arrange her late husband&apos;s papers.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Laugel, Auguste,</subfield>
+    <subfield code="d">1830-1914</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Laugel, Elizabeth Bates Chapman,</subfield>
+    <subfield code="d">b. 1831</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Forbes, John Murray,</subfield>
+    <subfield code="d">1813-1898.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Lincoln, Abraham,</subfield>
+    <subfield code="d">1809-1865.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Thompson, George,</subfield>
+    <subfield code="d">1804-1878.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Great Britain</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Laugel, Auguste,</subfield>
+    <subfield code="d">1830-1914,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Laugel, Elizabeth Bates Chapman,</subfield>
+    <subfield code="d">b. 1831,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

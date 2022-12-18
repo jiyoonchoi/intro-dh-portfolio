@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02330ntm a22003257a 4500</leader>
+  <controlfield tag="001">3635561</controlfield>
+  <controlfield tag="005">20110411225400.0</controlfield>
+  <controlfield tag="008">090115s1844    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18440801</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3635561</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.20, p.51-52</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sturge, Esther.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Darnley Terrace, Kent, [England],</subfield>
+    <subfield code="c">1st [day] 8 mo[nth] 1844.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (7 p.) ;</subfield>
+    <subfield code="c">9 5/8 x 7 7/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The first leaf of this manuscript consists of a letter by Esther Sturge presumably written to Maria Weston Chapman. Sturge says that she is &quot;too much out of health to write anything,&quot; but she is offers a &quot;few reflections.&quot; She explains previous statements about American affairs and says that in England, it is found best to unite on an issue even when differences exist. Esther Sturge wants to interest her widowed sister in Paris by arousing her from her &quot;useless sorrowing.&quot; Esther Sturge expresses sympathy for Maria W. Chapman.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The second leaf of this manuscript consists of a quotation by Sir Walter Scott and an essay by Esther Sturge. The essay brings out the contrast between the African blacks&apos; treatment of a white stranger and the white man&apos;s enslavement of the black man; it also brings out the mission of women in doing acts of mercy. Esther Sturge tells of an incident from the experiences of Mungo Park, the African explorer, who was worn out with a fruitless search for food in a jungle and came to a native village where three women kindly provided him with food and shelter.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In the postscript on page three, Esther Sturge writes: &quot;Mungo Park&apos;s sister lived near my dear parents at Croydon Surr[e]y &amp; delighted to speak of him &amp; the Africans.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Sturge, Esther</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Park, Mungo,</subfield>
+    <subfield code="d">1771-1806.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

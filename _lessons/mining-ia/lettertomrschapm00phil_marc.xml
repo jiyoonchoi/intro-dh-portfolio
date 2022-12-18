@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02210ntm a22003257a 4500</leader>
+  <controlfield tag="001">3557715</controlfield>
+  <controlfield tag="005">20100708220900.0</controlfield>
+  <controlfield tag="008">090115s1837    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18370731</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3557715</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.9, p.58A</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Phillips, Louisa.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">No[rth] Marshfield, [Mass.],</subfield>
+    <subfield code="c">July 31st, 1837.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">9 3/4 x 7 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Petitions were extensively circulated in North and South Marshfield. Louisa Phillips describes the reaction of those asked to sign the petitions, showing, in general, willingness to sign, but with indifference. Louisa Phillips says: &quot;Ours is not, generally speaking, a reading community. A good lecturer will do much to promote the cause; and I am happy to hear that Mr. Godding has commenced his labours in this County.&quot; Louisa Phillips asks Maria Weston Chapman&apos;s advice about forming a ladies&apos; anti-slavery society and wonders if, in view of the infrequent intercourse between the northern and southern parts of the town, two societies should be formed. She suggests that the Boston society allow these societies to be its auxilliaries and furnish them with work, books, etc. She requests a copy of a good constitution. Louisa Phillips asks: &quot;If I have an opportunity to give the petitions to the Senate into the hand of the Hon. Daniel Webster, shall I do so?&quot; She tells about the Juvenile [Anti-Slavery] Society in North Marshfield, which the Rev. Samuel J. May will visit this week.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Louisa</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webster, Daniel,</subfield>
+    <subfield code="d">1782-1852.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Marshfield.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery petitions.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

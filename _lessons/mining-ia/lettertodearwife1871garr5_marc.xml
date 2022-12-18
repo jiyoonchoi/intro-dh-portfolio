@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01650ntm a22003137a 4500</leader>
+  <controlfield tag="001">3779977</controlfield>
+  <controlfield tag="005">20120217112400.0</controlfield>
+  <controlfield tag="008">090115s1871    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18710602</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.1.1 v.8, p.6A</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Wife</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Orange, [N.J.],</subfield>
+    <subfield code="c">June 2, 1871.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">7 x 4 1/2 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">William Lloyd Garrison discusses his plans for going to the Progressive Friend&apos;s meeting in Longwood, Pa. Right now, William L. Garrison is staying with Wendell Phillips Garrison. Mr. and Mrs. (Norman B.?) Judd of Orange, New Jersey, and Abby Patton called on William L. Garrison. He gives instructions concerning Ellen Dow&apos;s arrival at Rockledge. If Mrs. Ellen Wright Garrison goes away for the summer, William L. Garrison suggests that she leave her sewing machine with Mrs. Helen Eliza Garrison. William L. Garrison plans to call on Mr. and Mrs. Andrew J. Davis.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, Helen Eliza,</subfield>
+    <subfield code="d">1811-1876</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Davis, Andrew Jackson,</subfield>
+    <subfield code="d">1826-1910.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dow, Ellen.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="0">
+    <subfield code="a">Society of Friends.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="0">
+    <subfield code="a">Garrison, Helen Eliza,</subfield>
+    <subfield code="d">1811-1876.</subfield>
+    <subfield code="e">recipient</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">William Lloyd Garrison Correspondence (1823-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

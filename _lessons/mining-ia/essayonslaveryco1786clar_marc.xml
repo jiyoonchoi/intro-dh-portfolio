@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01468nam a2200337Ia 4500</leader>
+  <controlfield tag="001">3583977</controlfield>
+  <controlfield tag="005">20100930141800.0</controlfield>
+  <controlfield tag="008">980821s1786    pau      b    000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   09019014 </subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">13372091</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)8300302</subfield>
+    <subfield code="z">(OCoLC)13372091</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm08300302</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="e">dcrb</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+    <subfield code="d">TEU</subfield>
+  </datafield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="h">lat</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">f------</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">HT1162</subfield>
+    <subfield code="b">.C52 1786</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">XH.710.C56E</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clarkson, Thomas,</subfield>
+    <subfield code="d">1760-1846.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">An essay on the slavery and commerce of the human species, particularly the African :</subfield>
+    <subfield code="b">translated from a Latin dissertation which was honoured with the first prize in the University of Cambridge, for the year 1785, with additions.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London, printed ;</subfield>
+    <subfield code="a">Philadelphia :</subfield>
+    <subfield code="b">Re-printed by Joseph Crukshank ...,</subfield>
+    <subfield code="c">M DCC LXXXVI. [1786].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">155, [1] p. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signatures: [A]B-TU².</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" ">
+    <subfield code="a">The history of slavery -- The African commerce or slave trade -- The slavery of the Africans in the European colonies.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Evans</subfield>
+    <subfield code="c">19561</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy ex libris (inscription): Theodore Sedgwick.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="v">Early works to 1800.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave trade</subfield>
+    <subfield code="z">Africa</subfield>
+    <subfield code="v">Early works to 1800.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Sedgwick, Theodore,</subfield>
+    <subfield code="d">1746-1813,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

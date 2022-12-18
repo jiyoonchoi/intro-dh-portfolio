@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01227cam a2200301Ia 4500</leader>
+  <controlfield tag="001">1776692</controlfield>
+  <controlfield tag="005">20021116122100.0</controlfield>
+  <controlfield tag="008">A10413s1853    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm28782910</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm28782910</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CGU</subfield>
+    <subfield code="c">CGU</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">BRL</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.G851 1853</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Griffiths, Julia,</subfield>
+    <subfield code="d">d. 1895,</subfield>
+    <subfield code="e">ed.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Autographs for freedom. /</subfield>
+    <subfield code="c">by Mrs. Harriet Beecher Stowe, and thirty-five other eminent writers.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London: :</subfield>
+    <subfield code="b">Sampson Low, Son &amp; Co. :</subfield>
+    <subfield code="b">Joseph Cassell,</subfield>
+    <subfield code="c">1853.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">viii, [1], 10-192 p. ;</subfield>
+    <subfield code="c">17 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Preface signed: &quot;On behalf of the &apos;Rochester Ladies&apos; Anti-Slavery Society, Julia Griffiths, secretary.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">A collection of signed articles, poems, etc., by men and women prominent in the anti-slavery movement. Most of the signatures are in facsimile.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Original printed boards.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Publisher&apos;s ads on front and rear endpapers.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">Controversial literature.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Autographs</subfield>
+    <subfield code="v">Facsimiles.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Stowe, Harriet Beecher,</subfield>
+    <subfield code="d">1811-1896.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Rochester Ladies&apos; Anti-slavery Society.</subfield>
+  </datafield>
+  <datafield tag="962" ind1=" " ind2=" ">
+    <subfield code="a">ALC-7953</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">02</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

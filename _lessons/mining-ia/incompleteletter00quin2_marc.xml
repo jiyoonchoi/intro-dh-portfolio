@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02181ntm a22003497a 4500</leader>
+  <controlfield tag="001">3562678</controlfield>
+  <controlfield tag="005">20100723163600.0</controlfield>
+  <controlfield tag="008">090115s1843    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18430709</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.18, p.76</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Quincy, Edmund,</subfield>
+    <subfield code="d">1808-1877.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Incomplete letter to] My Dear Caroline</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Dedham, [Mass.],</subfield>
+    <subfield code="c">July 9, 1843.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Edmund Quincy writes this letter in a humorous vein: &quot;King James [Sloan Gibbons] sways his lawful scepter unmolested and the baffled conspirators are mourning over the ruin of their hopes.Truly he is a new proof of the wisdom of the Chancellor Oxenstieras saying that it is marvellous how little wisdom it takes to govern the world.&quot; Edmund Quincy does not think that James S. Gibbons &quot;had sense enough to show our letters to Mrs. [Lydia Maria] Child who would have understood them.&quot; He thinks that at the next annual meeting &quot;the whole Hopper clique&quot; will be removed and Jones put in to stand for the American Society at New York. He commends the progress of the Hundred Conventions. Charles L. Remond has consented to go into the field at $100 per annum. Edmund Quincy quotes an ironic remark about Stephen S. Foster and his &quot;courting expenses.&quot; He comments on the resiliency of John A. Collins&apos;s health.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The end of this letter is missing.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Quincy, Edmund,</subfield>
+    <subfield code="d">1808-1877</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Child,</subfield>
+    <subfield code="c">Mrs.</subfield>
+    <subfield code="q">(Lydia Maria),</subfield>
+    <subfield code="d">1802-1880.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Collins, John A.</subfield>
+    <subfield code="q">(John Anderson),</subfield>
+    <subfield code="d">1810-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Foster, Stephen S.</subfield>
+    <subfield code="q">(Stephen Symonds),</subfield>
+    <subfield code="d">1809-1881.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Gibbons, J. S.</subfield>
+    <subfield code="q">(James Sloan),</subfield>
+    <subfield code="d">1810-1892.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">American Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Caroline Weston Correspondence (1834-1874)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

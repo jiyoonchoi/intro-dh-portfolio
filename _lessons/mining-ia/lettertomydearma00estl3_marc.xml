@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01604ntm a22003137a 4500</leader>
+  <controlfield tag="001">3484925</controlfield>
+  <controlfield tag="005">20100219160600.0</controlfield>
+  <controlfield tag="008">090115s1850    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18500429</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.25, p.7</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Madam</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Bristol, [England],</subfield>
+    <subfield code="c">April 29, 1850.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (7 p.) ;</subfield>
+    <subfield code="c">8 x 5 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, John Bishop Estlin tells what he knows of Julia Griffiths. He believes that she was more interested in Frederick Douglass than in the anti-slavery cause. He speaks of &quot;the amusement which the &apos;Liberator&apos; affords me.&quot; He does not show it to those whom he wishes to instruct in the true state of abolitionism in America. He tells of a case in the Thames Police Office, London, of a black sailor suing his captain for wages withheld from him while he was imprisoned in Charleston, Gaol [sic].</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Bowers.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Griffiths, Julia,</subfield>
+    <subfield code="d">d. 1895.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Liberator (Boston, Mass. : 1831.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

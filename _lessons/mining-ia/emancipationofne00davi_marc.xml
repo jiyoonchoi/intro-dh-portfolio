@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01243nam a2200289Ia 4500</leader>
+  <controlfield tag="001">3588156</controlfield>
+  <controlfield tag="005">20101021140600.0</controlfield>
+  <controlfield tag="008">090204s1824    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)480357465</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn480357465</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NHi</subfield>
+    <subfield code="c">N15</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nw-----</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">E441 Box</subfield>
+    <subfield code="b">.A9846 E4 1824</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">H.710.A10E2</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Emancipation of the Negro slaves in the West India colonies considered, with reference to its impolicy and injustice :</subfield>
+    <subfield code="b">in answer to Mr. Wilberforce&apos;s appeal /</subfield>
+    <subfield code="c">by the author of &apos;A statement of the claims of the West India colonies to a protecting duty against East India sugar.&apos;.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Printed for Whitmore and Fenn,</subfield>
+    <subfield code="c">1824</subfield>
+    <subfield code="e">(London :</subfield>
+    <subfield code="f">Printed by Thomas Davison)</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[2], 44 p. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">&quot;No. I.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Wilberforce, William,</subfield>
+    <subfield code="d">1759-1833.</subfield>
+    <subfield code="t">Appeal to the religion, justice, and humanity of the inhabitants of the British empire.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">West Indies, British.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">West Indies, British</subfield>
+    <subfield code="x">Justification.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slaves</subfield>
+    <subfield code="x">Emancipation</subfield>
+    <subfield code="z">West Indies, British.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Davison, Thomas,</subfield>
+    <subfield code="e">printer.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Whitmore &amp; Fenn,</subfield>
+    <subfield code="e">publisher.</subfield>
+  </datafield>
+  <datafield tag="752" ind1=" " ind2=" ">
+    <subfield code="a">England</subfield>
+    <subfield code="d">London.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

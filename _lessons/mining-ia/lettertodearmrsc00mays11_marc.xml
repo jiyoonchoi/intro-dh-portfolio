@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02013ntm a22003377a 4500</leader>
+  <controlfield tag="001">3540346</controlfield>
+  <controlfield tag="005">20100507145800.0</controlfield>
+  <controlfield tag="008">090115s1857    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18571113</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.29, p.58</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">May, Samuel,</subfield>
+    <subfield code="d">1810-1899.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">21 Cornhill, Boston, [Mass.],</subfield>
+    <subfield code="c">Fri. p.m. 13th Nov. [1857].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">7 7/8 x 4 7/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Samuel May, Jr., has inquired about the use of Horticultural Hall on School Street, Boston, for the anti-slavery bazaar and reports on the negotiations about the price. On March 9th, Mary Estlin sent Samuel May a copy of Mrs. Harriet Beecher Stowe&apos;s letter to Lord Shaftesbury, Lord Carlisle, Joseph Sturge, etc., &quot;relative to her use of the English Anti-Slavery funds confided to her care.&quot; This letter was entrusted to a Mr. Devell and only reached Samuel May today. Mrs. Stowe sent her letter care of Joseph Sturge, who sent it on &quot;to the select few only and suppressed it to the general.&quot; The reason for the suppression was Mrs. Stowe&apos;s eulogy of the American Anti-Slavery Society. Miss Estlin &quot;lays on us a special injunction not to let it [the letter] get into print.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">May, Samuel,</subfield>
+    <subfield code="d">1810-1899</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Shaftesbury, Anthony Ashley Cooper,</subfield>
+    <subfield code="c">Earl of,</subfield>
+    <subfield code="d">1801-1885.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stowe, Harriet Beecher,</subfield>
+    <subfield code="d">1811-1896.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Sturge, Joseph,</subfield>
+    <subfield code="d">1793-1859.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">American Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

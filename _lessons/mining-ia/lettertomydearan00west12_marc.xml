@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02231ntm a22003497a 4500</leader>
+  <controlfield tag="001">3412218</controlfield>
+  <controlfield tag="005">20090715130800.0</controlfield>
+  <controlfield tag="008">090115s1839    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18390304</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.11, p.51</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Anne</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New Bedford, [Mass.],</subfield>
+    <subfield code="c">March 4th, 1839, Monday.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (6 p.) ;</subfield>
+    <subfield code="c">9 3/4 x 7 7/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Deborah Weston writes this letter to Anne Warren Weston in &quot;journal fashion.&quot; She longs to have the Grimke letters. She comments: &quot;I can hardly conceive of their having fallen from grace.&quot; She quotes and comments on a remark in the new paper [the Massachusetts Abolitionist]. Deborah describes with critical comments, several people whom she has met socially. She regrets not having seen John A. Collins, &quot;for I love Collins.&quot; Deborah does not have much hope that Caroline Weston will come to New Bedford. She quotes a dialogue from Pickwick, as applicable to Caroline&apos;s case in regard to New Bedford. She repeats a reported conversation between James Congdon and Alanson St. Clair in which J.C. discouraged the latter and Henry Brewster Stanton from lecturing in New Bedford. Deborah exclaims on the villainy of Taunton. &quot;I wish you had [Gilbert H.?] Durfee&apos;s eyes out.&quot; Deborah improved her time faithfully, studying and always up till midnight.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b. 1814</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Collins, John A.</subfield>
+    <subfield code="q">(John Anderson),</subfield>
+    <subfield code="d">1810-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grimké, Angelina Emily,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grimké, Sarah Moore,</subfield>
+    <subfield code="d">1792-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">St. Clair, Alanson.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stanton, Henry B.</subfield>
+    <subfield code="q">(Henry Brewster),</subfield>
+    <subfield code="d">1805-1887.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Taunton.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Deborah Weston Correspondence (1830-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 6</subfield>
+  </datafield>
+</record>

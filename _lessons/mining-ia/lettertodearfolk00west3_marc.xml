@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>04219ntm a22004817a 4500</leader>
+  <controlfield tag="001">3328563</controlfield>
+  <controlfield tag="005">20090508021200.0</controlfield>
+  <controlfield tag="008">090115s1854    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18540530</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3328563</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.28, p.13</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Folks</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Essex Street, [Boston],</subfield>
+    <subfield code="c">May 30, 1854.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 leaves (16 p.) ;</subfield>
+    <subfield code="c">8 1/2 x 5 1/2 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Anne Warren Weston mentions a great fire at Wolf&apos;s Crag. She learned about the arrest of Anthony Burns from Mrs. Wendell Phillips. There are plans for a rescue. There was an eclipse of the sun. &quot;Phebe Garnault was smoking glass &amp; watching the sun...Wentworth Higginson and a number of men had come from Worcester.&quot; She mentions the the meetings of the Vigilance Committee. George Russell presided at the Faneuil Hall meeting. &quot;Bird of Walpole, Swift, a young Free Soiler, Wendell &amp; Parker spoke...&quot; Higginson led an attack on the courthouse. She praises Wendell Phillips. Anne &quot;talked about non-resistance&quot; to Mary Robbins, Mrs. Phillips, and others. Warren Weston arrived, and Anne describes the state of his health. She sent messages to churches asking for prayers for Anthony Burns. She names the ministers who complied with her request. Jonas Perkins was among them. Anne writes: &quot;Young Stiles held a tipping seance, but the oracles were rather misty.&quot; Anne went to town with W. Weston. It was rumored that the Boston merchants would buy Burns. Newport, RI, and Portsmouth sent troops. She went to town on the 30th of May and found much excitement, with &quot;Everybody standing at their shop doors up &amp; down Washington St., groups of people walking on the side walk...all hell seemed broke loose.&quot; A friend &quot;scolded non-resistance &amp; said she had fallen back on her brute instincts.&quot; The truck men threatened to mob Mr. &amp; Mrs. Phillips. Theodore Parker tried to get the Phillips to to come to his house for safety. Several anti-slavery people came to the Phillips&apos;s house. Anne tells about the witnesses at the trial. &quot;Then came the hope that Loring would declare him [Burns] free accompanied by the fear and belief that Hallett would arrest him again and take him before his son, who is a commissioner, &amp; hurry him off at once.&quot; Anne tells how news of courthouse activities was circulated. A Free Soil and a New England convention were in progress at the time. She disapproved of the New England convention wasting its time discussing non-resistance. Anne and Deborah Weston went to hear John P. Hale speak at the Free Soil convention. She thinks Mrs. H. B. should have &quot;shown her face to people in Boston.&quot; Wendell Phillips &quot;is having greatness thrust upon him, &amp; the time will come...for him to be Gov. of Mass walking with Jenny Green, we met the Mayor...The truth is he is a wavering, kindly, insignificant, scared to death man...A Hasty Pudding, Wendell calls him.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Burns, Anthony,</subfield>
+    <subfield code="d">1834-1862.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Ann Terry Greene,</subfield>
+    <subfield code="d">1813-1886.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garnault, Phebe.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Higginson, Thomas Wentworth,</subfield>
+    <subfield code="d">1823-1911.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Russell, George.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Bird, Charles Sumner.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Swift, John L.</subfield>
+    <subfield code="q">(John Lindsay),</subfield>
+    <subfield code="d">1828-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Parker, Theodore,</subfield>
+    <subfield code="d">1810-1860.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Robbins, Mary.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, R. Warren.</subfield>
+    <subfield code="q">(Richard Warren),</subfield>
+    <subfield code="d">1819-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Perkins, Jonas.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hallett, Benjamin Franklin,</subfield>
+    <subfield code="d">1797-1862.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Loring, Edward G.</subfield>
+    <subfield code="q">(Edward Greely),</subfield>
+    <subfield code="d">1802-1890.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hale, John P.</subfield>
+    <subfield code="q">(John Parker),</subfield>
+    <subfield code="d">1806-1873.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">New England Non-Resistance Society.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Free Soil Party (U.S.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Vigilance Committee (Boston, Mass.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 16</subfield>
+  </datafield>
+</record>

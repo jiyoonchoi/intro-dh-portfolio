@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02556ntm a22003617a 4500</leader>
+  <controlfield tag="001">3473353</controlfield>
+  <controlfield tag="005">20100204221500.0</controlfield>
+  <controlfield tag="008">090115s1847    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18471031</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3473353</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.23, p.58</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carpenter, Mary,</subfield>
+    <subfield code="d">1807-1877.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Bristol, [England],</subfield>
+    <subfield code="c">Oct. 31st, 1847.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 leaves (12 p.) ;</subfield>
+    <subfield code="c">7 7/8 x 4 7/8 in. and 7 5/8 x 5 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Mary Carpenter sent two boxes by different steamers. Because of the needs of the Irish, it was thought best this year not to make a public appeal. Nevertheless, a number of voluntary contributions came in, and the &quot;little exhibition&quot; held in Mary Carpenter&apos;s drawing room was visited by more than 200 persons. She tells of the indignation felt by Carpenter&apos;s class of &quot;ragged boys &amp; girls&quot; who, thinking of the United States as the land of slavery, &quot;were astonished that it was inhabited by Englishmen!&quot; Carpenter calls attention to a packet of tracts sent in the box. &quot;Such writing as often appears in the A.S. papers would probably do more in England to put back the cause than to advance it.&quot; She mentions as an example an article on Elihu Burritt in the Liberator. Mary Carpenter&apos;s three brothers could not conscientiously sign the Unitarian address. Carpenter offers lines [a poem] for the Liberty Bell, which she wishes to have reprinted in Howitt&apos;s Journal. [Mary Carpenter&apos;s poem, &quot;Offerings of English Women,&quot; appeared in the Liberty Bell for 1848, p. 238-242.] Carpenter would like Mr. [Samuel] May to get them into the Christian Register and Christian World. She remarks enthusiastically on a portrait of Dr. Channing, apparently in the possession of Mr. Estlin.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Carpenter, Mary,</subfield>
+    <subfield code="d">1807-1877</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Burritt, Elihu,</subfield>
+    <subfield code="d">1810-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Channing, William Ellery,</subfield>
+    <subfield code="d">1780-1842.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Liberty bell (Boston, Mass.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="v">Poetry.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="v">Newspapers.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 12</subfield>
+  </datafield>
+</record>

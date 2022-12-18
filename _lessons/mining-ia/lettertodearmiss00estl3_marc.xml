@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02470ntm a22003377a 4500</leader>
+  <controlfield tag="001">3488037</controlfield>
+  <controlfield tag="005">20100305093800.0</controlfield>
+  <controlfield tag="008">090115s1851    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18511212</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.25, p.138</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Miss Weston</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Park St[reet], [Bristol, England],</subfield>
+    <subfield code="c">Dec. 12, 1851.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (5 p.) ;</subfield>
+    <subfield code="c">8 1/4 x 5 3/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, Mary Anne Estlin wrote: &quot;Pray send Mr. Ja[me]s Grant (of the M[orning] Advertiser) a stylish Liberty Bell with a few lines of flattering gratitude from yourself.&quot; Estlin includes a list of names of other desirable recipients of the Liberty Bell. She discusses some controversial matter of policy which cannot, however, be clearly understood, since part of the letter is missing and damaged. [The bottom part of page 1 of this manuscript is missing, and the upper left corner of page 2 is mutilated.] Mary A. Estlin offers suggestions for the Bazaar Gazette; she wishes that emphasis is placed on the catholicity of the American Anti-Slavery Society&apos;s platform and on its fidelity to its original constitution. She suggests that the &quot;Declaration of Sentiment&quot; adopted at the formation of the society be included as it has &quot;elicited so much enthusiasm.&quot; She sends a journal containing an &quot;amusing report&quot; of an anti-slavery meeting recently here. The journal &quot;being an organ of the high Church party views the whole proceeding with supreme contempt,&quot; and gives it a far less partial account than the Mercury, which we have also sent to Boston. Estlin said: &quot;Mr. Davis, a chief actor, was a foe of Miss [Caroline] Weston&apos;s but his tool Mr. Kerry was Mrs. Chapman&apos;s special favorite.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Davis,</subfield>
+    <subfield code="c">Mr.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grant, James,</subfield>
+    <subfield code="d">1802-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Kerry,</subfield>
+    <subfield code="c">Mr.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">American Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="2" ind2="0">
+    <subfield code="a">Liberty bell (Boston, Mass.).</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+    <subfield code="e">recipient</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 6</subfield>
+  </datafield>
+</record>

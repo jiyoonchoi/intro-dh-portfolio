@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02389ntm a22004217a 4500</leader>
+  <controlfield tag="001">3685220</controlfield>
+  <controlfield tag="005">20110602224100.0</controlfield>
+  <controlfield tag="008">090115s1842    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18420128</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3685220</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.1.1 v.3, p.82</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear George</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Boston, Mass.],</subfield>
+    <subfield code="c">Friday noon, Jan 30, [i.e. Jan. 28, 1842].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (2 p.) ;</subfield>
+    <subfield code="c">9 3/4 x 7 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Mary Benson&apos;s condition has changed for the worse and &quot;is in as low and languishing a state as she can be, and live.&quot; The doctor thinks that George William Benson should come without delay. William Lloyd Garrison brought his son George Thompson Garrison home from Providence despite the child being quite sick with a lung fever.The meeting in the State House was quite grand. The speakers were: George Bradburn, Col. Miller of Vermont, James C. Fuller, Nathaniel P. Rogers, Abby Kelley (Foster), Charles L. Remond, Frederick Douglass, Wendell Phillips, and William Lloyd Garrison. George &quot;Bradburn, was tremendously severe and sarcastic, as usual.&quot; There may be a row at the Faneuil Hall meeting tonight. Garrison believes that &quot;the Irish Address may excite Yankee blood.&quot;</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Merrill, Walter M. Letters of William Lloyd Garrison,</subfield>
+    <subfield code="c">v.3, no.20.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Benson, George William,</subfield>
+    <subfield code="d">1808-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Benson, Mary,</subfield>
+    <subfield code="d">1797-1842.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Bradburn, George,</subfield>
+    <subfield code="d">1806-1880.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Fuller, James Cannings,</subfield>
+    <subfield code="d">1793-1847.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Foster, Abby Kelley,</subfield>
+    <subfield code="d">1811-1887.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, George Thompson,</subfield>
+    <subfield code="d">1836-1904.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Miller, Jonathan P.</subfield>
+    <subfield code="q">(Jonathan Peckham),</subfield>
+    <subfield code="d">1796-1847.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Remond, Charles Lenox,</subfield>
+    <subfield code="d">1810-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Rogers, Nathaniel Peabody,</subfield>
+    <subfield code="d">1794-1846.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Benson, George William,</subfield>
+    <subfield code="d">1808-1879,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">William Lloyd Garrison Correspondence (1823-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 2</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01249cam a2200289K  4500</leader>
+  <controlfield tag="001">2771302</controlfield>
+  <controlfield tag="005">20070129213400.0</controlfield>
+  <controlfield tag="008">860813s1830    ie            000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm14083556</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBE</subfield>
+    <subfield code="c">OBE</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">BRL</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">res. 4265.59 No. 13</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4265.69 No. 9</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7587.110</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Have slave-holders any right to be compensated on being deprived of the power to continue to steal men&apos;s personal liberty.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Dublin :</subfield>
+    <subfield code="b">Printed by Richard D. Webb for the Negro&apos;s Friend Society,</subfield>
+    <subfield code="c">1830.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">12 p.</subfield>
+    <subfield code="b">19 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">The Negro&apos;s Friend Society (Dublin) Tract,</subfield>
+    <subfield code="v">no. 2</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy has preliminary page (removed and enclosed in mylar) of formerly bound volume with inscription &quot;Joshua Coffin&apos;s Book, Newbury, Mass.&quot;, and a ms. table of contents.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">Great Britain</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Coffin, Joshua,</subfield>
+    <subfield code="d">1792-1864,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="810" ind1="2" ind2=" ">
+    <subfield code="a">Negro&apos;s Friend Society (Dublin).</subfield>
+    <subfield code="t">Tract ;</subfield>
+    <subfield code="v">no. 2.</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="k">4265.59 No. 13</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">rcp3539</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">02</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">Item location may need correction--conversion from Bates Hall catalog.</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">OCLC recon project 2002/03.</subfield>
+  </datafield>
+</record>

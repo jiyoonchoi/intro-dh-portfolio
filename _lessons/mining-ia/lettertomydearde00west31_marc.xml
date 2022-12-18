@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02803ntm a22003737a 4500</leader>
+  <controlfield tag="001">3281311</controlfield>
+  <controlfield tag="005">20090320120100.0</controlfield>
+  <controlfield tag="008">090115s1837    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18371025</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3281311</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.9, p.83</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My Dear Debora[h]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boston,</subfield>
+    <subfield code="c">Oct. 25 [through 30th], 1837, Wednesday evening.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">11 1/4 x 7 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Anne Warren Weston begins the letter with a discussion of Mrs. Maria Weston Chapman&apos;s report to the Boston Female Anti-Slavery Society. A committee met at Mrs. Chapman&apos;s home to alter &quot;any phraseology that they might deem objectionable.&quot; Mary S. Parker favored striking out the part referring to the Free Church and Deacon John Gulliver. At a meeting of the Society the matter was voted upon and Mrs. Chapman&apos;s Report was again accepted. &quot;Miss [Catherine M.] Sullivan &amp; the Balls felt bitter bad.&quot; The report &quot;is principally taken up with the ministry and deals with the Pastoral Letter properly, also with Mr. [Charles] Fitch &amp; Deacon [John] Gulliver &amp; gives most excellent dabs to Mr. Stearns of Cambridgeport, Robert [Bernard] Hale, Mr. Blodget &amp; others. Parts of it are really sublime.&quot; Anne thinks there must be a sifting of their society soon, &quot;but there is genuine grit in it.&quot; She gives various news of friends and relatives. &quot;Elizabeth Moorfield is supposed to be engaged to Augustus Richards. Mr. Garrison has written a long article in my book ... Ann Terry [Greene Phillips] and Wendell [Phillips] are as happy as Lords.&quot; Anne Weston and Maria Weston Chapman are on a committee to arrange for a course of lectures to be given by the Misses Grimke before &quot;our Society.&quot; Anne Weston called on the Grimkes, who are going to S. Scituate to lecture in Samuel J. May&apos;s meetinghouse. Richard Hildreth was here and is &quot;thoroughly whiggified.&quot; He is going to have a trial on November 14.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah</subfield>
+    <subfield code="d">b. 1814.</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Gulliver, John.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Sullivan, Catherine M.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grimké, Angelina Emily,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grimké, Sarah Moore,</subfield>
+    <subfield code="d">1792-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hildreth, Richard,</subfield>
+    <subfield code="d">1807-1865.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Moorfield, Elizabeth.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Boston Female Anti-slavery Society.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots:</subfield>
+  </datafield>
+</record>

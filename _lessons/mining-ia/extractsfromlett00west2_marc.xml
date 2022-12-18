@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02099ntm a22003377a 4500</leader>
+  <controlfield tag="001">3322498</controlfield>
+  <controlfield tag="005">20090425003300.0</controlfield>
+  <controlfield tag="008">090115s1843    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18430902</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3322498</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.19, p.28</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Extracts from letter of A.W. Weston [to unknown person]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Weymouth, [Mass.],</subfield>
+    <subfield code="c">Sept. 2nd, 1843.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Extract of letter handwritten by unknown person. Whereabouts of original manuscript unknown.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">David Lee Child&apos;s piece &quot;Where are we,&quot; in the National Anti-Slavery Standard, has stirred up Abby Kelley. Anne Warren Weston does not think that she will &quot;satisfy or enlighten Abby.&quot; A letter came from Child, &quot;defending his course about [Lewis] Tappan.&quot; Anne went to the Southwicks to see Abby Kelley and found her &quot;looking well as to beauty tho delicate as to health.&quot; Abby Kelley was pleased with the Liberty Party meeting in Buffalo, where she spoke on behalf of the American Anti-Slavery Society. But the &quot;New Org&apos;s from the East, [Henry B.] Stanton &amp; the rest, felt very bad about her speaking and hated her. Abby thinks that multitudes of good honest folks from Ohio &amp; New York were present who really thought the American Society a Non Resistant Soc. and that she was enabled to undeceive them.&quot; Miss Kelley admires William A. White.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Child, David Lee,</subfield>
+    <subfield code="d">1794-1874.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Foster, Abby Kelley,</subfield>
+    <subfield code="d">1811-1887.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">White, William Abijah,</subfield>
+    <subfield code="d">1818-1856.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stanton, Henry B.</subfield>
+    <subfield code="q">(Henry Brewster),</subfield>
+    <subfield code="d">1805-1887.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">American Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Liberty Party (U.S. : 1840-1848)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

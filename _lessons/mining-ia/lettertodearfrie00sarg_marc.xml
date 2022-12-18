@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02166ntm a22003257a 4500</leader>
+  <controlfield tag="001">3732694</controlfield>
+  <controlfield tag="005">20110923012600.0</controlfield>
+  <controlfield tag="008">090115s1860    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18601011</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3732694</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.1.1 v.5, p.111</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sargent, John T.</subfield>
+    <subfield code="q">(John Turner),</subfield>
+    <subfield code="d">1808-1877.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Friend Garrison</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">70 Dover Street, [Boston?, Mass.],</subfield>
+    <subfield code="c">Oct. 11th/[18]60.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (1 p.) ;</subfield>
+    <subfield code="c">8 x 5 1/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On page one of this manuscript, there is letter by John T. Sargent to William Lloyd Garrison. J. P. Blanchard has asked John T. Sargent to give William Lloyd Garrison a pamphlet.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On page two, there is an incomplete letter by William Lloyd Garrison presumably to Nathan Robinson Johnston, [Oct. 15, 1860]. The letter is apparently a rough draft. (See Call No. Ms.A.1.1 v.5, p.112 for the final version of this letter, dated Oct. 15, 1860.) Garrison writes that bronchial trouble prevents him from attending the convention in Bradford, Vermont. He has pleasant memories of his visit to Vermont two years ago. Wherever he travels, he has found friends and hospitality. If those people who were prejudiced against him listened to his speeches, they would have found them to be repetitions of the words of the prophets and apostles. The only abolitionism he has ever advocated is embodied in the 58th chapter of Isaiah, the Golden Rule, and the Declaration of Independence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Sargent, John T.</subfield>
+    <subfield code="q">(John Turner),</subfield>
+    <subfield code="d">1808-1877</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Johnston, N. R.</subfield>
+    <subfield code="q">(Nathan Robinson),</subfield>
+    <subfield code="d">b. 1820</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Blanchard, Joshua P.</subfield>
+    <subfield code="q">(Joshua Pollard),</subfield>
+    <subfield code="d">1782-1868.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">William Lloyd Garrison Correspondence (1823-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 2</subfield>
+  </datafield>
+</record>

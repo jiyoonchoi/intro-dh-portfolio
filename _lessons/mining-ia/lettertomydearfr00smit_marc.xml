@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02289ntm a22003617a 4500</leader>
+  <controlfield tag="001">3559675</controlfield>
+  <controlfield tag="005">20100714144000.0</controlfield>
+  <controlfield tag="008">090115s1840    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18401125</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3559675</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.14, p.44</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith, Evelina A. S.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hingham, [Mass.],</subfield>
+    <subfield code="c">Oct. 25, [18]40.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, Evelina A. S. Smith writes: &quot;...I have suffered the impressed to go abroad, that I should take a table, in part and mostly, to waken up the dormant zeal that is slumbering in the hearts of our Hingham Abolitionists. I feel that much more will be contributed, if it is known that one of their number is to superintend the sale of their contributions.&quot; The Hingham Anti-Slavery Society &quot;is somewhat new organized in spirit, although not in form.&quot; She thanks Caroline Weston for her offer to make Mrs. Maria W. Chapman&apos;s house her headquarters. Mr. Increase S. Smith&apos;s contributions to the Liberty Bell are nonexistent, as &quot;he has the Bird fever now.&quot; She comments on (George?) Ripley&apos;s &quot;letter to his people.&quot; Evelina A. S. Smith tells of a visit by Amos Bronson Alcott in which &quot;he complained much of the treatment he had received, and there was a tone of bitterness, in the conversation, that I have never seen him have before.&quot; She refers to the Transcendentalists&apos; plan of forming a community in Concord. Adin Ballou and his followers &quot;are anxious for such a society.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Smith, Evelina A. S.</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Alcott, Amos Bronson,</subfield>
+    <subfield code="d">1799-1888.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Ballou, Adin,</subfield>
+    <subfield code="d">1803-1890.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Ripley, George,</subfield>
+    <subfield code="d">1802-1880.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Smith, Increase S.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Hingham.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882.</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Caroline Weston Correspondence (1834-1874)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

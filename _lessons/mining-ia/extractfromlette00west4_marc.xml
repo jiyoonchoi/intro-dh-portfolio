@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02510ntm a22003257a 4500</leader>
+  <controlfield tag="001">3325234</controlfield>
+  <controlfield tag="005">20090430021800.0</controlfield>
+  <controlfield tag="008">090115s1848    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18481002</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3325234</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.24, p.34</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Extract from letter of A.W. Weston [to unknown person]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Weymouth, [Mass.],</subfield>
+    <subfield code="c">Oct. 2nd, 1848.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (2 p.) ;</subfield>
+    <subfield code="c">7 7/8 x 5 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Extract of letter handwritten and transcribed by unknown person. Whereabouts of original manuscript is unknown.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Anne Warren Weston received a note from Miss (Harriet) Martineau enclosing two articles for the Liberty Bell, one by &quot;the venerable Mrs. Fletcher late of Edinburgh,&quot; the other by &quot;our beloved Jane Arnold.&quot; Anne quotes Harriet Martineau: &quot;Mrs. Fletchers is a good sensible piece. Jane&apos;s is very so so, but seeing it is she. Jane Arnold. Why, I suppose it will grace the Bell.&quot; [The Liberty Bell for 1849 contains &quot;Nature&apos;s Teachings&quot; by Jane M. Arnold, p. 200-205, and a &quot;Letter to Harriet Martineau&quot; by Eliza Fletcher, p. 263-268.] Anne further quotes Harriet Martineau&apos;s letter: &quot;I can give you no idea what it has been to me to meet your sister. It will do me good for the rest of my life.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Also with the same Call No. is an envelope, perhaps sent by Anne Warren Weston and addressed to: &quot;Miss Emma Forbes Weston, Care of Messrs. Greene &amp; Co., Paris, France.&quot; Written on the flap and inside the open envelope is a note by Anne W. Weston. Anne thinks that &quot;the Fair things&quot; should come by way of England. Anne and Lucia (Weston) will probably not go to New York till after the fair. They are all well at home. Inside the covered part of the envelope is the postscript: &quot;Can&apos;t you hook up some French autographs.&quot; The envelope is postmarked &quot;Weymouth, Mass, Nov. 6&quot; and &quot;Calais, [France], 20 Nov. [18]49.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Emma Forbes,</subfield>
+    <subfield code="d">b. 1825-</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Arnold, Jane M.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Martineau, Harriet,</subfield>
+    <subfield code="d">1802-1876.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Emma Forbes,</subfield>
+    <subfield code="d">b. 1825-,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

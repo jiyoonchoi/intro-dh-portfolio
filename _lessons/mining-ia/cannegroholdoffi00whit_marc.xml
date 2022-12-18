@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01977nam a2200385 a 4500</leader>
+  <controlfield tag="001">3614828</controlfield>
+  <controlfield tag="005">20101122112200.0</controlfield>
+  <controlfield tag="008">910501s1869    gau      v   s000 0 eng d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">4425440</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)191229744</subfield>
+    <subfield code="z">(OCoLC)4425440</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn191229744</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdBJ</subfield>
+    <subfield code="e">bdrb</subfield>
+    <subfield code="c">AQM</subfield>
+    <subfield code="d">OCLCG</subfield>
+    <subfield code="d">AFU</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ga</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">E185.61</subfield>
+    <subfield code="b">.G34</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7586.58 No.13</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">White, Richard W.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Can a Negro hold office in Georgia? :</subfield>
+    <subfield code="b">Decided in Supreme Court of Georgia, June term, 1869. : Arguments of counsel, with the opinions of the judges, and the decision of court in the case of Richard W. White, clerk of Superior Court of Chatham Co., plaintiff in error. Versus the state of Georgia, ex relatione Wm. J. Clements, defendant in error. } Quo warranto. Chatham. /</subfield>
+    <subfield code="c">Phonographically reported by Eugene Davis.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Atlanta, Ga.: :</subfield>
+    <subfield code="b">Daily Intelligencer Book and Job Office.,</subfield>
+    <subfield code="c">1869.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">179 p., [1] p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">&quot;Appendix, containing the messages of His Excellency Rufus B. Bullock, Governor of Georgia, to the legislature of that State on the occasion of the expulsion of the colored members; also the opinions of distinguished legal gentlemen of Georgia, upon the decision of the Supreme Court declaring Negores eligible to office.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Last page blank.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Reconstruction (U.S. history, 1865-1877)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">African Americans</subfield>
+    <subfield code="x">Civil rights</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">African Americans</subfield>
+    <subfield code="z">Georgia.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">African Americans</subfield>
+    <subfield code="x">Suffrage.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Georgia</subfield>
+    <subfield code="x">Politics and government</subfield>
+    <subfield code="y">1865-1950.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bullock, Rufus B.</subfield>
+    <subfield code="q">(Rufus Brown),</subfield>
+    <subfield code="d">1834-1907.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Clements, William J.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Davis, Eugene.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">Georgia.</subfield>
+    <subfield code="b">Supreme Court.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">Georgia.</subfield>
+    <subfield code="b">Governor (1868-1871 : Bullock)</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Daily Intellgencer Book and Job Office,</subfield>
+    <subfield code="e">printer.</subfield>
+  </datafield>
+  <datafield tag="752" ind1=" " ind2=" ">
+    <subfield code="a">United States</subfield>
+    <subfield code="b">Georgia</subfield>
+    <subfield code="d">Atlanta.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

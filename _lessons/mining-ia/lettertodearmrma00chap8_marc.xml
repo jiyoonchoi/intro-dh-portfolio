@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02680ntm a22003257a 4500</leader>
+  <controlfield tag="001">3452266</controlfield>
+  <controlfield tag="005">20091120145700.0</controlfield>
+  <controlfield tag="008">090115s1885    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18850513</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.32, p.94</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Mr. May</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Weymouth, [Mass.],</subfield>
+    <subfield code="c">May 13th, 1885.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (8 p.) ;</subfield>
+    <subfield code="c">7 1/8 x 4 1/2 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Maria Weston Chapman refers to a &quot;Pierpont Sonnet&quot; in connection with an anniversary program and a speech by Samuel May. Chapman does not object to the publication of the sonnet: &quot;As to initials...why should I care? No reader of the Xn [Xian] Reporter is likely to know them except yourself.&quot; Mrs Miller, who is preparing to write a monograph of Harriet Martineau, asked Chapman for materials. Chapman wished her success, &quot;as for the good of the world there could not be too many lives of so grand a character &amp; so noble a woman.&quot; Some parts of Mrs. Miller&apos;s little book are very good and then, &quot;when she interviewed James Martineau &amp; Ellen Higginson (the dear sister of Harriet) [she] obtained a quantity of poison flies with which she has spoiled her pot of ointment.&quot; James Martineau &quot;furnished her with hints, she says, for which she thanks him in the preface. Then, she becomes scandalous...&quot; James Martineau and Mrs. Miller &quot;together set themselves to deny to Harriet&apos;s autobiography any claim to credit or notice: -- but six editions of a 6 dollar book are proof enough of its goodness, ...&quot; James Martineau was Harriet&apos;s idol too, &quot;till he compelled her to know him as the bad man &amp; family tyrant he is...&quot; Mr. Thomas Martineau, the coexecutor with Maria Weston Chapman, must not be blamed for her exposure of James Martineau. Mrs. Miller did not know Harriet Martineau. She is James Martineau&apos;s tool and &quot;women all see that she does not know enough to defend herself from being used to her own discredit.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">May, Samuel,</subfield>
+    <subfield code="d">1810-1899</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Martineau, Harriet,</subfield>
+    <subfield code="d">1802-1876.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Martineau, James,</subfield>
+    <subfield code="d">1805-1900.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Miller, Florence Fenwick,</subfield>
+    <subfield code="d">1854-1936.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Pierpont, John,</subfield>
+    <subfield code="d">1785-1866.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">May, Samuel,</subfield>
+    <subfield code="d">1810-1899,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

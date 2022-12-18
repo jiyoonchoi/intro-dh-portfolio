@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02986ntm a22004457a 4500</leader>
+  <controlfield tag="001">3410038</controlfield>
+  <controlfield tag="005">20090711022400.0</controlfield>
+  <controlfield tag="008">090115s1837    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18370414</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3410038</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.9, p.27</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dearest Maria</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New Bedford, [Mass.],</subfield>
+    <subfield code="c">[not after 1837 April 14].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">9 3/4 x 7 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Deborah Weston thinks that a school for colored children would have no chance for success here, and also does not consider an exclusively colored school desirable, as black children are admitted to the public schools on terms of perfect equality. She refers to efforts made to keep Judith Cook&apos;s school. Deborah has 44 scholars, has never worked so hard in her life, and she has been so tired that she cannot sleep at night. Her arduous anti-slavery labors may have added to her fatigue. Mr. [John T.] Emerson and Mr. Underwood refused to hear Dr. Ely preach in Mr. Holmes&apos;s church. Deborah tells about the newspaper controversy between Mr. Pope, father-in-law of Mr. Choules, and Mr. Holmes (strongly against abolition). A number of New Bedford people went to Fall River to the county anti-slavery meeting. Henry B. Stanton and Amos Dresser were much admired. Deborah Weston does not want to wear Ann Greene Chapman&apos;s dress. She praises Mrs. Lydia Maria Child&apos;s notice of Anne Greene Chapman&apos;s death. Anne W. Weston&apos;s poetry was also admired. Deborah is glad that Caroline Weston is not going to leave Boston. Deborah tells Maria W. Chapman that if she hears of any situation near Boston, to engage it for her. She tells of Mrs. Charlotte Taber&apos;s narrow escape from death. The Quakers here are anxious to have Angelina Emily Grimke attend their yearly meeting.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">For more about the notice of Ann Greene Chapman&apos;s death, see Call No. Ms.A.9.2 v.9, p.20.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b. 1814</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Ann Greene,</subfield>
+    <subfield code="d">1802-1837.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Child,</subfield>
+    <subfield code="c">Mrs.</subfield>
+    <subfield code="q">(Lydia Maria),</subfield>
+    <subfield code="d">1802-1880.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Cook, Judith.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dresser, Amos,</subfield>
+    <subfield code="d">1812-1904.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Emerson, John T.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Holmes,</subfield>
+    <subfield code="c">Mr.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stanton, Henry B.</subfield>
+    <subfield code="q">(Henry Brewster),</subfield>
+    <subfield code="d">1805-1887.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Taber, Charlotte.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Pope,</subfield>
+    <subfield code="c">Mr.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Students, Black</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Deborah Weston Correspondence (1830-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

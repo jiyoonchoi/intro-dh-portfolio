@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02636ntm a22003377a 4500</leader>
+  <controlfield tag="001">3506780</controlfield>
+  <controlfield tag="005">20100415135300.0</controlfield>
+  <controlfield tag="008">090115s1845    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18451130</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.4.6A v.1, p.93-95</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jennings, Isabel.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Cork, Ireland],</subfield>
+    <subfield code="c">Sunday evening, Nov. 30, [1845].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 leaves (10 p.) ;</subfield>
+    <subfield code="c">7 1/4 x 4 1/2 in.; and envelope 2 7/8 x 4 1/2 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In order to save on duty, the prices on the merchandise sent for the Boston anti-slavery fair have been marked at one third of the price they are expected to fetch. Isabel Jennings requests that Maria Weston Chapman send a few newspapers with an account of the fair. All the brushes sent from &quot;poor men&quot; are from those in the Messrs Narian&apos;s brush manufactory. Miss Esther Bright, sister of John Bright, M.P., sent a parcel of &quot;nice things,&quot; but since they were delayed, they will have to remain until next year. Isabel Jennings mentions the impression made by Frederick Douglass&apos;s lectures. Several pieces of poetry have been composed in honor of Douglass&apos;s visit. Maria W. Chapman &quot;will plan our Committee by selecting one copy of each [poem] for yourself, should you think them worthy of your acceptance.&quot; Mary B. Tuckey is the writer of several small pieces. Any of the poems that Maria W. Chapman approves of may be printed. Isabel Jennings signs this letter, &quot;your sincere friends, &apos;The Cork Ladies Anti-Slavery Soiciety&apos;! Isabel Jennings, Sec[retary].&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In the postscript, Isabel Jennings transcribes part of a letter from Richard Davis Webb concerning the valuation of a drawing, etc. Isabel Jennings also gives a list of people to whom copies of the National Anti-Slavery Standard should be sent.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes an envelope with the delivery address: Mrs. M.W. Chapman, 39 Summer Street, Boston, U.S. America. And the notation: &quot;Prepaid---Per first Steamer for Boston, U.S. America.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Jennings, Isabel</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Tuckey, Mary B.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+    <subfield code="e">recipient</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 12</subfield>
+  </datafield>
+</record>

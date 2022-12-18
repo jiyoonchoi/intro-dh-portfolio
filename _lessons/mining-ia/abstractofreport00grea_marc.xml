@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02204nam a2200313Ia 4500</leader>
+  <controlfield tag="001">3614804</controlfield>
+  <controlfield tag="005">20101122134100.0</controlfield>
+  <controlfield tag="008">830718s1833    enk      b    000 0 eng d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">12546601</subfield>
+    <subfield code="a">47911858</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)9712504</subfield>
+    <subfield code="z">(OCoLC)12546601</subfield>
+    <subfield code="z">(OCoLC)47911858</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm09712504</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IXA</subfield>
+    <subfield code="c">IXA</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">NYP</subfield>
+    <subfield code="d">RBN</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nw-----</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">HT1091</subfield>
+    <subfield code="b">.A48 1833n</subfield>
+  </datafield>
+  <datafield tag="082" ind1=" " ind2="4">
+    <subfield code="a">326</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7574.5.5 no. 5</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Great Britain.</subfield>
+    <subfield code="b">Parliament.</subfield>
+    <subfield code="b">House of Lords.</subfield>
+    <subfield code="b">Committee on Colonial Slavery.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Abstract of the report of the Lords committees on the condition and treatment of the colonial slaves, and of the evidence taken by them on that subject; :</subfield>
+    <subfield code="b">with notes /</subfield>
+    <subfield code="c">by the editor.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Printed for the Society for the abolition of slavery throughout the British dominions; sold by J. Hatchard and Son [etc.],</subfield>
+    <subfield code="c">1833.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 p. l., 122 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Running title: Report of the Committee of the House of lords on colonial slavery.</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) ex libris (inscription): C.W. Denison.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. The utter extinction of slavery, an object of scripture prophecy -- 2. Songs of a sojourn -- 3. Is slavery defensible from scripture? -- 4. Facts designed to exhibit the real character and tendency of the American Colonization Society -- 5. Abstract of the report of the Lords committees on the condition and treatment of the colonial slaves -- 6. Analysis of the report of a Committee of the House of commons on the extinction of slavery -- 7. Thoughts on the necessity of improving the condition of the slaves in the British colonies -- 8. Colonial slavery -- 9. A letter to Thomas Clarkson; and Prejudice vincible -- 10. Substance of the speech delivered at the meeting of the Edinburgh Society for the Abolition of Slavery.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">West Indies, British</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Denison, Charles Wheeler,</subfield>
+    <subfield code="d">1809-1881,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Society for the Mitigation and Gradual Abolition of Slavery Throughout the British Dominions.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

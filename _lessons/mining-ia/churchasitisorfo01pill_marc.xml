@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01451cam a2200313Ia 4500</leader>
+  <controlfield tag="001">3258941</controlfield>
+  <controlfield tag="005">20110222162200.0</controlfield>
+  <controlfield tag="008">790105s1885    nhu           000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   11011715 </subfield>
+  </datafield>
+  <datafield tag="029" ind1="1" ind2=" ">
+    <subfield code="a">AU@</subfield>
+    <subfield code="b">000008809069</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3258941</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)4522092</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm04522092</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">AFU</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us---</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.P64</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">5574.101 no.1-3</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pillsbury, Parker,</subfield>
+    <subfield code="d">1809-1898.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The church as it is: :</subfield>
+    <subfield code="b">or, The forlorn hope of slavery. /</subfield>
+    <subfield code="c">by Parker Pillsbury.</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2d ed.--rev. and improved.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Concord, N.H. :</subfield>
+    <subfield code="b">Printed by the Republican Press Association,</subfield>
+    <subfield code="c">1885.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">96 p. ;</subfield>
+    <subfield code="c">18 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Reprint of the &quot;Second edition--revised and improved.&quot; Boston, 1847; with a &quot;Preface to the third edition&quot; (p. [3]-4).</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy ex libris (inscription): Henry I. Bowditch; three page ms. note from Bowditch on the three pamphlets included in this volume precedes this item.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. The church as it is, or, The forlorn hope of slavery -- 2.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery and the church.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Controversial literature.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bowditch, Henry I.</subfield>
+    <subfield code="q">(Henry Ingersoll),</subfield>
+    <subfield code="d">1808-1892,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1ST</subfield>
+    <subfield code="b">BANF</subfield>
+    <subfield code="h">5574.101 no.1</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2009). Backstage Library Works.</subfield>
+  </datafield>
+</record>

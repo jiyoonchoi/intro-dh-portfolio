@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02355ntm a22003617a 4500</leader>
+  <controlfield tag="001">3780759</controlfield>
+  <controlfield tag="005">20120223145800.0</controlfield>
+  <controlfield tag="008">090115s1872    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18720621</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.1.1 v.8, p.18A</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Russell, Sarah Parkman Shaw,</subfield>
+    <subfield code="d">1811-1888.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Copy of letter to] Dear Mr. Garrison</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[June 21,] 1872.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (1 p.) ;</subfield>
+    <subfield code="c">9 3/4 x 7 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Handwritten transcription, in the hand of another person. Whereabouts of original manuscript unknown.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The first paragraph of this manuscript consists of a letter by Mrs. Sarah Parkman Shaw Russell to William Lloyd Garrison. Mrs. Russell asks if she can add her name to the testimonial for William Lloyd Garrison&apos;s &quot;long and tried services for the Anti-Slavery cause.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The rest of this manuscript consists of a separate letter by William Lloyd Garrison to Samuel May Jr., minus the salutation. Garrison explains that Mrs. Russell enclosed in her note a check for three hundred dollars. Garrison asks Samuel May&apos;s opinion as to whether a public acknowledgement of Mrs. Russell&apos;s gift is necessary. Garrison gives news of his family. Henry Villard&apos;s health &quot;is somewhat improved.&quot; Henry Villard&apos;s family are in Baden-Baden. William Lloyd Garrison Jr.&apos;s family are in Jefferson, New Hampshire. Garrison complains of the hot weather, but Mrs. Garrison has not suffered from the heat since her paralytic attack. Garrison expresses regret at hearing of Richard Davis Webb&apos;s enfeebled health.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">May, Samuel,</subfield>
+    <subfield code="d">1810-1899</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Russell, Sarah Parkman Shaw,</subfield>
+    <subfield code="d">1811-1888</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, Helen Eliza,</subfield>
+    <subfield code="d">1811-1876.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1838-1909.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Villard, Henry,</subfield>
+    <subfield code="d">1835-1900.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Russell, Sarah Parkman Shaw,</subfield>
+    <subfield code="d">1811-1888.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="0">
+    <subfield code="a">May, Samuel,</subfield>
+    <subfield code="d">1810-1899.</subfield>
+    <subfield code="e">recipient</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">William Lloyd Garrison Correspondence (1823-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

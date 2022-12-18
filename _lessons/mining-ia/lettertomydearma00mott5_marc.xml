@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02399ntm a22003377a 4500</leader>
+  <controlfield tag="001">3552856</controlfield>
+  <controlfield tag="005">20100616220900.0</controlfield>
+  <controlfield tag="008">090115s1842    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18421130</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3552856</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.17, p.122-123</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mott, Lucretia,</subfield>
+    <subfield code="d">1793-1880.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Maria</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Philad[elphi]a, [Penn.]</subfield>
+    <subfield code="c">11 mo[nth] 30th [day] 1842.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (5 p.) ;</subfield>
+    <subfield code="c">10 x 7 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Lucretia Mott has obtained permission from &quot;Emmeline&quot; and Sarah Douglass to have their pieces published in the Liberty Bell. Emmeline is the pseudonym of Mira Townsend; for the first time, Mira Townsend made no objection to her real name being used when her article is printed in the Liberty Bell. Lucretia Mott includes some lines written by Benjamin Rush Plumly about Dr. Channing. Lucretia Mott refers to Charles C. Burleigh&apos;s visit with Maria Weston Chapman. Lucretia Mott writes: &quot;I should feel no confidence in William [Henry] Burleigh, that he would not again betray our cause to please his party.&quot; However, Lucretia Mott entertained Burleigh and his wife when they passed through the city and found no effort in receiving him &quot;as Charles&apos;s brother, and as an A. S. [Anti-Slavery] poet.&quot; Lucretia Mott was admonished for her too great tolerance. In a conversation, Charles T. Torrey admitted his wrong. Lucretia Mott and her husband have returned from a tour in the south; she reports on the anti-slavery meetings in cities and towns.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The last part of this letter was written on the blank pages of a flier (printed matter) of the &quot;Circular of the Anti-Slavery Convention of American Women.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Mott, Lucretia,</subfield>
+    <subfield code="d">1793-1880</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Burleigh, William Henry,</subfield>
+    <subfield code="d">1812-1871.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Channing, William Ellery,</subfield>
+    <subfield code="d">1780-1842.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Townsend, Mira Sharples,</subfield>
+    <subfield code="d">1798-1859</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 6</subfield>
+  </datafield>
+</record>

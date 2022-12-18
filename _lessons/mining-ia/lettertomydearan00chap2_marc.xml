@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03127ntm a22003377a 4500</leader>
+  <controlfield tag="001">3443372</controlfield>
+  <controlfield tag="005">20091029223800.0</controlfield>
+  <controlfield tag="008">090115s1862    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18620706</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3443372</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.31, p.9</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Anne</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Weymouth, [Mass.],</subfield>
+    <subfield code="c">Sunday, July 6, [1862].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">6 leaves (20 p.) ;</subfield>
+    <subfield code="c">8 x 4 7/8 in. and 8 3/8 x 5 3/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, Maria Weston Chapman discusses the news &quot;that the army has met with disaster--owing to want of men. Overpowered by numbers, seems to be the cry...&quot; General Stonewall Jackson was reported killed. Chapman mentions certain princes who &quot;were ubiquitous on board every ship in the fleet at the same time. They rallied &amp; led the men, fighting like American citizens &amp; French princes under one.&quot; Chapman considers him best who battles for the world&apos;s advance. Chapman said: &quot;I am sorry to see ignorance &amp; prejudice on all sides prevailing.&quot; A set of people are afraid of war with France and England. The ideological warfare is slow, because people are at war in their own minds. Chapman said: &quot;They who have renounced slavery in their own hearts, have yet a pride in not acknowledging that this is a revolution,--&amp; cry &apos;the Union &amp; Constitution as they were in 1860.&apos;--This makes the U.S. appear scarcely better to the world at large than the Rebels.&quot; Chapman daily observes political selfishness at work. She said: &quot;All this mingling of reasoning &amp; feeling sprung up in my mind on hearing a pro-slavery patriot rail against Europe.&quot; To those who imagine her identified in feeling with the English nobility, Maria W. Chapman replies: &quot;It is no part of my mission to defend Duchesses.&quot; She discourses on the wrong attitude of American patriots twoard the Lancashire cotton workers. Chapman comments that &quot;Garrison is shining at this hour in contrast with Pillsbury &amp; Co.&quot; Chapman received a note from C[harles] Follen &quot;saying he was off like a shot for Port Royal.&quot; She refers to General [David] Hunter&apos;s proclamation declaring the slaves of rebel states as free. Chapman wrote: &quot;Our defeat before Richmond comes from not having drilled the blacks a year ago.&quot; She mentions the death of Mrs. Howe. James Lowell, son of Charles, was killed last week in battle.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes accompanying envelope.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dicey, Anne Greene Chapman,</subfield>
+    <subfield code="d">d. 1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Follen, Charles,</subfield>
+    <subfield code="d">1796-1840.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Civil War, 1861-1865.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Great Britain</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dicey, Anne Greene Chapman,</subfield>
+    <subfield code="d">d. 1879,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 22</subfield>
+  </datafield>
+</record>

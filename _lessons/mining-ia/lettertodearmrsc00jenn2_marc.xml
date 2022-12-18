@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03232ntm a22004217a 4500</leader>
+  <controlfield tag="001">3503654</controlfield>
+  <controlfield tag="005">20100415094600.0</controlfield>
+  <controlfield tag="008">090115s1843    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18430412</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.18, p.28</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jennings, Isabel.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Cork, [Ireland],</subfield>
+    <subfield code="c">April 12, 1843.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">9 x 7 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On pages 1-3 of this manuscript, there is a letter by Isabel Jennings to Maria Weston Chapman. Maria W. Chapman&apos;s letter was read to the anti-slavery society, whose members were delighted &quot;to find the articles were so much liked.&quot; The National Anti-Slavery Standard was much read, but the Liberator and the Herald of Freedom &quot;were thought rather terrible.&quot; For a long time Isabel Jennings did not enjoy them, &quot;but now we know Mr. [Nathaniel P.] Roger&apos;s character, he could not do anything which would make us angry with him.&quot; They are glad to send things to his wife&apos;s bazaar as well as to the abolitionists in Concord. They are anxious for news of William Lloyd Garrison&apos;s recovery; Isabel Jennings sends the message that he has admiring friends in Cork, Ireland. Charles Lennox Remond first introduced the American abolitionists to Isabel Jennings and her circle. Isabel Jennings comments about Remond: &quot;...we do feel very, very grateful to him.&quot; Although Harriet Martineau&apos;s &quot;book was read it was not felt until after C. L. Remond&apos;s visit.&quot; Isabel Jennings discourses on non-resistance and H.C. Wright&apos;s influence. She comments on Abigail Folsom&apos;s exclusion from a meeting by police.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On page 4, there is a separate letter by Jane Jennings to Maria Weston Chapman. Jane Jennings appreciates that Maria W. Chapman wants to give her some American autographs, but she does not want her to go to so much trouble. She admire&apos;s Maria W. Chapman&apos;s letter to the local anti-slavery society. She rejoices that interest in the cause is increasing. Jane Jennings says that &quot;the relation of his own suffering by Moses Grandy has done much good.&quot; Dr. [Richard Robert] Madden, who has just been here, is deeply interested in the cause.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Jennings, Isabel</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Jennings, Jane</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Folsom, Abigail H.,</subfield>
+    <subfield code="d">d. 1867.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grandy, Moses,</subfield>
+    <subfield code="d">b. 1786?</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Madden, Richard Robert,</subfield>
+    <subfield code="d">1798-1886.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Martineau, Harriet,</subfield>
+    <subfield code="d">1802-1876.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Remond, Charles Lenox,</subfield>
+    <subfield code="d">1810-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Rogers, Nathaniel Peabody,</subfield>
+    <subfield code="d">1794-1846.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="2" ind2="0">
+    <subfield code="a">National anti-slavery standard.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Liberator (Boston, Mass. : 1831.).</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Herald of freedom (Concord, N.H. : 1835).</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+    <subfield code="e">recipient</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

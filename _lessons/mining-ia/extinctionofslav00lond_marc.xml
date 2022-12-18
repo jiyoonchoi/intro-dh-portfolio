@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00991nam a2200253Ia 4500</leader>
+  <controlfield tag="001">3586085</controlfield>
+  <controlfield tag="005">20101013155200.0</controlfield>
+  <controlfield tag="008">890623r18401840enk           000 0 eng d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">80257996</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)30550689</subfield>
+    <subfield code="z">(OCoLC)80257996</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm30550689</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AOX</subfield>
+    <subfield code="e">bdrb</subfield>
+    <subfield code="c">AOX</subfield>
+    <subfield code="d">OHI</subfield>
+    <subfield code="d">OCL</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">f------</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">DT476.B88</subfield>
+    <subfield code="b">E9x</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Res. 7579.74 no. 4</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="4">
+    <subfield code="a">The extinction of the slave-trade, and the civilization of Africa: :</subfield>
+    <subfield code="b">a review of &quot;The African slave-trade, and its remedy,&quot; by Sir Thomas Fowell Buxton, Bart.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Published by John Mason, 14, City-road; and sold at 66, Paternoster-Row,</subfield>
+    <subfield code="c">1840</subfield>
+    <subfield code="f">(James Nichols)</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">26 p. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Reprinted from the Wesleyan-Methodist Magazine for July, 1840.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Buxton, Thomas Fowell,</subfield>
+    <subfield code="c">Sir,</subfield>
+    <subfield code="d">1786-1845.</subfield>
+    <subfield code="t">African slave trade and its remedy.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave trade</subfield>
+    <subfield code="z">Africa.</subfield>
+  </datafield>
+  <datafield tag="730" ind1="0" ind2=" ">
+    <subfield code="a">Wesleyan-Methodist magazine.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

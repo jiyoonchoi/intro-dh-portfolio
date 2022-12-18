@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03727ntm a22004097a 4500</leader>
+  <controlfield tag="001">3281384</controlfield>
+  <controlfield tag="005">20090320120100.0</controlfield>
+  <controlfield tag="008">090115s1838    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18380307</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3281384</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.10, no.13</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Debora[h]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boston,</subfield>
+    <subfield code="c">March 7, 1838, Wednesday.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">9 7/8 x 7 7/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Anne Warren Weston approves of [J. G.] Alvord&apos;s report and resolution on Texas. Amos A. Phelps wants to get the Odeon for Anti-Slavery meetings, because the Free Church won&apos;t give him its church. Mrs. Lydia M. Child saw an article on Angelina E. Grimke in the Mercantile Journal. Anne describes the details of the voting on the report (of Mrs. Maria W. Chapman) and other proceedings at a meeting of the Massachusetts Anti-Slavery Society, and criticizes a request made by Garrison for permission to alter his report. &quot;I cannot depend on Garrison as I used to.&quot; The Board accepted [Alanson] St. Clair&apos;s services as an agent, voted thanks to Angelina E. Grimke and requested the Grimkes to continue their work in Massachusetts. Edmund Quincy behaved sweetly. Mrs. Maria W. Chapman is to review the Life of McDowall. She thinks that Theodore D. Weld might be the author. &quot;It is too free to be written by [Joshua] Leavitt. It produced a very great effect on my mind ... it has altered my feelings to the cause of Moral Reform more than anything I ever read before ...&quot; Says that Dr. Amos Farnsworth should buy it. [The Life of McDowall referred to is: Memoir and Select Remains of the Late Rev. J.R. M&apos;Dowall: the Martyr of the Seventh Commandment in the Nineteenth Century, New York, Leavitt, Lord &amp; Co., 1838.] Also wishes him to take &quot;The Friend of Virtue,&quot; the last number of which contains a good article by David Child. Wants Mrs. [Sarah C.] Rugg to get the (Groton) Moral Society to buy one or two copies. Anne has learned from Mrs. Maria W. Chapman that &quot;for the first time the Grimkes became aware of the ill behaviour of the New York folks.&quot; Describes how William Ladd &quot;amused himself at the Marlboro with sundry witticisms about &apos;the gentle Angelina&apos; saying that he expected to live to see her married to &apos;a strapping nigger&apos;.&quot; Anne got from the library the last number of Scott&apos;s Life (by Lockhart), just out, and cried over it. She comments again on Garrison&apos;s plan to alter his report. &quot;He should not give up for [Amos A.] Phelps&apos; feelings. If he were to give up for anybody&apos;s it should be for [Charles] Fitch &amp; [Joseph H.] Towne.&quot; The Ellis Gray Lorings are in Cambridge, &quot;Margaret Fuller with them, so I suppose she has a vacation.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah</subfield>
+    <subfield code="d">b. 1814.</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Child, David Lee,</subfield>
+    <subfield code="d">1794-1874.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Fuller, Margaret,</subfield>
+    <subfield code="d">1810-1850.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Ladd, William,</subfield>
+    <subfield code="d">1778-1841.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grimké, Angelina Emily,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grimké, Sarah Moore,</subfield>
+    <subfield code="d">1792-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phelps, Amos A.</subfield>
+    <subfield code="q">(Amos Augustus),</subfield>
+    <subfield code="d">1805-1847.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">McDowall, John R.</subfield>
+    <subfield code="q">(John Robert),</subfield>
+    <subfield code="d">1801-1836.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">St. Clair, Alanson.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

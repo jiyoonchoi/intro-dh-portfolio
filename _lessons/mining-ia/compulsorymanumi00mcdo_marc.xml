@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01324nam a2200265Ia 4500</leader>
+  <controlfield tag="001">3586088</controlfield>
+  <controlfield tag="005">20101013151600.0</controlfield>
+  <controlfield tag="008">991012s1827    enk           000 0 eng d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">26527502</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)166596459</subfield>
+    <subfield code="z">(OCoLC)26527502</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn166596459</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">E8W</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">E8W</subfield>
+    <subfield code="d">KIJ</subfield>
+    <subfield code="d">COO</subfield>
+    <subfield code="d">OCLCQ</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nw-----</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">H.710.MC14C</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McDonnell, Alexander.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Compulsory manumission; :</subfield>
+    <subfield code="b">or, An examination of the actual state of the West India question /</subfield>
+    <subfield code="c">by Alexander M&apos;Donnell, Esq.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">John Murray, Albemarle-Street,</subfield>
+    <subfield code="c">MDCCCXXVII [1827]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">viii, 86, [1] p. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Opposes compulsory manumission as unfair to the Caribbean colonists.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" ">
+    <subfield code="a">West India party disingenuously treated -- Compulsory manumission contrary to the spirit of the resolutions of parliament -- Infringement of the right of property -- Injury to the well-being of the slaves -- Safety of the colonies endangered -- No just analogy in the precedents adduced by government -- Responsibility attaching to ministers if they enforce compulsory manumission.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Ragatz,</subfield>
+    <subfield code="c">p. 528</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy inscribed by author on cover.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">West Indies.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

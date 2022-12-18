@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02339ntm a22003377a 4500</leader>
+  <controlfield tag="001">3754678</controlfield>
+  <controlfield tag="005">20111126003400.0</controlfield>
+  <controlfield tag="008">090115s1866    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18660918</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3754678</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.1.1 v.7, p.21B</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My beloved Friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Roxbury, [Mass.],</subfield>
+    <subfield code="c">Sept. 18, 1866.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (6 p.) ;</subfield>
+    <subfield code="c">8 x 5 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">William Lloyd Garrison has been unable to earn a penny since his two crippling falls. He is very grateful for the Travelers Insurance Company policy that Samuel Joseph May took out in his behalf. He received a letter from the agent of the company &quot;intimating a readiness to make prompt settlement at any time.&quot; He describes his injury and the treatments he has received. Recently, he has been trying &quot;magnetism at the hands of a healing medium (a lady) in Boston, and begin to feel some good effects from it; so that, with the aid of Turkish baths, powerful manipulations, and above all, time, I begin to hope for ultimate deliverance, with no prmanent injury to my arm.&quot; He has done nothing about writing the history of the anti-slavery cause. He never kept a diary and his &quot;memory of persons and events is sadly defective.&quot; He enjoyed reading Samuel Joseph May&apos;s article in the Christian Register. Garrison cannot accept Samuel J. May&apos;s invitation, extended to him and his wife, to visit Syracuse because Mrs. Helen Eliza Garrison is &quot;too helpless to undertake such a journey.&quot; Fanny Garrison Villard is now in Zurich and will soon go to Munich.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">May, Samuel J.</subfield>
+    <subfield code="q">(Samuel Joseph),</subfield>
+    <subfield code="d">1797-1871</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Villard, Fanny Garrison,</subfield>
+    <subfield code="d">1844-1928.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Travelers Insurance Companies.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Christian register (Boston, Mass.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Magnetism.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">May, Samuel J.</subfield>
+    <subfield code="q">(Samuel Joseph),</subfield>
+    <subfield code="d">1797-1871,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">William Lloyd Garrison Correspondence (1823-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 6</subfield>
+  </datafield>
+</record>

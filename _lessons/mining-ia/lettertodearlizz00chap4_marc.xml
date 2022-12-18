@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03098ntm a22003857a 4500</leader>
+  <controlfield tag="001">3443534</controlfield>
+  <controlfield tag="005">20091030114300.0</controlfield>
+  <controlfield tag="008">090115s1862    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18620924</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.31, p.19</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Lizzy</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York [City], 46 W. 17th St[reet], [NY],</subfield>
+    <subfield code="c">Sept. 24th, 1862.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">5 leaves (20 p.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Maria Weston Chapman is at her son Henry&apos;s home, after a week at Staten Island. She describes life in the house. Mr. Jay, after being rejected from the delegateship of his Bedford church to the Episcopal convocation, has presented himself for the nomination of St. Phillips, the New York black church. She discusses Lincoln&apos;s proclamation. &quot;All but the worst of pro-slavery democrats are disappointed with it as not going fast enough or far enough... Henry is ready to slay old Abe.&quot; Emancipation with compensation &quot;stinks in the nostrils of people.&quot; She believes that Daniel Webster is taking care of the interests of the cotton manufacturers. She tells of the Democrats taunting the Republicans and the plentifulness of such epithets as &quot;secessionist.&quot; If the Democrats &quot;do as they threatened, i.e. call back their troops from the army because emancipation is revolution &amp; so on, why the saddle will be on the other hourse.&quot; Chapman tells about her idea of colonizing [the South]. She fears that young Hovey has been wounded. Chapman would be &quot;terribly afflicted to see Europe, looking on, blind to the case,&quot; when we have to look to other lands for counsel &quot;at a time when we really have for statesmanship a feeble dolt &amp; a selfish knave, for political philosopher, not one.&quot; She criticizes [George Brinton] McClellan. She praises Harriet Martineau &quot;for she knows as well as feels aright; while in these last matters all our abolitionists but Garrison, have shown themselves utterly unequal to the occasions as they arose, &amp; even Garrison was the first to suggest compensations to the president!&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Laugel, Elizabeth Bates Chapman,</subfield>
+    <subfield code="d">b. 1831</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Henry Grafton,</subfield>
+    <subfield code="d">1833-1883.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Jay, John,</subfield>
+    <subfield code="d">1817-1894.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Lincoln, Abraham,</subfield>
+    <subfield code="d">1809-1865.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Martineau, Harriet,</subfield>
+    <subfield code="d">1802-1876.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">McClellan, George Brinton,</subfield>
+    <subfield code="d">1826-1885.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Shaw, Robert Gould,</subfield>
+    <subfield code="d">1837-1863.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Democratic Party (U.S.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">President (1861-1865 : Lincoln).</subfield>
+    <subfield code="t">Emancipation Proclamation.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Civil War, 1861-1865.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Laugel, Elizabeth Bates Chapman,</subfield>
+    <subfield code="d">b. 1831,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 20</subfield>
+  </datafield>
+</record>

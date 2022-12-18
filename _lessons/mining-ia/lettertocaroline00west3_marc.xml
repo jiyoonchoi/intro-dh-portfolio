@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03423ntm a22004697a 4500</leader>
+  <controlfield tag="001">3322185</controlfield>
+  <controlfield tag="005">20090425002400.0</controlfield>
+  <controlfield tag="008">090115s1843    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18430529</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3322185</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.18, p.49</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to Caroline and Deborah Weston?]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Boston],</subfield>
+    <subfield code="c">Monday night. May 29, [1843?].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (6 p.) ;</subfield>
+    <subfield code="c">9 3/4 x 7 5/8 in. and 4 1/8 x 7 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Anne W. Weston attended a meeting of the Historical Society at Chauncy Place Church, where John Quincy Adams held forth. &quot;It was a pretty poor affair.&quot; Anne also attended the Anniversary Peace meeting, with an address given by Andrew P. Peabody; he has &quot;something of the beauty of non-resistance.&quot; Lewis Tappan nominated Mr. Pennington, a colored man, as a delegate to London Peace Society. Amos A. Phelps and Nathaniel Colver are appointing agents to the Peace Convention. &quot;The [New England Anti-Slavery] Convention opened with much pomp &amp; circumstance &amp; the great Miller Tabernacle has been thronged all day.&quot; Edmund Quincy was made president. A committee was appointed to see John Tyler when he visits Boston and ask him to emancipate his slaves. Stephen Symonds Foster made one of his violent speeches and Caleb Stetson of Medford a witty, funny one. In the afternoon, the principal speaker was &quot;by S.S. Foster on one note &amp; Wendell [Phillips] on the other.&quot; Anne met H. Farnsworth, who said that his father (Dr. Amos Farnsworth) was in Paris. Dr. Henry I. Bowditch told Anne about a meeting of the Unitarian Association, where John Parkman introduced two anti-slavery resolutions. Anne attended the evening meeting at Faneuil Hall; the speakers were William A. White, Edmund Quincy, and S.S. Foster, who &quot;was hissed some.&quot; John A. Collins has returned and has accepted the agency.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Included, is a fragment signed with the initials &quot;A.W.W.,&quot; which may belong with the unsigned letter. Anne W. Weston writes that she will try to send a letter to Warren Weston by tomorrow&apos;s steamer. &quot;Sylvia Owen &amp; Ann Terry [Phillips] seem to miss Caroline the most of anybody.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Peabody, Andrew P.</subfield>
+    <subfield code="q">(Andrew Preston),</subfield>
+    <subfield code="d">1811-1893.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Tappan, Lewis,</subfield>
+    <subfield code="d">1788-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phelps, Amos A.</subfield>
+    <subfield code="q">(Amos Augustus),</subfield>
+    <subfield code="d">1805-1847.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Colver, Nathaniel,</subfield>
+    <subfield code="d">1794-1870.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah</subfield>
+    <subfield code="d">b. 1814.</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Quincy, Edmund,</subfield>
+    <subfield code="d">1808-1877.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Tyler, John,</subfield>
+    <subfield code="d">1790-1862.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Foster, Stephen S.</subfield>
+    <subfield code="q">(Stephen Symonds),</subfield>
+    <subfield code="d">1809-1881.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stetson, Caleb,</subfield>
+    <subfield code="d">1793-1870.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Farnsworth, Amos,</subfield>
+    <subfield code="d">1788-1861.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Parkman, John,</subfield>
+    <subfield code="d">d. 1883.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Collins, John A.</subfield>
+    <subfield code="q">(John Anderson),</subfield>
+    <subfield code="d">1810-1879.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="v">Congresses.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 6</subfield>
+  </datafield>
+</record>

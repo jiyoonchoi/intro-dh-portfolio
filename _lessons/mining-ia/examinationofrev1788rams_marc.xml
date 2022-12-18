@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01254nam a2200253Ia 4500</leader>
+  <controlfield tag="005">20040224134844.0</controlfield>
+  <controlfield tag="008">860311s1788    enk           000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   49038949 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">   49038949 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)13279507</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">FMU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">HT915.H33</subfield>
+    <subfield code="b">R3 no. 3</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">XH.710.R14Ob no.3</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ramsay, James,</subfield>
+    <subfield code="d">1733-1789.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Examination of the Rev. Mr. Harris&apos;s scriptural researches on the licitness of the slave trade. /</subfield>
+    <subfield code="c">By the Rev. James Ramsay.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Printed by J. Phillips,</subfield>
+    <subfield code="c">M.DCC.LXXXVIII [1788].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">29, [3] p. ;</subfield>
+    <subfield code="c">20 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Last 3 pages advertisements.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">XH.710.R14Ob no.3: the gift to this Library of Wendell Phillips; in tract volume from library of American Anti-Slavery Society of New York.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">XH.710.R14E no.3: in tract volume possibly from library of Capel Lofft.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="0" ind2="0">
+    <subfield code="a">Harris, Raymund.</subfield>
+    <subfield code="t">Scriptural researches on the licitness of the slave-trade.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave-trade</subfield>
+    <subfield code="v">Early works to 1800.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1RB</subfield>
+    <subfield code="b">BRLRB</subfield>
+    <subfield code="h">XH.710.R14Ob no.3</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2008). Backstage Library Works.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1RB</subfield>
+    <subfield code="b">BRLRB</subfield>
+    <subfield code="h">XH.710.R14E no.3</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2008). Backstage Library Works.</subfield>
+  </datafield>
+</record>

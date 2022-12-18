@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02909ntm a22003857a 4500</leader>
+  <controlfield tag="001">3487615</controlfield>
+  <controlfield tag="005">20100303145200.0</controlfield>
+  <controlfield tag="008">090115s1851    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18510817</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.25, p.110</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">47 Park St., [Bristol, England],</subfield>
+    <subfield code="c">Aug. 17, 1851.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (6 p.) ;</subfield>
+    <subfield code="c">7 7/8 x 5 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Mary Anne Estlin is glad about the good reports of Maria Weston Chapman&apos;s brother, which will enable Chapman and her party to enjoy &quot;the charms of an old English country mansion.&quot; Mary A. Estlin writes that it is a &quot;satisfaction to know you are on your way to us; for there are hosts of things accumulated to talk about; &amp; ever since my return I have been plied with questions as to when Mrs. Chapman would be here!&quot; Miss Tribe&apos;s and Mary A. Estlin&apos;s &quot;pupils&quot; in the Ladies Anti-Slavery Committee &quot;are advanced a good deal in their A.S. education&quot; through the help of [James] Grant, and are being roused to &quot;a high pitch of indignation abainst Scoble.&quot; Miss Tribe is indoctrinating the editors of the Patriot, the official publication of the Congregationalists and Baptists. [Richard D.] Webb has written a comment on Lewis Tappan&apos;s statement for the Bristol Examiner. Mary A. Estlin&apos;s father, John Bishop Estlin, is not well. They have had &quot;the treat of seeing Miss Pease,&quot; who is &quot;quite full of the idea of a fresh organization, &amp; especially of the hint you threw out of Mr. Wendell Phillips coming to start it.&quot; She wishes Mrs. Phillips could be persuaded that a visit to England might make her well. She tells which acquaintances Maria Weston Chapman may expect to see in Bristol. Elizabeth Pease left 5 pounds for the Boston bazaar. She stayed in Bristol with a cousin who &quot;looks upon Miss A. Weston as a melancholy evidence of the deleterious influence of &apos;evil communications.&apos;&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grant, James,</subfield>
+    <subfield code="d">1802-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Nichol, Elizabeth Pease,</subfield>
+    <subfield code="d">1807-1897.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Tappan, Lewis,</subfield>
+    <subfield code="d">1788-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Tribe, Fanny N.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, R. Warren</subfield>
+    <subfield code="q">(Richard Warren),</subfield>
+    <subfield code="d">1819-1873.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">Great Britain.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+    <subfield code="e">recipient</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03278ntm a22003977a 4500</leader>
+  <controlfield tag="001">3445297</controlfield>
+  <controlfield tag="005">20091106010300.0</controlfield>
+  <controlfield tag="008">090115s1863    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18630612</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3445297</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.31, p.65</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Anne</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[New York],</subfield>
+    <subfield code="c">Friday, June 12th, 1863.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (8 p.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This unsigned letter is presumably by Maria Weston Chapman. Chapman gives examples of her son Henry&apos;s skill as an investor. She comments, &quot;I suppose he really understands the money-making trade he has chosen.&quot; She refers to the lecture missions to England: &quot;Infra dig. is all this trotting to Eng. from Thurlow Weed at first to H.W. Beecher at last. There are times when the golden mouthed Chrysostom had better hold his tongue.&quot; She comments on John Arthur Roebuck as a &quot;broken down man [paralysis] scoffed at by the people, despised by the liberals...&quot; Chapman seems to think that Anne [Greene Chapman Dicey] has been &quot;more grieved than needed about Hooker&apos;s defeat. --This is the way our victory is to be won. By constant disaster, like iron under the hammer are the U.S. to be made what they ought to be.&quot; Chapman further comments: &quot;Negroes as soldiers will save our territory. They are at this moment 40,000 strong, counting army &amp; navy.&quot; She describes the strategy of raids by black men. Chapman believes that &quot;the negroes as citizens will save our institutions.&quot; They will vote at the end of the war. [Edward Lillie?] Pierce is commissioner of abandoned plantations. Dr. [Samuel Gridley] Howe is commissioner for the care of freedmen. Maria W. Chapman sent John Jay to tell them to be &quot;sure to insist on punctual payment of the labourers &amp; soldiers. There is where it sticks a little as yet.&quot; This commission will impress the friends in England. &quot;I urged it on Sumner very strongly...&quot; Chapman comments on the conpensation paid to the commissioners: &quot;I can only say, I could not take it if I were the men. [Frederick Law?] Olmsted and [Edward Lillie?] Pierce are the proper men for it &amp; there is where I guess it will end.&quot; She praises the foresight and vision of northern youth as &quot;something sublime.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dicey, Anne Greene Chapman,</subfield>
+    <subfield code="d">d. 1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Henry Grafton,</subfield>
+    <subfield code="d">1833-1883.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hooker, Joseph,</subfield>
+    <subfield code="d">1814-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Howe, S. G.</subfield>
+    <subfield code="q">(Samuel Gridley),</subfield>
+    <subfield code="d">1801-1876.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Olmsted, Frederick Law,</subfield>
+    <subfield code="d">1822-1903.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Pierce, Edward Lillie,</subfield>
+    <subfield code="d">1829-1897.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Roebuck, John Arthur,</subfield>
+    <subfield code="d">1802-1879.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Investments.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Civil War, 1861-1865.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Civil War, 1861-1865</subfield>
+    <subfield code="x">African American troops.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dicey, Anne Greene Chapman,</subfield>
+    <subfield code="d">d. 1879,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

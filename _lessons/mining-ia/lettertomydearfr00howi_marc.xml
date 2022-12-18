@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02669ntm a22003497a 4500</leader>
+  <controlfield tag="001">3556011</controlfield>
+  <controlfield tag="005">20100630223200.0</controlfield>
+  <controlfield tag="008">090115s1847    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18470902</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3556011</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.23, p.41</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Howitt, Mary Botham,</subfield>
+    <subfield code="d">1799-1888.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Clapton, [London, England],</subfield>
+    <subfield code="c">Sep. 2, [1847].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">7 1/8 x 4 1/2 in. And envelope 3 1/8 x 4 7/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Mary Botham Howitt thanks Maria Weston Chapman for her kind letters. Mary B. Howitt refers to a &quot;bitterly unkind&quot; article in the National Anti-Slavery Standard. Howitt said: &quot;That article brought with it sleepless nights &amp; cost me tears.&quot; Although the article was written by Mr. Briggs, the author of Harry Franco, Mary B. Howitt imagines that &quot;the animus of that article proceeds from this country---from the malicious, bad people in the People&apos;s Journal, who are doing all they can to ruin us entirely.&quot; [Charles Frederick Briggs was the author of The Adventures of Harry Franco, 1939.] Howitt especially mentions John Dix, known in America by the name of John Dix Ross, &quot;an unfortunate drunkard &amp; thief but who is allied with Mr. [John] Saunders against us &amp; who has attempted to cast a stigma on my character respecting an article on Lowell which I sent to the People&apos;s Journal ...He it is, I suspect, who has been the prime mover in this.&quot; Mary B. Howitt is glad to receive the memoir from Abby Kelley Foster. The short account, which Mary B. Howitt was allowed to draw up from Henry C. Wright&apos;s memoir, is read here with pleasure. Mary B. Howitt reflects on the difference between the English and the better Americans, who are &quot;incredibly attractive to me.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes an envelope with the delivery address: Maria Weston Chapman, Boston, United States. And a notation: &quot;Paid. By Steamer Britannia.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Howitt, Mary Botham,</subfield>
+    <subfield code="d">1799-1888</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Briggs, Charles F.</subfield>
+    <subfield code="q">(Charles Frederick),</subfield>
+    <subfield code="d">1804-1877.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Saunders, John,</subfield>
+    <subfield code="d">1811-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Wright, Henry Clarke,</subfield>
+    <subfield code="d">1797-1870.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">National anti-slavery standard.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 6</subfield>
+  </datafield>
+</record>

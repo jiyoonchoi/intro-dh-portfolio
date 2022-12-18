@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00817nam a2200229Ia 4500</leader>
+  <controlfield tag="001">3615164</controlfield>
+  <controlfield tag="005">20101123142000.0</controlfield>
+  <controlfield tag="008">920811s1805    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)26374781</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm26374781</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NYP</subfield>
+    <subfield code="c">NYP</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">KRTAS</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nw-----</subfield>
+    <subfield code="a">e-uk---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Res. 7586.64 no. 3</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="4">
+    <subfield code="a">The Horrors of the Negro slavery existing in our West Indian islands,</subfield>
+    <subfield code="b">irrefragably demonstrated from official documents recently presented to the House of Commons.</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2d ed.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London [etc.] :</subfield>
+    <subfield code="b">J. Hatchard,</subfield>
+    <subfield code="c">1805.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">36 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slaves</subfield>
+    <subfield code="z">West Indies, British</subfield>
+    <subfield code="x">Social conditions.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave trade</subfield>
+    <subfield code="z">Great Britain</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">Great Britain.</subfield>
+    <subfield code="b">Parliament.</subfield>
+    <subfield code="b">House of Commons.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

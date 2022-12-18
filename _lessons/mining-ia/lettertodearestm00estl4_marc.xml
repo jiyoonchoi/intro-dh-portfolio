@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02136ntm a22003737a 4500</leader>
+  <controlfield tag="001">3494452</controlfield>
+  <controlfield tag="005">20100319163400.0</controlfield>
+  <controlfield tag="008">090115s1854    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18540325</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.28, p.7</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dearest Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Park St., Bristol, [England],</subfield>
+    <subfield code="c">Mar[ch] 25, 1854.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (8 p.) ;</subfield>
+    <subfield code="c">8 5/8 x 5 1/2 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Mary Anne Estlin says that Parker Pillsbury is improving steadily in health. Mary A. Estlin will have &quot;to ransack my hoards for flying-mercuries, battledores, shuttlecocks, cups &amp; balls, &amp; c. to keep him in exercise, ...&quot; She describes her father [John Bishop Estlin]&apos;s physical condition. She gives instructions about obtaining various pamphlets. She refers to the marriage of Mlle LeComte [Floreska LeComte?]. She will provide Mrs. Russell Taylor, widow of the editor of the Manchester Guardian, with a letter of introduction to Maria Weston Chapman. Mrs. Taylor is the daughter of Mrs. Gideon Acland. Praises S. A. Steinthal. &quot;Mr. Ch[amerovzo]w is I imagine drifting New Organizationward, Mr. Chesson is silent.&quot; Mr. George Thompson&apos;s daughter is likely to recover.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chamerovzow, Louis Alexis.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chesson, F. W.</subfield>
+    <subfield code="q">(Frederick William),</subfield>
+    <subfield code="d">1833 or 4-1888.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Pillsbury, Parker,</subfield>
+    <subfield code="d">1809-1898.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Lecomte, Floreska.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Steinthal, S. Alfred.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Taylor, Russell,</subfield>
+    <subfield code="c">Mrs.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Thompson, George,</subfield>
+    <subfield code="d">1804-1878.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03230ntm a22003977a 4500</leader>
+  <controlfield tag="001">3443490</controlfield>
+  <controlfield tag="005">20091030101200.0</controlfield>
+  <controlfield tag="008">090115s1861    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18610901</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.31, p.17</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Lizzy &amp; Anne</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Bedford, [Mass.],</subfield>
+    <subfield code="c">Sept. 1st, 1861.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (8 p.) ;</subfield>
+    <subfield code="c">8 3/8 x 5 3/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Maria Weston Chapman begins the letter by writing: &quot;A great battle has just been fought--as many as always will be called--100,000 men engaged on eached side. 8000 killed on our side &amp; double the number on the side of the rebels. We are left in possession of the field, but the Enemy is being heavily reinforced as also are we.&quot; Chapman came to New York with Warren [Weston] and his family and to Bedford with Henry [G. Chapman]. Chapman &quot;Arrived in season for a party of mingled Bedfordites &amp; N. Yorkers.&quot; She tells about the bright sayings of little Henry Chapman. Chapman writes that &quot;[John Charles] Fremont spoke in Boston last week, &amp; said it [abolition] must be done immediately.&quot; There is no difficulty here about getting men or means for carrying on a war. Chapman judges from what she has heard that &quot;Wendell [Phillips] has had an escape for seeming to discourage enlistment. But he can no other for he judges by the feelings of individuals, &amp; not be the necessity of the situation. I see that we are fighting the slave power: &amp; I cannot help morally speaking, encouraging enlistments.&quot; She elaborates on this idea. Chapman mentions as signs of the times in her own experience the $5000 in bills crowded into her handbag, &quot;Henry to carry up to Bedford to pay off troop&apos;s bounty with.&quot; And seeing the diamonds he had bought as an investment, to be sent to Europe in payments because of the unfavorable exchange. Chapman says that &quot;I observe that England has neither broken the Blockade nor acknowledged the Rebel independence.&quot; Chapman criticizes Victor Hugo&apos;s &quot;[L&apos;Idylle] Rue Plumet.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The battle referred to in this letter was the Seven Days&apos; Battle in the Peninsular Campaign of the Civil War, June 25 - July 1, 1862.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dicey, Anne Greene Chapman,</subfield>
+    <subfield code="d">d. 1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Laugel, Elizabeth Bates Chapman,</subfield>
+    <subfield code="d">b. 1831</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Henry Grafton,</subfield>
+    <subfield code="d">1833-1883.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Frémont, John Charles,</subfield>
+    <subfield code="d">1813-1890.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hugo, Victor,</subfield>
+    <subfield code="d">1802-1885.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Investments.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Civil War, 1861-1865.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Great Britain</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dicey, Anne Greene Chapman,</subfield>
+    <subfield code="d">d. 1879,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Laugel, Elizabeth Bates Chapman,</subfield>
+    <subfield code="d">b. 1831,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

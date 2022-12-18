@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01132nam a2200301K  4500</leader>
+  <controlfield tag="001">2773492</controlfield>
+  <controlfield tag="005">20070129222300.0</controlfield>
+  <controlfield tag="008">020930s1842    mau           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm50700930</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+    <subfield code="c">BRL</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4264.55 No. 15</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Massachusetts.</subfield>
+    <subfield code="b">General Court.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Reports.</subfield>
+    <subfield code="p">Jackson</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">In Senate, Feb. 22 1842. :</subfield>
+    <subfield code="b">The joint special committee to whom was committed the petition of Francis Jackson and others, and sundry other petitioners, for a law securing to colored persons equal rights in rail-road accommodation ... report: ...</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Boston, Mass. : </subfield>
+    <subfield code="b">s.n.,</subfield>
+    <subfield code="c">1842]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">13 p. ;</subfield>
+    <subfield code="c">22.5 cm. (8vo.)</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Senate.</subfield>
+    <subfield code="v">No. 63</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There is no title-page.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Dept.) copy lacking pp. 7-8.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hernandez, Horacio.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Jackson, Francis,</subfield>
+    <subfield code="d">1789-1861.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Railroad law.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Massachusetts</subfield>
+    <subfield code="x">R.Rs.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Senate (Series) (Massachusetts. General Court. Senate) ;</subfield>
+    <subfield code="v">1842, no. 63.</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="k">4264.55 No. 15</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">rcp3745</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">02</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03225ntm a22003977a 4500</leader>
+  <controlfield tag="001">3623178</controlfield>
+  <controlfield tag="005">20110131222400.0</controlfield>
+  <controlfield tag="008">090115s1849    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18490222</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3623178</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.24, p.63A</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Dublin, [Ireland],</subfield>
+    <subfield code="c">February 22, 1849.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 leaves (10 p.) ;</subfield>
+    <subfield code="c">8 3/8 x 5 1/4 in. and 10 1/4 x 5 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Richard Davis Webb presumably wrote this letter to Caroline Weston.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Samuel May wrote to Richard Davis Webb saying that that he received a box containing Liberty Bells and annual reports. Richard Davis Webb quotes Samuel May as saying: &quot;We feel confident that the Anti-Slavery movement has got such headway that no power on earth can stop it.&quot; Richard D. Webb saw in Frederick Douglass&apos;s paper that &quot;Northern members have succumbed to the South in the Pacheco case and in the case of slavery in the District.&quot; Richard D. Webb has circulated expurgated extracts from from Caroline Weston&apos;s letter. Webb says: &quot;The most difficult to deal with were some of the Cork Jenningses who are great Douglassites.&quot; But one of them has lately written that their aunts, the Richardsons, are greatly charmed by Caroline Weston. Richard D. Webb and his wife think that an anti-slavery bazaar in any part of the three kingdoms would be a failure. Until the anti-slavery cause is better understood, it would be looked on as a &quot;piece of philanthropic knight erranty.&quot; Richard D. Webb dwells on the ignorance which prevails in the British Isles regarding the United States. He suggests writing to Eliza Wigham and Catherine Paton. He also proposes that contributions to the fair might be sent early in the autumn. Webb presents arguments aginst holding the bazaar in Great Britain. Webb suggests that the Standard be sent from Boston instead of New York because he suspects a &quot;special hostility to the Standard in the N.Y. post office.&quot; Richard Davis Webb&apos;s family is unsettled by the illness of one of his daughters. Richard D. Webb points out the extraordinary Irish emigration to America. He mentions that William Hincks is critical of the Garrison abolitionists. He comments on Henry C. Wright&apos;s letters on the topic of the Bible that were printed in the Liberator.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hincks, William,</subfield>
+    <subfield code="d">1793?-1871.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Jennings, Jane.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">May, Samuel,</subfield>
+    <subfield code="d">1810-1899.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Wright, Henry Clarke,</subfield>
+    <subfield code="d">1797-1870.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">National anti-slavery standard.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">Washington (D.C.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Caroline Weston Correspondence (1834-1874)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 10</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03842ntm a22003617a 4500</leader>
+  <controlfield tag="001">3482928</controlfield>
+  <controlfield tag="005">20100212153900.0</controlfield>
+  <controlfield tag="008">090115s1851    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18511212</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.25, p.136</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Miss Weston</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Bristol, [England],</subfield>
+    <subfield code="c">Dec. 12, 1851.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 leaves (12 p.) ;</subfield>
+    <subfield code="c">8 1/2 x 5 3/8 in. and 8 1/4 x 5 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On pages 1-10 of this manuscript there is a letter by John Bishop Estlin, which he started to write on Dec. 12, 1851 and then continued on Dec. 26, 1851 and Jan. 2, 1852. Fearing that William Lloyd Garrison&apos;s answer to Mr. [James] Grant &quot;might prove a cutting one,&quot; John B. Estlin has tried to prepare him for it, stressing Garrison&apos;s &quot;unselfish devotion to the cause,&quot; and his readiness to die for it. This letter is concerned mainly with Mr. James Grant. John B. Estlin describes James Grant as a Scotsman, not highly educated. The circulation of the Morning Advertiser has increased since he has had the sole management. He has always had strong anti-slavery feelings. While he will never sympathize much with Garrison, he &quot;gives him credit for a devotion to the A.S. cause which he himself never felt in any cause.&quot; John B. Estlin tells of his experience with Grant and criticizes him as a writer. He recounts an embarrassing episode when John B. Estlin introduced Grant to Mrs. Maria Weston Chapman and tells of Mrs. Chapman&apos;s party in London. Mr. Grant was very attentive to Mrs. Chapman with various civilities, including the gift of opera tickets, which were used, but never acknowledged. Mr. Grant was painfully annoyed. As his daughter told John B. Estlin, &quot;the unnoticed reception of his efforts did seem to them like intentional rudeness.&quot; The Westons, when told about it, seemed to resent the reproach. John B. Estlin concluded that they were &quot;in a great whirl in London &amp; not methodical in their arrangements.&quot; On Jan. 2, 1852, John B. Estlin continues the letter; he is grieved over the conditions in France. Anne Warren Weston&apos;s sisters in France &quot;write most guardedly, not signing their names &amp; requiring of us the same precautions. We presume they have sheltered some proscribed person.&quot; Estlin regrets their having gone to France again.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On pages 10-12 of this manuscript, there is a separate note from Mary Anne Estlin to Anne Warren Weston. In Bristol, England, they are thinking of Anne Warren Weston and her fellow laborers at the anti-slavery bazaar. Mary Anne Estlin writes: &quot;We are still in the midst of a hard conflict. Mr. Scoble as attacked Mr. Ed. Mathews in a letter to the M[orning] Advertiser with a view of destroying him.&quot; This is a necessary preliminary to the putting forth of his &quot;Dawn Scheme.&quot; Mary Anne&apos;s father, John Bishop Estlin, fears his &quot;Friend&quot; [the friend being Anne Warren Weston] is &quot;sadly given to &apos;domineering over Mr. Garrison.&apos;&quot; She desires that Anne W. Weston comes to visit them.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grant, James,</subfield>
+    <subfield code="d">1802-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Mathews, Edward.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Scoble, John.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 12</subfield>
+  </datafield>
+</record>

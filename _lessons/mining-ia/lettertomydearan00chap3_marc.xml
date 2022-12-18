@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02880ntm a22003257a 4500</leader>
+  <controlfield tag="001">3443588</controlfield>
+  <controlfield tag="005">20091030144300.0</controlfield>
+  <controlfield tag="008">090115s1862    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18621122</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.31, p.27</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Anne</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York [City], 46 W[est] 17th St[reet], [NY],</subfield>
+    <subfield code="c">Saturday, Nov. 22, 1862.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (16 p.) ;</subfield>
+    <subfield code="c">7 1/8 x 4 5/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, Maria Weston Chapman tells some gossip about an Englishwoman, Mrs. Rebecca Lee. Chapman describes her room, apparently in the house of her son, Henry Grafton Chapman. The last elections in New York are not as bad as they look. Chapman says: &quot;They have only 10,000 majority, &amp; the Army opinion, shown by the easy relinquishment of McClellan to be Republican, more than overbalances that.&quot; Chapman points out that &quot;we, one half of the North, are held back from victory by the mistaken political policy cherished by the other half.&quot; She reports on certain predictions concerning the war. She says: &quot;I am one in heart with the blind masses of our people, who give themselves so devotedly for the unity of the country...&quot; She believes that the majority of the thinking people are doubtful about the final issue; &quot;but they dare not say to, for it would be treason in a sort, ...But I have never heard one single person express the slightest doubt of success, ...&quot; Foreigners think that division is an accomplished fact and suppression of the rebellion impossible. Chapman expresses her political philosophy. Chapman says: &quot;Ultimately I am sure of Union by Freedom.&quot; She points out that &quot;the Negroes are free:--virtually so, as I trust &amp; we are more free than I ever remember.&quot; A great educational work remains to be done. &quot;When the north permitted the south in 1837 to rifle her mail-bags, she ensured the reign of force for a reason.&quot; She describes guests for tea at the Jay&apos;s, including &quot;old [George] Bancroft, noisy because he is deaf--the same affected sycophant he used to be, but now an Abolitionist &amp; all his conversation of nothing but Freedom...&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dicey, Anne Greene Chapman,</subfield>
+    <subfield code="d">d. 1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Bancroft, George,</subfield>
+    <subfield code="d">1800-1891.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Liberty.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Civil War, 1861-1865.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">Politics and government.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dicey, Anne Greene Chapman,</subfield>
+    <subfield code="d">d. 1879,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 16</subfield>
+  </datafield>
+</record>

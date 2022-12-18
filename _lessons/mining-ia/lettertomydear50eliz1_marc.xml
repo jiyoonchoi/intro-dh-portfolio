@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02904ntm a22003377a 4500</leader>
+  <controlfield tag="001">3630990</controlfield>
+  <controlfield tag="005">20110411225400.0</controlfield>
+  <controlfield tag="008">090115s1850    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18500830</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3630990</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.25, p.18</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wigham, Eliza.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">5 Gray Street, Edinburgh, [Scotland],</subfield>
+    <subfield code="c">8th month 30th [day] 1850.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">10 1/8 x 8 1/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On pages 2-3 of this manuscript, there is a letter by Eliza Wigham presumably to Anne Warren Weston. Wigham regrets that friendly relations between the Garrisonians and the Edinburgh Ladies&apos; Emancipation Society should come to an end. However, &quot;we are much grieved that you should have brought forward arguments &amp; sentiments in your advocacy of the question, which we deem unnessary, inexpedient, &amp; dangerous.&quot; The anti-slavery cause was strongest &quot;when the faithful Garrison placed it on the Bible &amp; the Bible alone.&quot; Eliza Wigham, her mother, and a few others will try to collect some contributions and send them through Glasgow friends.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On pages 1-2 of this manuscript, Eliza Wigham has copied the &quot;expressions of sentiment tendered by members of the Edinburgh Ladies Emancipation Society to the meeting of [the] committee, held August 1st, 1850.&quot; The Edinburgh Ladies&apos; Emancipation Society expresses an earnest desire to help in the cause, believing in the principle of immediate emancipation. Sorrowfully, the Society feels compelled to withdraw from their connection with the Boston Society because: 1) &quot;sentiments we conceive derogatory to the character of the Bible have been brought forward on the anti-slavery platform&quot;; 2) &quot;the leading advocates of that society in America have given utterance to sentiments which, in our opinion, are infidel in their nature&quot;; and 3) &quot;by holding such fellowship we could not expect the blessing of God to rest upon our efforts.&quot; Eliza Wigham also includes the minutes of the Edinburgh Ladies&apos; Emancipation Society&apos;s meeting on August 1, 1850, which contains the resolution that &quot;no box of contributions be this year sent to the Boston Bazaar under the auspices of this committee.&quot; Signed &quot;E. Wigham, Sec.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Wigham, Eliza</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Edinburgh Ladies&apos; Emancipation Society</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">Scotland.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

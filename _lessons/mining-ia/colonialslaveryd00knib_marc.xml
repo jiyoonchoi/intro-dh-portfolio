@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02080nam a2200325Ia 4500</leader>
+  <controlfield tag="001">3614843</controlfield>
+  <controlfield tag="005">20101122134900.0</controlfield>
+  <controlfield tag="008">830725s1833    enk           000 0 eng d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">480887251</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)9736764</subfield>
+    <subfield code="z">(OCoLC)480887251</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm09736764</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IXA</subfield>
+    <subfield code="c">IXA</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+    <subfield code="d">KRTAS</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nwjm---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">F1886</subfield>
+    <subfield code="b">.K641 1833</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7574.5.5 no. 8</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Knibb, William,</subfield>
+    <subfield code="d">1803-1845.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Colonial slavery :</subfield>
+    <subfield code="b">defence of the Baptist missionaries from the charge of inciting the late rebellion in Jamaica; in a discussion /</subfield>
+    <subfield code="c">between the Rev. William Knibb and Mr. P. Borthwick, at the assembly rooms, Bath, on Saturday, December 15, 1832, taken in shorthand by Mr. T. Oxford, of Clifford&apos;s Inn.</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Published at the Tourist Office,</subfield>
+    <subfield code="c">[1833?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">30 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) ex libris (inscription): C.W. Denison.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. The utter extinction of slavery, an object of scripture prophecy -- 2. Songs of a sojourn -- 3. Is slavery defensible from scripture? -- 4. Facts designed to exhibit the real character and tendency of the American Colonization Society -- 5. Abstract of the report of the Lords committees on the condition and treatment of the colonial slaves -- 6. Analysis of the report of a Committee of the House of commons on the extinction of slavery -- 7. Thoughts on the necessity of improving the condition of the slaves in the British colonies -- 8. Colonial slavery -- 9. A letter to Thomas Clarkson; and Prejudice vincible -- 10. Substance of the speech delivered at the meeting of the Edinburgh Society for the Abolition of Slavery.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">Jamaica.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery and the church</subfield>
+    <subfield code="x">Baptists.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Baptists</subfield>
+    <subfield code="x">Missions</subfield>
+    <subfield code="z">Jamaica.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Jamaica</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Slave Insurrection, 1831.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Borthwick, P.</subfield>
+    <subfield code="q">(Peter),</subfield>
+    <subfield code="d">1804-1852.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Denison, Charles Wheeler,</subfield>
+    <subfield code="d">1809-1881,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

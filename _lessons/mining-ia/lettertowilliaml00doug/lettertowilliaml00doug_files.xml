@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="39999066767938.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>39999066767938_djvu.xml</original>
+    <mtime>1370970829</mtime>
+    <size>289150</size>
+    <md5>8c6c45f67aa947f483867546e2f23cc6</md5>
+    <crc32>e7b02c1e</crc32>
+    <sha1>e36b14b0a9bcadbf0e48deb49ffd8a3fb5442300</sha1>
+  </file>
+  <file name="39999066767938.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>39999066767938_jp2.zip</original>
+    <mtime>1370970529</mtime>
+    <size>33243</size>
+    <md5>489e0ab67b66568253780bd12c4ac08e</md5>
+    <crc32>faa8c81b</crc32>
+    <sha1>cd7e58f55eb711c10e9f9eb60ae8b6e50253c419</sha1>
+  </file>
+  <file name="39999066767938.pdf" source="derivative">
+    <format>Text PDF</format>
+    <original>39999066767938_djvu.xml</original>
+    <mtime>1370970845</mtime>
+    <size>347386</size>
+    <md5>3463dbf4b4d0071f80a3a0571deacfd2</md5>
+    <crc32>90848a6c</crc32>
+    <sha1>aec6830c25865ad6156757313b66348451d1c3f0</sha1>
+  </file>
+  <file name="39999066767938_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>39999066767938_jp2.zip</original>
+    <mtime>1370970809</mtime>
+    <size>23560</size>
+    <md5>beec0f03d33f698fc75c824272d64cdf</md5>
+    <crc32>18f5f3b8</crc32>
+    <sha1>f821545a9f424068825e4c32eb834160e9ed3948</sha1>
+  </file>
+  <file name="39999066767938_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>39999066767938.djvu</original>
+    <mtime>1370970854</mtime>
+    <size>1275</size>
+    <md5>68a6495dbd398a7652eeafb76c1e3d23</md5>
+    <crc32>22fc146a</crc32>
+    <sha1>58be810fb975ab0d185b52d70adc04448c09c67c</sha1>
+  </file>
+  <file name="39999066767938_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>39999066767938_abbyy.gz</original>
+    <mtime>1370970815</mtime>
+    <size>17026</size>
+    <md5>af669926290828791ecd25b754e99ad4</md5>
+    <crc32>fa1048d9</crc32>
+    <sha1>783e71efc99286a593789e1a5b55d7adb59d6dc9</sha1>
+  </file>
+  <file name="39999066767938_images.zip" source="original">
+    <format>Generic Raw Book Zip</format>
+    <mtime>1370970504</mtime>
+    <size>32003039</size>
+    <md5>ef610fbd388201bf0f40c5575a254338</md5>
+    <crc32>06addd36</crc32>
+    <sha1>41955dde606afc0904d1f97234529fdb6a334a3f</sha1>
+  </file>
+  <file name="39999066767938_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>39999066767938_images.zip</original>
+    <mtime>1370970523</mtime>
+    <size>3302042</size>
+    <md5>f2ae299214b2dcab83080fd3aff17804</md5>
+    <crc32>fe3b9f81</crc32>
+    <sha1>d2aee2514c04503be8eaab8412875d451a2a2420</sha1>
+  </file>
+  <file name="39999066767938_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>39999066767938_djvu.xml</original>
+    <mtime>1370970830</mtime>
+    <size>811</size>
+    <md5>a54a8731777b4fb2e6bcc2b3ef16230d</md5>
+    <crc32>42600700</crc32>
+    <sha1>350074d2c871561b9dc88c5d1c9fca7151f7752d</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1649060494</mtime>
+    <size>21978</size>
+    <md5>bce53375c1cfbcc429aace7e4b98d2d0</md5>
+    <crc32>e62fc836</crc32>
+    <sha1>33de200aa00c1ab4c7968d926f6c490c8c301b26</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="lettertowilliaml00doug_archive.torrent" source="metadata">
+    <btih>b1fecf5029c48042653e693ec640f9b0e95104e3</btih>
+    <mtime>1649060495</mtime>
+    <size>5396</size>
+    <md5>afb62d834d81e5608db1d76188be217c</md5>
+    <crc32>e60262de</crc32>
+    <sha1>2e3aed1dff5cbb7d6b9825fd6831303fec376dfb</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="lettertowilliaml00doug_dc.xml" source="original">
+    <format>Dublin Core</format>
+    <mtime>1649060493</mtime>
+    <size>1340</size>
+    <md5>98135577899f503a1b22579accfe2dae</md5>
+    <crc32>f187bac8</crc32>
+    <sha1>50c8ab504b4055217ff720258a98afca97f5c080</sha1>
+  </file>
+  <file name="lettertowilliaml00doug_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d16ed63341b1f0351fb6352856852956</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="lettertowilliaml00doug_marc.xml" source="original">
+    <format>MARC</format>
+    <mtime>1367677052</mtime>
+    <size>4249</size>
+    <md5>ea1c2d1bb0f89c02df13011f5cf84e27</md5>
+    <crc32>d826bff2</crc32>
+    <sha1>475dcf2dd66f8b7b22ae5b03bb5e6d0b2a017463</sha1>
+  </file>
+  <file name="lettertowilliaml00doug_meta.mrc" source="original">
+    <format>MARC Binary</format>
+    <mtime>1367677052</mtime>
+    <size>1412</size>
+    <md5>ed6f4849ac5dcb993349ebecfeba9c45</md5>
+    <crc32>94026eef</crc32>
+    <sha1>94860c871714d0a4862c373d000ec0121c935524</sha1>
+  </file>
+  <file name="lettertowilliaml00doug_meta.sqlite" source="original">
+    <mtime>1467760119</mtime>
+    <size>6144</size>
+    <format>Metadata</format>
+    <md5>57acf1a1d18028fffbfc29ffcefe926d</md5>
+    <crc32>f913d024</crc32>
+    <sha1>38c26f86d09b32d318618e43df33979a6faac1ab</sha1>
+  </file>
+  <file name="lettertowilliaml00doug_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1649060493</mtime>
+    <size>2259</size>
+    <md5>dba97d7e365d95086e67acb241b930c4</md5>
+    <crc32>81703f96</crc32>
+    <sha1>a771c6114968895023af634c7ec04e8984f16f08</sha1>
+  </file>
+  <file name="lettertowilliaml00doug_metasource.xml" source="original">
+    <format>MARC Source</format>
+    <mtime>1367677052</mtime>
+    <size>403</size>
+    <md5>47acd29908d7c733b3e7f5c5d2f35143</md5>
+    <crc32>59cba6bc</crc32>
+    <sha1>da4d88a839ba540f0bf8de35d7b87d3d8c1ef68e</sha1>
+  </file>
+</files>

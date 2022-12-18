@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02341ntm a22003737a 4500</leader>
+  <controlfield tag="001">3462833</controlfield>
+  <controlfield tag="005">20100106220500.0</controlfield>
+  <controlfield tag="008">090115s1854    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18541130</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3462833</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.28, p.34</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Higginson, Thomas Wentworth,</subfield>
+    <subfield code="d">1823-1911.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Worcester, [Mass.],</subfield>
+    <subfield code="c">Nov. 30, 1854, Thanksgiving Day.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (6 p.) ;</subfield>
+    <subfield code="c">8 1/2 x 5 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes envelope.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Thomas Wentworth Higginson reports on some legal aspects of the Anthony Burns case. He doubts that a Massachusetts jury will convict Theodore Parker. He tells about Asa O. Butman, a police officer who was driven out of Worcester by a mob for attempting to investigate the Burns case. He refers to the Woman&apos;s Rights Movement. Says that he is going to be tried in a federal court. Higginson writes: &quot;The specialite to which I would like to devote myself for a year or two, had I time would be a History of Woman in Italy ---or more modestly--- a Literary History of Italian Women ... Mrs. S. J. Hale in her bulky book has drawn on the Italian sources &amp; told more about them than any one else ...&quot; Theodore Parker&apos;s sermon, &quot;Women &amp; Her Wishes,&quot; and Mrs. Stanton&apos;s &quot;Appeal to the N.Y. Legislature&quot; should be translated into French. Higginson said: &quot;Lucy Stone with her usual energy has had a series of five tracts stereotyped.&quot; Higginson praises her eloquence. He criticizes the &quot;Philosophie de XIXme Siecle,&quot; by Grespin(?).</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Higginson, Thomas Wentworth,</subfield>
+    <subfield code="d">1823-1911</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Burns, Anthony,</subfield>
+    <subfield code="d">1834-1862.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Butman, Asa O.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Parker, Theodore,</subfield>
+    <subfield code="d">1810-1860.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stone, Lucy,</subfield>
+    <subfield code="d">1818-1893.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stanton, Elizabeth Cady,</subfield>
+    <subfield code="d">1815-1902.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women&apos;s rights.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

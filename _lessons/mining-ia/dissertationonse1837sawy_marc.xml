@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01154nam a2200241Ia 4500</leader>
+  <controlfield tag="001">3615178</controlfield>
+  <controlfield tag="005">20101123140900.0</controlfield>
+  <controlfield tag="008">840926s1837    ctu           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)11197903</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm11197903</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CWR</subfield>
+    <subfield code="c">CWR</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+    <subfield code="d">DRB</subfield>
+    <subfield code="d">VA@</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.S275</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4288.68</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sawyer, Leicester A.</subfield>
+    <subfield code="q">(Leicester Ambrose),</subfield>
+    <subfield code="d">1807-1898.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="2">
+    <subfield code="a">A dissertation on servitude :</subfield>
+    <subfield code="b">embracing an examination of the Scripture doctrines on the subject, and an inquiry into the character and relations of slavery. /</subfield>
+    <subfield code="c">by Leicester A. Sawyer.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New Haven :</subfield>
+    <subfield code="b">Published by Durrie &amp; Peck, Hitchcock &amp; Stafford, printers,</subfield>
+    <subfield code="c">1837.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">108 p. ;</subfield>
+    <subfield code="c">19 cm.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" ">
+    <subfield code="a">Patriarchal servitude -- The servitude of the Mosaic institutes -- The New Testament doctrines respecting servitude -- The slavery of the Greeks and Romans -- The nature of righteous servitude -- The different kinds of servitude -- Is slavery wrong? Ought slavery to be immediately abolished?</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery and the church.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

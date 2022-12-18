@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00914nam a2200229Ia 4500</leader>
+  <controlfield tag="001">3586655</controlfield>
+  <controlfield tag="005">20101015165900.0</controlfield>
+  <controlfield tag="008">840917s1835    fr            000 0 fre  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   84215515 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)265456866</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn265456866</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">CUD</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">H.710.M11H</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Macaulay, Zachary,</subfield>
+    <subfield code="d">1768-1838.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Haïti, ou, Renseignemens authentiques sur l&apos;abolition de l&apos;esclavage et ses résultats a Saint-Domingue et a la Guadeloupe, :</subfield>
+    <subfield code="b">avec des détails sur l&apos;état actuel d&apos;Haïti et des noirs émancipés qui forment sa population ; traduit de l&apos;anglais.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Paris :</subfield>
+    <subfield code="b">Chez L. Hachette,</subfield>
+    <subfield code="c">1835.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">iv, 207 p. ;</subfield>
+    <subfield code="c">23 cm.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slaves</subfield>
+    <subfield code="x">Emancipation</subfield>
+    <subfield code="z">Haiti.</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2=" ">
+    <subfield code="a">Renseignemens authentiques sur l&apos;abolition de l&apos;esclavage et ses résultats à Saint-Domingo et à la Guadelopue.</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2=" ">
+    <subfield code="a">Haïti.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

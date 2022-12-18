@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02586ntm a22003257a 4500</leader>
+  <controlfield tag="001">3570046</controlfield>
+  <controlfield tag="005">20100813143400.0</controlfield>
+  <controlfield tag="008">090115s1862    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18621116</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.31, p.24</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ricketson, Joseph.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Deborah</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New Bedford, [Mass.],</subfield>
+    <subfield code="c">11th mo[nth] 14th [day] 1862.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (6 p.) ;</subfield>
+    <subfield code="c">9 7/8 x 7 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, Joseph Ricketson answers Deborah Weston&apos;s question: &quot;What do you think of Dana?&quot; Ricketson replies: &quot;He belongs to the Seward Party---logic has dimmed his moral vision ...His is the &apos;laissez faire,&apos; the time serving policy.&quot; For years, Joseph Ricketson has not voted &quot;from conscientious scruples.&quot; Using various similes and anecdotes, Joseph Ricketson discloses that he voted the whole Republican ticket. He pays a poetic tribute to Massachusetts. Joseph Ricketson says: &quot;McClellan is removed, the Window is open and the clear light &amp; pure air already invigorates us. May [Ambrose Everett] Burnside be as &apos;loyal to humanity, and the instinct of our common nature,&apos; &amp; &apos;Disloyal to the Northern Pulpit &amp; the Prejudice of Race, as when he unfurled the stars &amp; stripes in sight of Roanoke, and took from that little canoe, the black man for his Pilot.&apos;&quot; Joseph Ricketson gives news of New Bedford people. Captain Thomas R. Rodman returned on a furlough and has been sick ever since he left Lynnfield. Joseph Ricketson reports: &quot;The Brave Italian, Col. Maggi is at Warrenton with the Mass. 33&apos;d ready for action any moment. I never saw a man so imbued with the spirit of Liberty as Maggi---he has the principles of Mazzini &amp; the military qualifications of Garibald[i] combined. Should his life be spared, he will probably be promoted.&quot; [Moncure D.] Conway gave a lecture at the Lyceum that was &quot;grand and electric---and universally liked.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b. 1814</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Ricketson, Joseph</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Conway, Moncure Daniel,</subfield>
+    <subfield code="d">1832-1907.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Burnside, Ambrose Everett,</subfield>
+    <subfield code="d">1824-1881.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dana, Richard Henry,</subfield>
+    <subfield code="d">1815-1882.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Maggi, Albert C.,</subfield>
+    <subfield code="d">1824-</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Deborah Weston Correspondence (1830-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 6</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02528ntm a22003137a 4500</leader>
+  <controlfield tag="001">3501645</controlfield>
+  <controlfield tag="005">20100407222100.0</controlfield>
+  <controlfield tag="008">090115s1863    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18630503</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3501645</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.31, p.56</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hesse, Augustus,</subfield>
+    <subfield code="d">d. 1867.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Miss Deborah Weston</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Camp, 9th Mass. Battery, Centreville, Va.,</subfield>
+    <subfield code="c">May 3rd, 1863, Evening Seven o&apos;clock, Marching early 4 o&apos;clock.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (8 p.) ;</subfield>
+    <subfield code="c">8 x 5 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Augustus Hesse was so pleased to read Deborah Weston&apos;s letter, &quot;as if I had read the news of a Victory on to Richmond.&quot; They have moved &quot;a little farder [sic] to the front---but it is not far enough for me---it is the front of the defense of Washington.&quot; Hesse tells of the arrival of generals: &quot;Gen. Abercrombie, our Division Commandant arrived here a week ago from last Wednesday---He walks around here like an old Farmer. I do not know how he is in a Battle-field. I have not heard much about him. He is pretty old.&quot; Hesse tells of the journey from Upton Hill to Centreville: &quot;I saw the house where Gen. Stoughton was taken.&quot; At Centreville, they were joined by the Keystone Battery, which was with them at Camp Chase. He describes the arrangement of the camp. The park has to be swept every day &quot;so it is clean all the time and looks as nice as a Parlor, the grass is the Carpet---and indeed Mrs. Weston would be pleased to see our Park.&quot; Only a few houses are left in Centreville. A brigade band furnishes excellent music and makes Augustus Hesse&apos;s heart jump. Hesse says: &quot;A glorious report has come here in Camp---that is that Joe Hooker is between the Rebel Lee and Richmond by golly that&apos;s good.&quot; Augustus Hesse hopes to receive a revolver through Deborah Weston. He comments: &quot;Proud you may feel to send such a weapon to a friend who knows how to use it when he gets the chance.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b. 1814</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hesse, Augustus,</subfield>
+    <subfield code="d">d. 1867</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hooker, Joseph,</subfield>
+    <subfield code="d">1814-1879.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Civil War, 1861-1865.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Deborah Weston Correspondence (1830-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

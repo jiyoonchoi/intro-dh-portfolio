@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02838ntm a22003857a 4500</leader>
+  <controlfield tag="001">3586375</controlfield>
+  <controlfield tag="005">20101014222100.0</controlfield>
+  <controlfield tag="008">090115s1847    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18471118</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3586375</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.4.6A v.1, p.118</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to Maria Weston Chapman]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Dublin, Ireland],</subfield>
+    <subfield code="c">[ca. 1847 Nov. 18].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (3 p.) ;</subfield>
+    <subfield code="c">10 5/8 x 4 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This letter is partly concerned with anti-slavery fair business and includes a statement of accounts. Richard Davis Webb received a letter from Sidney Howard Gay touching on &quot;the Howitt affair,&quot; and Gay observed that &quot;when his friend [Charles Frederick?] Briggs wrote the tactless(?) notice of Homes and Haunts he was quite innocent of any connexion between the Howitts &amp; the A.S. cause.&quot; [In 1847, William Howitt wrote Homes and Haunts of the Most Eminent British Poets.] Richard D. Webb feels that he has mortally offended Maria Weston Chapman. Webb thinks that &quot;if Briggs be a good abolitionist, he is certainly to be preferred to all the Howitts in the world.&quot; Webb remarks that Frederick Douglass is intensely suspicious &quot;and this only can explain his not having been open with Garrison.&quot; Webb comments on the inappropriateness of coming to England to collect money at this time when it is scarce. The friends of the Garrisonians &quot;lie manily in Bristol, Scotland, Manchester &amp; Ireland.&quot; Richard Davis Webb accounts for his own remarks about Nathaniel P. Rogers in the Standard: &quot;Perhaps if I had read some of the later passages [in the Herald of Freedom] after the schism, I should not have been so romantic &amp; pathetic.&quot; Richard D. Webb criticizes Henry Clapp: &quot;He has been making most improper use of my name since he returned.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Originally enclosed with this manuscript was a letter by Richard Davis Webb to Anne Warren Weston, Nov. 18, 1847, Call No. Ms.A.9.2 v.23, p.77.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Briggs, Charles F.</subfield>
+    <subfield code="q">(Charles Frederick),</subfield>
+    <subfield code="d">1804-1877.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Clapp, Henry.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Gay, Sydney Howard,</subfield>
+    <subfield code="d">1814-1888.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Howitt, William,</subfield>
+    <subfield code="d">1792-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Rogers, Nathaniel Peabody,</subfield>
+    <subfield code="d">1794-1846.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 3</subfield>
+  </datafield>
+</record>

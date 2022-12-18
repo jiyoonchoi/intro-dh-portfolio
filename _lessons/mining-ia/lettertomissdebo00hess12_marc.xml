@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02556ntm a22003137a 4500</leader>
+  <controlfield tag="001">3501575</controlfield>
+  <controlfield tag="005">20100407222100.0</controlfield>
+  <controlfield tag="008">090115s1863    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">1863</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3501575</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.31, p.40</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hesse, Augustus,</subfield>
+    <subfield code="d">d. 1867.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Miss Deborah Weston</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Fort Ramsay, Va.,</subfield>
+    <subfield code="c">February 1st, 1863.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">8 x 5 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, Augustus Hesse writes: &quot;Nothing is better for a soldier, as to receive letters from home, ...&quot; At present, they know nothing about victory, &quot;while our time has not come yet for glory hallaluja [sic] as We go Marching on.&quot; He meditates on the uncertain knowledge of &quot;the result of this great Revolution&quot; and on the readiness of the soldiers, &quot;the true Servants of our Government&quot; to open the way for liberty. &quot;Slavery is in front of us which We got to fight, and to drive before us, like the dew before the Sun, Liberty is in the rear of us, which will follow us, like the Lam[b] the Mother.&quot; The weather in the South is too changeable for carrying on the war in winter; they will have to wait a month before leaving their winter camps. But when the time for action comes, it will be eager and desparate. Hesse says: &quot;We can not play with them [the enemy] any longer, the way we have done---No We got to fight, to show them we are in earnest, and that we are able to master them, ---The soldiers will loose [sic] their courage, a good enemy have now allready [sic], ---especially some Politicals, ---which do not like to hear or see President Lincoln&apos;s Proclamation of Emancipation---but it does not make any difference yet.&quot; But the majority of soldiers are in favor of emancipation. Hesse asks: &quot;Will our Men re-entlist [sic]? I believe not, but the Governemnt may succeed in getting some by offereing a great Bounty or Land--- ...&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b. 1814</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hesse, Augustus,</subfield>
+    <subfield code="d">d. 1867</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">President (1861-1865 : Lincoln).</subfield>
+    <subfield code="t">Emancipation Proclamation.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Civil War, 1861-1865.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Deborah Weston Correspondence (1830-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

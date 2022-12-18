@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01039nam a2200253K  4500</leader>
+  <controlfield tag="001">3615363</controlfield>
+  <controlfield tag="005">20101124102000.0</controlfield>
+  <controlfield tag="008">990923s1833    stk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)42419098</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm42419098</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PUL</subfield>
+    <subfield code="c">PUL</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">res. 4265.59 No.12</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="2">
+    <subfield code="a">A full report of the proceedings at the meetings of Messrs.</subfield>
+    <subfield code="b">Thompson and Borthwock, at Dalkeith ... 22d March, 1833 ...</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Glasgow,</subfield>
+    <subfield code="c">1833.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">17 p. ;</subfield>
+    <subfield code="c">15 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">A discussion of colonial slavery, pro and con.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">&quot;Taken from the Glasgow Chronicle&quot;</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy has preliminary page (removed and enclosed in mylar) of formerly bound volume with inscription &quot;Joshua Coffin&apos;s Book, Newbury, Mass.&quot;, and a ms. table of contents.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Coffin, Joshua,</subfield>
+    <subfield code="d">1792-1864,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Thompson, George,</subfield>
+    <subfield code="d">1804-1878.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Borthwick, P.</subfield>
+    <subfield code="q">(Peter),</subfield>
+    <subfield code="d">1804-1852.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

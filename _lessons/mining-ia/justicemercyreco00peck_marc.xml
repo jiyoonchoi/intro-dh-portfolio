@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00988cam a2200241Ia 4500</leader>
+  <controlfield tag="001">3378484</controlfield>
+  <controlfield tag="005">20090707141000.0</controlfield>
+  <controlfield tag="008">990409s1788    mau      b    000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(UtOrBLW)ocm41136780</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">mat090000711</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MIA</subfield>
+    <subfield code="c">SA9</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">f------</subfield>
+    <subfield code="a">e-uk---</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Res. 7579.74 no. 7</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Peckard, Peter,</subfield>
+    <subfield code="d">1718?-1797.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Justice and mercy recommended, particularly with reference to the slave trade :</subfield>
+    <subfield code="b">a sermon preached before the University of Cambridge /</subfield>
+    <subfield code="c">by P. Peckard.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Cambridge :</subfield>
+    <subfield code="b">Printed by J. Archdeacon, for J. &amp; J. Merrill ... [et al.],</subfield>
+    <subfield code="c">MDCCLXXXVIII [1788].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">48 p. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Sabin,</subfield>
+    <subfield code="c">59496</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave trade</subfield>
+    <subfield code="z">Africa.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave trade</subfield>
+    <subfield code="z">Great Britain.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery and the church</subfield>
+    <subfield code="z">Great Britain.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1ST</subfield>
+    <subfield code="b">BANF</subfield>
+    <subfield code="h">No.7 in 7579.74</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2009). Backstage Library Works.</subfield>
+  </datafield>
+</record>

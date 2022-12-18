@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02689ntm a22003377a 4500</leader>
+  <controlfield tag="001">3554915</controlfield>
+  <controlfield tag="005">20100625100100.0</controlfield>
+  <controlfield tag="008">090115s1846    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18460210</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.22, p.18</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Quincy, Edmund,</subfield>
+    <subfield code="d">1808-1877.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Incomplete letter to] Dear Caroline</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Dedham, [Mass.],</subfield>
+    <subfield code="c">Feb. 10, 1846.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (6 p.) ;</subfield>
+    <subfield code="c">10 5/8 x 8 3/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Edmund Quincy sends a corrected copy of the report. He considers the misprints, paper, press work, etc., disgraceful. Graham [Journal?] found fault with [Edmund Quincy&apos;s story], &quot;The Haunted Adjutant,&quot; because of his profanity; and several pious ladies were &quot;shocked to death.&quot; At the board meeting of the Massachusetts Anti-Slavery Society they voted to employ certain agents. Cyrus M. Burleigh was &quot;laid on the table&quot; till it can be ascertained whether he was &quot;thoroughly cured of Rogerism.&quot; At the board meeting of the American Anti-Slavery Society, Sydney (Howard Gay) was asked what he wished to have done to get subscribers. &quot;Father [Seth?] Sprague declined signing the memorial on the ground of his great age &amp; the distress it would cause his sons!&quot; He gives various reports on the concert of the Rogers family. If (Nathaniel P.) Rogers has really lost his property, that &quot;he had better go to lawyering, or to editing a Loco Foco paper, than send his children about the country, as itinerant singers!&quot; Edmund Quincy has not found the Pioneer in the office. He misses the Pioneer&apos;s &quot;absurdities &amp; little wickednesses.&quot; No news has been received from&quot;Childe David&quot; (David Lee Child). Letters from Warren (Weston) tell that he is prospering. He tells of high snow drifts. Ralph Waldo Emerson was to lecture before the Lyceum and to stay with Edmund Quincy, but it would be impossibe for Emerson to get here. Edmund Quincy will lecture on George Fox&apos;s heresies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The end of this letter is missing.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Quincy, Edmund,</subfield>
+    <subfield code="d">1808-1877</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Burleigh, Cyrus Moses,</subfield>
+    <subfield code="d">1820-1855.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Emerson, Ralph Waldo,</subfield>
+    <subfield code="d">1803-1882.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Rogers, Nathaniel Peabody,</subfield>
+    <subfield code="d">1794-1846.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, R. Warren</subfield>
+    <subfield code="q">(Richard Warren),</subfield>
+    <subfield code="d">1819-1873.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Caroline Weston Correspondence (1834-1874)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 6</subfield>
+  </datafield>
+</record>

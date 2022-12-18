@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01243nam a2200253Ia 4500</leader>
+  <controlfield tag="001">3615218</controlfield>
+  <controlfield tag="005">20101123155900.0</controlfield>
+  <controlfield tag="008">101123s1825    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)682947877</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn682947877</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+    <subfield code="c">BRL</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nw-----</subfield>
+    <subfield code="a">e-uk---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Res. 7586.64 no. 16</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Incorporated Society for the Conversion and Religious Instruction and Education of the Negro Slaves in the British West India Islands.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Address of the Incorporated Society for the Conversion and Religious Instruction and Education of the Negro Slaves in the British West India Islands.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[London :</subfield>
+    <subfield code="b">The Society],</subfield>
+    <subfield code="c">M.DCCC.XXV. [1825]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">6, [1] , 16, 12 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In three paginations with a single title page: 1. the address; 2. the address plus list of subscribers and list of donors; 3. list of subscribers and list of donors.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Incorporated Society for the Conversion and Religious Instruction and Education of the Negroe Slaves in the British West Indies.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Christian education</subfield>
+    <subfield code="z">West Indies, British</subfield>
+    <subfield code="x">Societies, etc.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slaves</subfield>
+    <subfield code="z">West Indies, British</subfield>
+    <subfield code="x">Religion.</subfield>
+  </datafield>
+  <datafield tag="752" ind1=" " ind2=" ">
+    <subfield code="a">England</subfield>
+    <subfield code="d">London.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01459nam a2200325Ia 4500</leader>
+  <controlfield tag="001">3584188</controlfield>
+  <controlfield tag="005">20101001104300.0</controlfield>
+  <controlfield tag="008">850214s1840    xx            000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)11692520</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm11692520</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DRB</subfield>
+    <subfield code="c">DRB</subfield>
+    <subfield code="d">UMC</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">PS2150.J4</subfield>
+    <subfield code="b">A36 1840</subfield>
+  </datafield>
+  <datafield tag="092" ind1=" " ind2=" ">
+    <subfield code="a">326.4</subfield>
+    <subfield code="b">A154</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4265.278</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jones, Benjamin S.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Abolitionrieties, or, Remarks on some of the members of the Pennsylvania State Anti-Slavery Society for the eastern district, and the American Anti-Slavery Society :</subfield>
+    <subfield code="b">most of whom were present at the annual meetings, held in Philadelphia and New York in May, 1840.</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">Abolitionrieties</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">Remarks on some of the members of the Pennsylvania State Anti-Slavery Society for the eastern district, and the American Anti-Slavery Society</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[S.l. :</subfield>
+    <subfield code="b">s.n.,</subfield>
+    <subfield code="c">1840]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">32 p. ;</subfield>
+    <subfield code="c">13 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Satirical poem.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Checklist Amer. imprints</subfield>
+    <subfield code="c">40-3657</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Book Department) copy ex libris (BPL bookplate): F.J. Garrison, no doubt from the library of his father, William Lloyd Garrison.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Pennsylvania Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">American Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="v">Poetry.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, Francis Jackson,</subfield>
+    <subfield code="d">1848-1916,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

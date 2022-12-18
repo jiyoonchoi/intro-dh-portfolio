@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>04545ntm a22004697a 4500</leader>
+  <controlfield tag="001">3336626</controlfield>
+  <controlfield tag="005">20090528020900.0</controlfield>
+  <controlfield tag="008">090115s1856    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18560929</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3336626</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.28, p.71</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to Anne W. Weston?] My dear friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Drumnigh Cottage, County of Dublin, [Ireland],</subfield>
+    <subfield code="c">September 29, 1856.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (8 p.) ;</subfield>
+    <subfield code="c">10 1/8 x 8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Richard D. Webb says that the addressee&apos;s letter reached him at a time when he was very busy. He tells about the eye strain caused by his work. Anne W. Weston also complained of trouble with her eyes. Webb thought he might have offended the addressee by his criticism of George Thompson&apos;s conduct at the recent London conference. It seemed that Thompson was trying to conciliate J. Sturge and the British &amp; Foreign Anti-Slavery Society. He says G. T. [George Thompson?] is now in Ceylon recovering from an illness. He is expected back in England within two years. Mrs. Webb helps him with the Anti-Slavery Advocate. Richard Webb received a complimentary letter from Harriet Martineau. Webb wrote: &quot;Along with Miss Martineau&apos;s note came one from her cousin Mrs. Turner of Lentonfield near Nottingham...&quot; He says that the Charles Sumner incident and the Kansas troubles have increased the interest of the English people in the anti-slavery cause. An English newspaper, the Globe, &quot;has given Garrison &amp; Phillips a prominent place in its editorial columns.&quot; Harriet Martineau &quot;has regularly set herself to write up Garrison &amp; Phillips to public notice in England...&quot; He is thankful that the abolitionist cause has &quot;brought me finally into a cordial friendship with the very remarkable deaf woman who is also nearly destitute of taste and smell.&quot; He discusses printing as a livlihood. He compares the economic opportunities in the British Isles and America. He remarks on the way Americans can spend a year traveling abroad without losing their jobs. Many people have left Dublin for the holiday. He describes the suburbs of Dublin as &quot;...stiff suburban villas crammed together with little formal bits of garden...&quot; He describes his own country house. He has been unable to get hired help. Josiah Quincy Jr. visited him. He describes Quincy as &quot;A somewhat stately, stiff man with a decided Quincy face...&quot; Mr. &amp; Mrs. Waterson and their daughter also came to visit Webb. &quot;Mr. W. is a quiet little man somewhat formal in the old style.&quot; He took the Watersons to the &quot;Ms. Room of Dublin University Library where they saw...manuscripts upwards of 1200 years old--one of them of extraordinary interest...an illuminated copy of the Gospels said to have belonged to St. Columba...&quot; The &quot;Address to the People of Quincy,&quot; by Josiah Quincy, Sr. was the subject of two articles by Harriet Martineau and another in the London Times. He had an argument with the Manchester Examiner &amp; Times. Mary A. Estlin&apos;s health is bad and her headaches are very frequent. He regrets not getting letters from her. &quot;My Australian son is at home with us...&quot; He tells about the rest of the family. &quot;Your sister Anne asks me to write plainly.&quot; He says that if he wrote plainly he couldn&apos;t write half so much. He says that Eliza Wigham is in Dublin.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Thompson, George,</subfield>
+    <subfield code="d">1804-1878.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Sturge, Joseph,</subfield>
+    <subfield code="d">1793-1859.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Hannah,</subfield>
+    <subfield code="d">1809-1862.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Martineau, Harriet,</subfield>
+    <subfield code="d">1802-1876.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Turner, Henry,</subfield>
+    <subfield code="c">Mrs.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Sumner, Charles,</subfield>
+    <subfield code="d">1811-1874.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Quincy, Josiah,</subfield>
+    <subfield code="d">1802-1882.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Quincy, Josiah,</subfield>
+    <subfield code="d">1772-1864.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Waterston, R. C.</subfield>
+    <subfield code="q">(Robert Cassie),</subfield>
+    <subfield code="d">1812-1893.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Alfred,</subfield>
+    <subfield code="d">1834-1908.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Wigham, Eliza.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">British and Foreign Anti-slavery Society.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01278nam a2200253Ia 4500</leader>
+  <controlfield tag="001">3615117</controlfield>
+  <controlfield tag="005">20101222224900.0</controlfield>
+  <controlfield tag="008">940628s1833    ohu           000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   94840721 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3615117</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)30783392</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm30783392</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+    <subfield code="d">KRTAS</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">AC901</subfield>
+    <subfield code="b">.M5 vol. 295, no. 8</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Res. 4265.57 no. 9</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Green, Beriah,</subfield>
+    <subfield code="d">1795-1874.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Four sermons preached in the chapel of the Western Reserve College :</subfield>
+    <subfield code="b">on Lord&apos;s Days, November 18th and 25th, and December 2nd and 9th, 1832 /</subfield>
+    <subfield code="c">By Beriah Green.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Cleveland :</subfield>
+    <subfield code="b">Office of the Herald,</subfield>
+    <subfield code="c">1833.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">52 p. ;</subfield>
+    <subfield code="c">20 cm.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. [missing from box] -- 2. Walker&apos;s appeal, in four articles -- 3. The speech of William H. Brodnax -- 4. The speech of John Thompson Brown -- 5. Reflections, occasioned by the late disturbances in Charleston -- 6. Evidence against the views of the abolitionists -- 7. Natural equality -- 8. The religious instruction of the Negroes -- 9. Four sermons preached in the chapel of the Western Reserve College.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="v">Sermons.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Miscellaneous Pamphlet Collection (Library of Congress)</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

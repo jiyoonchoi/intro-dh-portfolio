@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02793ntm a22003377a 4500</leader>
+  <controlfield tag="001">3473388</controlfield>
+  <controlfield tag="005">20100204221500.0</controlfield>
+  <controlfield tag="008">090115s1848    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18480319</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3473388</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.24, p.50</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carpenter, Mary,</subfield>
+    <subfield code="d">1807-1877.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Bristol, [England],</subfield>
+    <subfield code="c">Mar[ch] 19, 1848.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 leaves (11 p.) ;</subfield>
+    <subfield code="c">7 7/8 x 4 7/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, Mary Carpenter refers to &quot;the mischance of our Bristol boxes.&quot; She is pleased that William Lloyd Garrison would like to have one of her drawings. She asks Maria Weston Chapman to choose the most beautiful and placid drawing for him. Carpenter comments about William Lloyd Garrison: &quot;I greatly value his friendship, &amp; esteem it a privilege to be personally acquainted with a devoted &amp; earnest a servant of his Lord.&quot; She hopes Maria W. Chapman will see Bristol before she goes to London and the continent. She expresses admiration for Elihu Burritt. Carpenter says about Elihu Burritt: &quot;I have seen nothing in his writings of compromising character...&quot; She says that &quot;&apos;his still, small voice&apos; has united in a League of Brotherhood 20,000 English with as many Americans.&quot; She refers to &quot;the unhappy proceedings about the printing press, etc. &amp; the separation of the Liberty party from the old Abolitionists,&quot; but which Carpenter can form no opinion. Carpenter cannot condemn Elihu Burritt &quot;solely because he lectured for Liberty Party.&quot; The English regard abolitionists as all those who exert themselves for the abolition of slavery. She mentions especially Dr. [John Gorham] Palfrey. Carpenter draws an analogy between Unitarians who hold other Christians as unprincipled and abolitionists who suppose people to be unprincipled because they have not separated from the constitution. Carpenter is &quot;glad to live at&quot; a period which will be &quot;a world era.&quot; She comments on the recent French revolution and the signs of &quot;free spiritual life&quot; in Italy, Austria, and Russia.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Carpenter, Mary,</subfield>
+    <subfield code="d">1807-1877</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Burritt, Elihu,</subfield>
+    <subfield code="d">1810-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Palfrey, John Gorham,</subfield>
+    <subfield code="d">1796-1881.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">France</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">February Revolution, 1848.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 12</subfield>
+  </datafield>
+</record>

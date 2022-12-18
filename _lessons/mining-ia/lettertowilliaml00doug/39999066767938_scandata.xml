@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <bookId>lettertowilliaml00doug</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3288</origWidth>
+      <origHeight>4032</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3288</w>
+        <h>4032</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3279</origWidth>
+      <origHeight>4001</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3279</w>
+        <h>4001</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

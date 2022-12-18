@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03510ntm a22004457a 4500</leader>
+  <controlfield tag="001">3620272</controlfield>
+  <controlfield tag="005">20110201222100.0</controlfield>
+  <controlfield tag="008">090115s1861    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18610716</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3620272</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.30, p.70</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Greenfield, Kilgobbin, Co[unty], [Dublin, Ireland],</subfield>
+    <subfield code="c">July 16, 1861.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 leaves (14 p.) ;</subfield>
+    <subfield code="c">8 1/4 x 5 3/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The pages of this letter are numbered out of sequence.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Richard Davis Webb wonders at the &quot;unreserved exultation on the part of many out and out friends of nonresistance among the abolitionists at the opening of a long and bloody struggle.&quot; Richard D. Webb thinks that &quot;there was no sufficient provocation for the outbursts of anger in the United States at the neutral position of England... since the struggle on the part of the free states has never yet taken the aspect of an antislavery struggle on the part either of the government or the people.&quot; Nevertheless, Richard D. Webb believes that the great majority of people who had any opinion are in favor of the free states. The cotton interest is powerful. A strong feeling prevails in England that American newspaper editors are bound to pick a quarrel with her. Richard D. Webb does not wonder at this, as so large a portion of the American population are Irish who hate England. He gives the opinion of Dr. (George Barrel) Cheever that thousands of Democrats who fell into the popular cry after the fall of Fort Sumter would gladly coalesce with the Southerners again if they dared. Dr. Cheever praised Wendell Phillips and spoke of the &quot;shuffling expediency of H.W. Beecher.&quot; Richard D. Webb&apos;s family had a long visit from Mattie Griffith, the author of &quot;Autobiography of a Female Slave,&quot; who liberated her own slaves. He tells of a visit at Miss Estlin&apos;s and of her project to publish a Life of John Brown. Compiled by Richard D. Webb and his wife, the book as just been completed. Richard D. Webb&apos;s son Alfred is engaged and has made a trip to Iceland. Richard D. Webb sympathizes with Italy. Richard D. Webb says: &quot;How you must have felt the loss of Mrs. Browning!&quot; And he comments on Mrs. Browning&apos;s poetry. George Thompson has been traveling about with Dr. Cheever. Sarah Remond praised Deborah Weston.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Beecher, Henry Ward,</subfield>
+    <subfield code="d">1813-1887.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Brown, John,</subfield>
+    <subfield code="d">1800-1859.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Browning, Elizabeth Barrett,</subfield>
+    <subfield code="d">1806-1861.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Cheever, George Barrell,</subfield>
+    <subfield code="d">1807-1890.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Browne, Martha Griffith,</subfield>
+    <subfield code="d">d. 1906.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Remond, Sarah Parker,</subfield>
+    <subfield code="d">1826-1887?</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Thompson, George,</subfield>
+    <subfield code="d">1804-1878.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Alfred,</subfield>
+    <subfield code="d">1834-1908.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Great Britain</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Civil War, 1861-1865.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 14</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02273cam a2200313Ia 4500</leader>
+  <controlfield tag="001">2862273</controlfield>
+  <controlfield tag="005">20070725035000.0</controlfield>
+  <controlfield tag="008">980928s1787    pau     b     000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   61057030 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">61057030</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">dcrb</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-pa</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">E446</subfield>
+    <subfield code="b">.P409</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">No.6 in 6450a.1</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Res.7589a.54 no. 10</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Pennsylvania Society for Promoting the Abolition of Slavery.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The constitution of the Pennsylvania Society, for Promoting the Abolition of Slavery and the relief of free Negroes, unlawfully held in bondage :</subfield>
+    <subfield code="b">begun in the year 1774 and enlarged on the twenty-third of April 1787 : to which are added the acts of the General Assembly of Pennsylvania, for the gradual abolition of slavery.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Philadelphia :</subfield>
+    <subfield code="b">Printed by Joseph James ...,</subfield>
+    <subfield code="c">M.DCC.LXXXVII. [1787].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">15 p. ;</subfield>
+    <subfield code="c">18 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signatures: [A]B.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">[Drawn up by Benjamin Franklin].</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Evans,</subfield>
+    <subfield code="c">20636</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. Address to the friends of liberty -- 2. The constitution of the American Anti-Slavery Society -- 3. Constitution of the Baptist Anti-slavery Society, Providence -- 4. British and Foreign AntiSlavery Society -- 5. A vindication of female anti-slavery associations -- 6. Constitution of the ... Anti-Slavery Society -- 7. Work for abolitionists!! -- 8. Constitution of the New-England Anti-Slavery Society -- 9. An apology for abolitionists -- 10. The constitution of the Pennsylvania Society, for Promoting the Abolition of Slavery and the relief of free Negroes (1787) -- 11. The constitution of the Pennsylvania Society, for Promoting the Abolition of Slavery, and the relief of Free Negroes (1788).</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Pennsylvania Society for Promoting the Abolition of Slavery</subfield>
+    <subfield code="v">Constitution.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">Pennsylvania</subfield>
+    <subfield code="v">Early works to 1800.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="x">Law and legislation</subfield>
+    <subfield code="z">Pennsylvania</subfield>
+    <subfield code="v">Early works to 1800.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">Pennsylvania</subfield>
+    <subfield code="v">Early works to 1800.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1ST</subfield>
+    <subfield code="b">BANF</subfield>
+    <subfield code="h">No.6 in 6450a.1</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2007). Backstage Library Works.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1ST</subfield>
+    <subfield code="b">BANF</subfield>
+    <subfield code="h">No.10 in 7589a.54</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2007). Backstage Library Works.</subfield>
+  </datafield>
+</record>

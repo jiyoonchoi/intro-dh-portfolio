@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>04106ntm a22003137a 4500</leader>
+  <controlfield tag="001">3338210</controlfield>
+  <controlfield tag="005">20090605021200.0</controlfield>
+  <controlfield tag="008">090115s1835    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18350913</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3338210</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.7, p.65-66</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Diary entries by Caroline Weston]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">Sept. 13, 1835, Sunday, [through Oct. 1835?; and Jan. 22, 1837].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">12 leaves (24 p.) ;</subfield>
+    <subfield code="c">7 7/8 x 6 1/2 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Caroline Weston&apos;s diary begins with an entry on Sunday, Sept. 13, 1835. She criticizes the preachers she heard, including [Ezra Stiles?] Gannett. Wednesday, [Sept.] 16: She comments on a dinner at West Street with Mr. and Mrs. George Thompson as &quot;a horrid concern,&quot; although Thompson himself was very entertaining. Thursday, [Sept.] 17: She records a social evening at her house and names the guests. Saturday, [Sept.] 19: She describes an hour spent with George Thompson, &quot;I am liking him better and better.&quot; And tells of Anne Warren Weston&apos;s departure with Thompson for Weymouth as their being &quot;in a state of great exaltation.&quot; She reflects that &quot;they cannot get up a mob in Braintree or Weymouth.&quot; She praises a letter from Miss Grimke to William Lloyd Garrison. Sunday, [Sept.] 20: She describes her ride to Weymouth, where Anne W. Weston reported the success of [George Thompson&apos;s] preaching. Caroline Weston describes, summariezes, and comments on an evening lecture by Thompson in a Weymouth church. Thursday, Sept. 24: She comments on a convention in the Odeon, where &quot;the wine question was discussed furiously.&quot; Mrs. Maria W. Chapman is engaged in forming an anti-slavery society in Weymouth. Friday, [Sept.] 25: Mary Parker told that our friend [George Thompson] had been mobbed at Abington and &quot;just grazed by a stone.&quot; Caroline Weston was &quot;in great trepidation&quot; at home during the meeting of the New England Anti-Slavery Society, but found that the meeting, with George Thompson as speaker, was undisturbed. Caroline attended the &quot;monthly concert of prayer for the slaves&quot; at Deacon [John?] Gulliver&apos;s. Caroline reflects that the &quot;covenant with hell is broken.&quot; Sunday, [Oct. 4]: She criticizes the preaching at [John] Pierpont&apos;s church and at the Free Church. Monday, [Oct.] 5th: Caroline attended &quot;a most excellent meeting&quot; at which George Thompson spoke splendidly, and Jarvis Gregg&quot; gave his testimony as to the throat-out charge.&quot; Thursday, [Oct.] 8: The new quarter at Caroline&apos;s school begins, with two new scholars and two more expected. The school &quot;will do pretty well--but it cannot be denied that it might be better--never mind--there is nothing like waiting patiently...&quot; The Rev. Mr. Burton and George Thompson came in the evening. Caroline compares the two, praising Thompson&apos;s &quot;style of argument.&quot; Mrs. Maria W. Chapman had an abolition play at her own house. Sunday, [Oct.] 11: She comments caustically on the preachers she heard, including Ralph Randolph Gurley. She tells where the notice of the meeting of the Boston Female Anti-Slavery Society was read and where not. Mr. Samuel J. May called and gave Caroline much information. Caroline heard of the sudden death of Mr. Moorfield and reflects on the passing of many acquaintances. Jan. 22, 1837: Anti-Slavery notices were sent to all the churches in Boston. John Pierpont did not read the notice.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The final page of Caroline&apos;s diary is missing. It refers to George Thompson&apos;s lecture/engagement in Abington.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Also includes an envelope with a short note written on the front; written by unknown person.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Thompson, George,</subfield>
+    <subfield code="d">1804-1878.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Caroline Weston Correspondence (1834-1874)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 26</subfield>
+  </datafield>
+</record>

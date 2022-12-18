@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01127nam a2200253K  4500</leader>
+  <controlfield tag="001">3615049</controlfield>
+  <controlfield tag="005">20101123121100.0</controlfield>
+  <controlfield tag="008">920818s1844    mau           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)26431793</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm26431793</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NYP</subfield>
+    <subfield code="c">NYP</subfield>
+    <subfield code="d">OCLCQ</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">res. 7585.72 No.17</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">West Brookfield Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">An exposition of difficulties in West Brookfield,</subfield>
+    <subfield code="b">connected with anti-slavery operations, together with a reply to some statements in a pamphlet put forth by &quot;Moses Chase, pastor of the church,&quot; purporting to be a &quot;Statement of facts in the case of Deacon Henshaw.&quot;</subfield>
+    <subfield code="c">By the Board of Managers of the W.B. Anti-slavery Society.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">West Brookfield, Mass.,</subfield>
+    <subfield code="b">Anti-slavery Society,</subfield>
+    <subfield code="c">1844.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">59 p.</subfield>
+    <subfield code="c">24 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signed: John M. Fisk.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chase, Moses,</subfield>
+    <subfield code="d">1797-1878.</subfield>
+    <subfield code="t">Statement of facts.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">First Church (West Brookfield, Mass.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery and the church</subfield>
+    <subfield code="x">Congregational churches</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="x">Religious aspects</subfield>
+    <subfield code="x">Christianity</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Fisk, John M.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

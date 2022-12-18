@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01562nam a2200301Ia 4500</leader>
+  <controlfield tag="001">3615093</controlfield>
+  <controlfield tag="005">20101123112200.0</controlfield>
+  <controlfield tag="008">860124s1833    nyu           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)191239520</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn191239520</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="e">dcrb</subfield>
+    <subfield code="c">AQM</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Res. 4265.57 no. 6</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Colfax, Richard H.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Evidence against the views of the abolitionists, :</subfield>
+    <subfield code="b">consisting of physical and moral proofs, of the natural inferiority of the Negroes. /</subfield>
+    <subfield code="c">By Richard H. Colfax.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New-York. :</subfield>
+    <subfield code="b">James T.M. Bleakley, publisher, 240 Hudson-Street.,</subfield>
+    <subfield code="c">1833.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">33, [1] p. ;</subfield>
+    <subfield code="c">20 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">&quot;Applegate, printer, 257 Hudson-Street.&quot;--verso of title page.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Last page blank.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Checklist Amer. imprints</subfield>
+    <subfield code="c">18335</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. [missing from box] -- 2. Walker&apos;s appeal, in four articles -- 3. The speech of William H. Brodnax -- 4. The speech of John Thompson Brown -- 5. Reflections, occasioned by the late disturbances in Charleston -- 6. Evidence against the views of the abolitionists -- 7. Natural equality -- 8. The religious instruction of the Negroes -- 9. Four sermons preached in the chapel of the Western Reserve College.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Controversial literature.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="x">Justification</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Black race.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bleakley, James T. M.,</subfield>
+    <subfield code="e">publisher.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Applegate, William,</subfield>
+    <subfield code="d">1804 or 5-1847,</subfield>
+    <subfield code="e">printer.</subfield>
+  </datafield>
+  <datafield tag="752" ind1=" " ind2=" ">
+    <subfield code="a">United States</subfield>
+    <subfield code="b">New York</subfield>
+    <subfield code="d">New York.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

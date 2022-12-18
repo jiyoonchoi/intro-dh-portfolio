@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03139ntm a22003737a 4500</leader>
+  <controlfield tag="001">3443324</controlfield>
+  <controlfield tag="005">20091029223800.0</controlfield>
+  <controlfield tag="008">090115s1862    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18620621</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3443324</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.31, p.8</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to Anne Greene Chapman Dicey]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Boston, Mass.],</subfield>
+    <subfield code="c">[21 June 1862].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 leaves (12 p.) ;</subfield>
+    <subfield code="c">8 1/8 x 5 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, Maria Weston Chapman comments on the American [Anti-Slavery] Society: &quot;It had done its work. It had borne the Lord into Jerusalem, &amp; I was not disturbed to see it sniffing about for palm branches on its own hook, after the Lord had no further need of it.&quot; She discusses the situation of the abolitionist newspaper, the Standard. Neither the Hovey nor the Jackson fund can be applied to the Standard, as neither Hovey nor Jackson liked the paper. If the circulation is only 1000, and if , &quot;as Garrison feels sure, no effort we can make can increase the circulation,&quot; then &quot;we must rely pretty much on the general agency.&quot; [Samuel] May, &quot;with all his goodness in many respects...can hinder money from jingling better than most.&quot; Chapman and [William Lloyd] Garrison &quot;rejoiced together over the signs of the times,&quot; even though Garrison had his doubts about McClellan. Chapman describes the &quot;beauty in death&quot; of Sarah Robbins Howe, age 74 years. Mrs. Howe had delivered to Mary Robbins a package of letters from Eliza Cabot [Follen] from the time they were girls to the death of Dr. Follen, which was to be passed on to Maria W. Chapman. She describes Mrs. Howe&apos;s funeral at Mt. Auburn Cemetery. Chapman writes: &quot;Certainly there is something consoling in death.&quot; Chapman tells how she dispelled some scandalous gossip about Effie Tudor&apos;s marriage by giving the facts. Charles Follen was delighted to see &quot;the ugly Boston spirit put down.&quot; Garrison told Chapman that &quot;the friction in the remnant of abolitionists was something frightful.&quot; She gives details involving Pillsbury, Powell, and the Fosters. Chapman resolved not to accept this year&apos;s appointment of the executive committee. Chapman comments that &quot;common sense taught the value and inevitability of a change.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dicey, Anne Greene Chapman,</subfield>
+    <subfield code="d">d. 1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Follen, Eliza Lee Cabot,</subfield>
+    <subfield code="d">1787-1860.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Howe, Sarah Robbins,</subfield>
+    <subfield code="d">1788-1862.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">May, Samuel,</subfield>
+    <subfield code="d">1810-1899.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Tudor, Effie.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">American Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">National anti-slavery standard.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dicey, Anne Greene Chapman,</subfield>
+    <subfield code="d">d. 1879,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 12</subfield>
+  </datafield>
+</record>

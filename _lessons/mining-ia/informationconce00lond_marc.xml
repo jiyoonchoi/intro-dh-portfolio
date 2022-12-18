@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00836cam a2200229Ia 4500</leader>
+  <controlfield tag="001">3315833</controlfield>
+  <controlfield tag="005">20090414091000.0</controlfield>
+  <controlfield tag="008">920819s1821    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)26450552</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm26450552</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">VA@</subfield>
+    <subfield code="c">VA@</subfield>
+    <subfield code="d">OCL</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">HT1162</subfield>
+    <subfield code="b">.L6 1821</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">326.4</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7579.74 no. 5</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">London Yearly Meeting (Society of Friends).</subfield>
+    <subfield code="b">Meeting for Sufferings.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Information concerning the slave-trade.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Printed by Harvey, Darton, &amp; Co.,</subfield>
+    <subfield code="c">1821.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[2], 48 p. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy ex libris (inscription): T. Browett.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave trade.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Browett, T.,</subfield>
+    <subfield code="e">former owner</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1ST</subfield>
+    <subfield code="b">BANF</subfield>
+    <subfield code="h">No.5 in 7579.74</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2009). Backstage Library Works.</subfield>
+  </datafield>
+</record>

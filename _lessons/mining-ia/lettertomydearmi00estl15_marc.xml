@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>04856ntm a22005537a 4500</leader>
+  <controlfield tag="001">3553143</controlfield>
+  <controlfield tag="005">20100623153400.0</controlfield>
+  <controlfield tag="008">090115s1851    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18510213</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3553143</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.25, p.63</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Miss Weston</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Park St[reet], Bristol, [England],</subfield>
+    <subfield code="c">February 13, 1851.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">6 leaves (20 p.) ;</subfield>
+    <subfield code="c">8 1/4 x 5 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Mary Anne Estlin congratulates Miss Weston on the success of the Boston Anti-Slavery Bazaar, &quot;in spite of the defalcation of the wealthy Whig purchasers.&quot; George Thompson spoke at the bazaar despite William Lloyd Garrison&apos;s objections. Mary A. Estlin is well satisfied with the Garrisonians&apos; acknowledgment of Bristol&apos;s contributions. She praises the reports of the anti-slavery fairs. More explanations should be given as to exactly what the contributions are used for. Neither Mrs. H. Thomas nor Mary Carpenter read anti-slavery literature, &quot;both of them are confirmed by Russell [Carpenter] in their vague ideas of the Abolitionists being &apos;very injudicious, intolerant---&apos;&amp;c., &amp;c.&quot; Mary A. Estlin could write a book about the Carpenter family. She discusses at length a letter from one of the Westons in Paris to J. B. Estlin describing the symtoms of an illness. Dr. John Bishop Estlin couldn&apos;t understand the letter. Mary A. Estlin discourses at length on the drudgery and the trials of illness. She was very glad that the leatherwork sold so well at the fair. Mary A. Estlin&apos;s father, Dr. John Bishop Estlin, is troubled by rheumatism. Mary A. Estlin is caring for him. John Bishop Estlin &quot;goes to sleep over H. C. Wright&apos;s letters.&quot; He prefers the National Anti-Slavery Standard to the Liberator. &quot;Mr. Quincy always excites our mirth ...&quot; Mary A. Estlin regrets not having heard Jenny Lind sing. The English are becoming skilled at distinguishing between the true and the false American abolitionists. She tells of a plan to write letters on this subject to the newspapers, which was proposed by Mrs. Massie. Dr. Estlin objected to Mrs. Massie&apos;s deleting the reference to the American abolitionists from a letter he sent her. Mrs. M. later asked him for an article for the Morning Advertiser of London, whose editor, named Grant, was a friend of hers. William Wells Brown had a great success in Glasgow with his Panorama. William Craft and Ellen Craft were also at the Glasgow meeting. Mary A. Estlin speaks of a plot involving H. H. Garnet and Mrs. Richardson to undermine the good feeling now existing in Scotland toward the Garrisonians. Dr. Estlin will complain to John Scoble about his failure to account for funds collected for the anti-slavery cause. Mary A. Estlin tells of a meeting of a half-hearted ladies&apos; anti-slavery society in Bristol, which Mrs. Armstrong also attended, and which was brought back to life by Mrs. A. and Mary A. Estlin. The society ordered the National Anti-Slavery Standard to be sent to Miss Fannie N. Tribe. Mary A. Estlin reports on the members&apos; feelings about William Lloyd Garrison. Mary A. Estlin revived the society in the expectation that Mrs. Maria Weston Chapman and Miss Weston will visit Bristol. Mary A. Estlin received a badly written letter by Richard Davis Webb proposing a partnership in foreign correspondence. The postscript contains a reference to the Unitarian clergy.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston,</subfield>
+    <subfield code="c">Miss</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Armstrong, George,</subfield>
+    <subfield code="c">Mrs.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Brown, William Wells,</subfield>
+    <subfield code="d">1814?-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Craft, Ellen.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Craft, William.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garnet, Henry Highland,</subfield>
+    <subfield code="d">1815-1882.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Carpenter, Russell Lant,</subfield>
+    <subfield code="d">1816-1892.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Lind, Jenny,</subfield>
+    <subfield code="d">1820-1887.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Massie, Isabella.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Quincy, Edmund,</subfield>
+    <subfield code="d">1808-1877.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Richardson, Anna H.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Scoble, John.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Thomas, Herbert,</subfield>
+    <subfield code="c">Mrs.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Thompson, George,</subfield>
+    <subfield code="d">1804-1878.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Tribe, Fanny N.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Wright, Henry Clarke,</subfield>
+    <subfield code="d">1797-1870.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">National anti-slavery standard.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="2" ind2="0">
+    <subfield code="a">Liberator (Boston, Mass. : 1831.).</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">Great Britain.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston,</subfield>
+    <subfield code="c">Miss</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Miss Weston Correspondence (1842-1866?)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 20</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01896nam a2200325Ii 4500</leader>
+  <controlfield tag="001">3615360</controlfield>
+  <controlfield tag="005">20101124102800.0</controlfield>
+  <controlfield tag="008">810121s1817    xx            000 0 eng d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">207480103</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)7075028</subfield>
+    <subfield code="z">(OCoLC)207480103</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm07075028</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSH</subfield>
+    <subfield code="c">PSH</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+    <subfield code="d">MNJ</subfield>
+    <subfield code="d">DOS</subfield>
+    <subfield code="d">AQM</subfield>
+    <subfield code="d">DRB</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1="1" ind2="4">
+    <subfield code="a">E446</subfield>
+    <subfield code="b">.K36 1817</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">res. 4265.59 No.3</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kenrick, John,</subfield>
+    <subfield code="d">1755-1833.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Horrors of slavery :</subfield>
+    <subfield code="b">in two parts. Part I. Containing observations, facts, and arguments, extracted from the speeches of Wilberforce, Grenville, Pitt, Burke, Fox, Martin, Whitbread, and other distinguished members of the British Parliament. Part II. Containing extracts, chiefly American, compiled from authentic sources; demonstrating that slavery is impolitic, antirepublican, unchristian, and highly criminal; proposing measures for its complete abolition through the United States /</subfield>
+    <subfield code="c">by John Kenrick.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Cambridge :</subfield>
+    <subfield code="b">Printed by Hilliard and Metcalf,</subfield>
+    <subfield code="c">1817.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">59 p. ;</subfield>
+    <subfield code="c">18 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">&quot;A copy of this work was placed by the author on the desk of every member of Congress when it was published.&quot;--ms. note.</subfield>
+    <subfield code="5">BRL</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Shaw &amp; Shoemaker,</subfield>
+    <subfield code="c">41186.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Also available via the World Wide Web.</subfield>
+  </datafield>
+  <datafield tag="538" ind1=" " ind2=" ">
+    <subfield code="a">Mode of access: World Wide Web.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy has preliminary page (removed and enclosed in mylar) of formerly bound volume with inscription &quot;Joshua Coffin&apos;s Book, Newbury, Mass.&quot;, and a ms. table of contents.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">Controversial literature</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">West Indies, British</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Coffin, Joshua,</subfield>
+    <subfield code="d">1792-1864,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="a">http://www.archive.org/details/horrorsofslavery00kenr</subfield>
+    <subfield code="z">Internet Archive</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

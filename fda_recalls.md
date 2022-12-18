@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Food Recalls in the United States
-description: Final Project
+title: Final Project
 permalink: /final-project/
 ---
 

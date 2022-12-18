@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01084nam a2200301Ia 4500</leader>
+  <controlfield tag="001">3618737</controlfield>
+  <controlfield tag="005">20101203111600.0</controlfield>
+  <controlfield tag="008">020109m18531860fr            000 0 fre d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">16770387</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)48757225</subfield>
+    <subfield code="z">(OCoLC)16770387</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm48757225</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NYP</subfield>
+    <subfield code="c">NYP</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nwht---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">res. 4294.55</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ardouin, B.</subfield>
+    <subfield code="q">(Beaubrun),</subfield>
+    <subfield code="d">1796-1865.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Etudes sur l&apos;histoire d&apos;Haïti :</subfield>
+    <subfield code="b">suivies de la vie du Général J.-M. Borgella /</subfield>
+    <subfield code="c">par B. Ardouin.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Paris :</subfield>
+    <subfield code="b">Dezobry et E. Magdeleine,</subfield>
+    <subfield code="c">1853-1860.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">11 v. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Publ. dates discrepencies: vol. 1-2, 1855; vol. 3-4, 1853; vol. 5, 1854; vol. 1856.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Vol. 6-11 title changes: Etudes sur l&apos;histoire d&apos;Haïti.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Vol. 6-8 Publisher varies: Chez l&apos;auteur.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Generals</subfield>
+    <subfield code="z">Haiti</subfield>
+    <subfield code="v">Biography.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Haiti</subfield>
+    <subfield code="x">History.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Haiti</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Revolution, 1791-1804.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Haiti</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">1804-1844.</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2=" ">
+    <subfield code="a">Vie du Général J.-M. Borgella.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

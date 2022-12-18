@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>04461ntm a22005297a 4500</leader>
+  <controlfield tag="001">3492526</controlfield>
+  <controlfield tag="005">20100312101100.0</controlfield>
+  <controlfield tag="008">090115s1853    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18530110</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.27, p.4</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dearest Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Park St., [Bristol, England],</subfield>
+    <subfield code="c">Jan. 10, 1853.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">8 leaves (27 p.) ;</subfield>
+    <subfield code="c">7 7/8 x 5 in. and 5 x 4 7/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Mary Anne Estlin says she is never well in damp weather, and that she has only just recovered from an illness caused by the weather. Sarah Pugh &quot;does good work wherever she is.&quot; She is now staying with the Luptons in Leeds. Estlin comments that &quot;never was there such an A.S. [anti-slavery] ferment over the land.&quot; She thinks Wendell Phillips could defeat &quot;the machinations of the pro-Slavery clergy.&quot; The Quakers &quot;no longer circumscribe the bounds of anti-slavery activity.&quot; Two of the British &amp; Foreign Anti-Slavery Society officers are favorably inclined toward the Garrisonians. [F. W.] Chesson has applied for the Bristol Society&apos;s report. Mary A. Estlin asked Mrs. E. Michell to accept Maria W. Chapman&apos;s invitation to come to America. Harriet Martineau says she was included in the invitation. She mentions a Miss [Louisa?] Chick, a schoolmate of Mrs. Fanny Tribe Seaton. She describes Miss Leonard, the secretary of the Bristol &amp; Clifton Ladies Anti-Slavery Association. &quot;Mrs. Tribe continues the star of the group ...&quot; She tells of the Quaker attitude toward a memorial. She describes the organizing of the abolitionists in Bristol. She sends a selection of letters on anti-slavery subjects, including one from Mrs. Susan Fanny [Crompton] Dawson. She discusses the attitudes of Mrs. Dawson and Mrs. Edmund Sturge toward F. Douglass and Julia Griffiths. She did not like Garrison&apos;s speeches and collected writings. The English need oral instruction. She praises Uncle Tom&apos;s Cabin. The Times says that Mrs. Harriet B. Stowe has agreed to make a progress and visit through England. No. 3 of the Anti-Slavery Advocate contains &quot;a definition of its position.&quot; The Bristol abolitionists are not going to be dictated to by the &quot;Disunionist Abolitionists.&quot; Mary A. Estlin considers that the head of a household has more arduous duties to perform than &quot;the pursuers of any profession.&quot; &quot;I always used in childhood to think men were secondary or almost supernumeraries in a family ...&quot; She discusses the Woman&apos;s Rights question and the position of women in England. She tells of her father&apos;s correspondence with Mrs. Anna Richardson. She fears that Mrs. Richardson will stir up hostility to Sarah Pugh. She tells of inconsistencies in a speech delivered at a meeting in Dundee, Scotland.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The last leaf, is dated Jan. 11, 1853, is written by Mary Anne Estlin and may have been sent to Maria Weston Chapman. It is a brief note reporting on her father, that is John Bishop Estlin&apos;s latest dealings with the British and Foreign Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chesson, F. W.</subfield>
+    <subfield code="q">(Frederick William),</subfield>
+    <subfield code="d">1833 or 4-1888.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chick, Louisa.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dawson, Susan Fanny Crompton.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Griffiths, Julia,</subfield>
+    <subfield code="d">d. 1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Leonard, Louisa.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Martineau, Harriet,</subfield>
+    <subfield code="d">1802-1876.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Michell, Emma.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Pugh, Sarah,</subfield>
+    <subfield code="d">1800-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stowe, Harriet Beecher,</subfield>
+    <subfield code="d">1811-1896.</subfield>
+    <subfield code="t">Uncle Tom&apos;s cabin.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Richardson, Anna H.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">British and Foreign Anti-slavery Society.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Anti-slavery advocate.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">Great Britain.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women&apos;s rights.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Secession.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="0">
+    <subfield code="a">Society of Friends.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 28</subfield>
+  </datafield>
+</record>

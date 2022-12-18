@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00935cam a2200265I  4500</leader>
+  <controlfield tag="001">1440878</controlfield>
+  <controlfield tag="005">20020822220000.0</controlfield>
+  <controlfield tag="008">961010s1826    mau           000 0 eng u</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm04480406</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm04480406</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="c">AQM</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">BRL</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">res. 7589a.53 No.1-9</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Evans, Ann.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Africa, a poem.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Andover, Mass.]</subfield>
+    <subfield code="b">[Printed by Flagg &amp; Gould,</subfield>
+    <subfield code="c">1826.]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[3],4-20p.</subfield>
+    <subfield code="c">20cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Half-title.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The second edition is attributed to Ann Evans by the Library of Congress in the National Union Catalog. Also attributed to Evans by Cushing in his Anonyms: A dictionary of revealed authorship, Waltham, Mass., 1963, p. 17.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Imprint from verso of half-title.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Blacks</subfield>
+    <subfield code="x">Colonization</subfield>
+    <subfield code="z">Africa</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="v">Poetry.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave trade</subfield>
+    <subfield code="v">Poetry.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Africa</subfield>
+    <subfield code="v">Poetry.</subfield>
+  </datafield>
+  <datafield tag="962" ind1=" " ind2=" ">
+    <subfield code="a">AEH-0819</subfield>
+  </datafield>
+</record>

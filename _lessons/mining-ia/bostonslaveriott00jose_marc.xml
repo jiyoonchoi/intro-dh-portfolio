@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01693nam a2200409 a 4500</leader>
+  <controlfield tag="001">2773959</controlfield>
+  <controlfield tag="005">20070129223300.0</controlfield>
+  <controlfield tag="008">990324s1854    mau           000 0beng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   04033077 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm41142647</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">BRL</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us---</subfield>
+    <subfield code="a">n-us-ma</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">E450</subfield>
+    <subfield code="b">.B92</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">E450</subfield>
+    <subfield code="b">.B92 Copy 2</subfield>
+    <subfield code="c">Copy 2. 26 cm.</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">E450</subfield>
+    <subfield code="b">.B92 Copy 3</subfield>
+    <subfield code="c">Copy 3.</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">E450</subfield>
+    <subfield code="b">.B92 Copy 4</subfield>
+    <subfield code="c">Copy 4.</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">KF4545.S5</subfield>
+    <subfield code="b">B67 1854 Copy 2</subfield>
+    <subfield code="c">Copy 6.</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">KF4545.S5</subfield>
+    <subfield code="b">B67 1854 Copy 3</subfield>
+    <subfield code="c">Copy 7.</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">KF4545.S5</subfield>
+    <subfield code="b">B67 1854</subfield>
+    <subfield code="c">Copy 5.</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4264.123</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">B.160.119</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">res. 4264.124</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Boston slave riot, and trial of Anthony Burns :</subfield>
+    <subfield code="b">containing the report of the Faneuil Hall meeting, the murder of Batchelder, Theodore Parker&apos;s lesson for the day, speeches of counsel on both sides, corrected by themselves, verbatim report of Judge Loring&apos;s decision, and, a detailed account of the embarkation.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boston :</subfield>
+    <subfield code="b">Fetridge and Company,</subfield>
+    <subfield code="c">1854.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">86 p. ;</subfield>
+    <subfield code="c">24 cm.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Burns, Anthony,</subfield>
+    <subfield code="d">1834-1862</subfield>
+    <subfield code="v">Trials, litigation, etc.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Fugitive slaves</subfield>
+    <subfield code="x">Legal status, laws, etc.</subfield>
+    <subfield code="z">Massachusetts.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Fugitive slaves</subfield>
+    <subfield code="x">Legal status, laws, etc.</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Riots</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Joseph Meredith Toner Collection (Library of Congress)</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="k">4264.123</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">rcp2873</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">02</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">Item location may need correction--conversion from Bates Hall catalog.</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">OCLC recon project 2002/03.</subfield>
+  </datafield>
+</record>

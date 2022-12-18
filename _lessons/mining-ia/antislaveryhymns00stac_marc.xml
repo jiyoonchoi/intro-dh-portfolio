@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00917nam a2200229Ia 4500</leader>
+  <controlfield tag="001">3588237</controlfield>
+  <controlfield tag="005">20101021154900.0</controlfield>
+  <controlfield tag="008">871009s1844    mau     a     000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)318395465</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn318395465</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPM</subfield>
+    <subfield code="c">UPM</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7579.71 no. 9</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stacy, George W.,</subfield>
+    <subfield code="e">ed.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Anti-slavery hymns, designed to aid the cause of human rights :</subfield>
+    <subfield code="b">containing original hymns written by Abby H. Price, and others of Hopedale community, with a choice selection from other authors.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hopedale, Mass. :</subfield>
+    <subfield code="b">Community Press,</subfield>
+    <subfield code="c">1844.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">36 p. ;</subfield>
+    <subfield code="c">16 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Also available on microform: Ann Arbor, Mich. University Microfilms, 1973. 1microfilm reel ; 35 mm. (American culture series ; reel 549 no. 12).</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Poetry.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Hopedale Community.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">American culture series.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

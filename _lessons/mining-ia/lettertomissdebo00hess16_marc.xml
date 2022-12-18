@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02903ntm a22003137a 4500</leader>
+  <controlfield tag="001">3501868</controlfield>
+  <controlfield tag="005">20100408221600.0</controlfield>
+  <controlfield tag="008">090115s1863    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18630712</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3501868</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.31, p.71</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hesse, Augustus,</subfield>
+    <subfield code="d">d. 1867.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Miss Deborah Weston</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">McClellan, U.S. Hospital, Nice town near Philadelphia,</subfield>
+    <subfield code="c">Sunday, July 12th, 1863.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (6 p.) ;</subfield>
+    <subfield code="c">8 x 5 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Augustus Hesse writes this letter from a comfortable hospital. He said: &quot;I was oblige to leave everthing I had in the Rebel hands who made such a desperate attack on our Battery on the second day&apos;s fight in the Evening. We were on the extreme left. I done all what was in my power and was one of the last able to give them the last Canister we had left. I fired 128 rounds of Ammunition in the time from five to seven p.m. after seven the fight became so desperate that they rushed up to 100 yards in front of us. ...&quot; Hesse recounts shouting for ammunition, receiving a canister &quot;by degrees&quot; from the rear, and seeing the rebels &quot;drop down.&quot; But &quot;the Infantry the third Corps was running in do[u]ble Quick so that we the glorious young 9th Mass. Battery in splendid Organization and for the first time in an engagement, stood the ground and were willing to die for the co[u]ntry slowly...the Sergt. and I was left at last alone. ...&quot; The shells were falling thick on both sides of him so that Augustus Hesse thought they would hit him, &quot;but God was with me &amp; I had confidence to be cared---So we Artillery were alone without Infantry or Cavalry.&quot; Suddenly they were flanked by sharpshooters: &quot;we were obliged to leave the Ground---but not sooner did we do it untill [sic] we got the Order.&quot; Augustus Hesse was shot in the left arm, with &quot;the blood run all over me. I was swe[a]ting and the Powder of handling the Cartridge and smoke blaked [sic] my face.&quot; Hesse suffered for two days and nights, with &quot;no one to see to me. I could get nothing to eat. I layed in the Woods without a Blanket to lay on, at last I was fetched to a house---and got all I want for the citizen were coming with Provisions.&quot; Augustus Hesse is now in a &quot;spendit [sic] Hospital lighted with Gas.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b. 1814</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hesse, Augustus,</subfield>
+    <subfield code="d">d. 1867</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Gettysburg, Battle of, Gettysburg, Pa., 1863.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Civil War, 1861-1865.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Deborah Weston Correspondence (1830-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 6</subfield>
+  </datafield>
+</record>

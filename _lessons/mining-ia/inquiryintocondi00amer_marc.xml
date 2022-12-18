@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00944cam a2200241Ia 4500</leader>
+  <controlfield tag="001">3294732</controlfield>
+  <controlfield tag="005">20090408114200.0</controlfield>
+  <controlfield tag="008">780215s1839    pau           000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   11009343 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)3638937</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">11009343</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">NRU</subfield>
+    <subfield code="d">NRU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.I58</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4288.60</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="3">
+    <subfield code="a">An Inquiry into the condition and prospects of the African race in the United States:</subfield>
+    <subfield code="b">and the means of bettering its fortunes ... /</subfield>
+    <subfield code="c">by an American.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Philadelphia :</subfield>
+    <subfield code="b">Haswell, Barrington, and Haswell,</subfield>
+    <subfield code="c">1839.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">214 p. ;</subfield>
+    <subfield code="c">19 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Dated: District of Columbia, June, 1839.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">African Americans.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">American.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1ST</subfield>
+    <subfield code="b">BANF</subfield>
+    <subfield code="h">4288.60</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2009). Backstage Library Works.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1ST</subfield>
+    <subfield code="b">BANF</subfield>
+    <subfield code="h">5577.82</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2009). Backstage Library Works.</subfield>
+  </datafield>
+</record>

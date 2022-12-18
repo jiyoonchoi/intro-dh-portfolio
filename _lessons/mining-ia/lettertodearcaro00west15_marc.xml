@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03922ntm a22004937a 4500</leader>
+  <controlfield tag="001">3418649</controlfield>
+  <controlfield tag="005">20090730230800.0</controlfield>
+  <controlfield tag="008">090115s1850    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18501021</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3418649</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.25, p.33A</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Caroline</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Weymouth, [Mass.],</subfield>
+    <subfield code="c">Oct. 21, 1850.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (4 p.) ;</subfield>
+    <subfield code="c">5 1/4 x 4 1/4 in.; and 5 1/8 x 4 1/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Deborah Weston sends verses for the Liberty Bell newspaper. She spent the last week at Chauncy Place. Lucia heard Jenny Lind. She comments that &quot;Daniel Webster stands much disgraced before the community.&quot; When the Turkish ambassador visited him, &quot;not a black man in Boston would cook for him,&quot; and he was compelled to make use of &quot;white trash.&quot; A meeting was held at Faneuil Hall about the Fugitive Slave Law. Deborah writes: &quot;Josiah Quincy the old man headed the call for the meeting ... 350 others no name of the gentility but Ingersoll Bowditch, George B. Emerson, &amp; Robert Apthorpe, which last with Theodore Parker worked hard. Wendell [Phillips] spoke beautifully. [Frederick] Douglas[s] tolerably ...&quot; &quot;The Whig Party are annoyed that Sam Elliot brought needless disgrace upon them.&quot; The country is much stirred up. Deborah said: &quot;It only wants an attempt to sieze [sic] a slave in Mass. to make an outbreak.&quot; Warren is well. &quot;Rosamond is the brightest little creature ever seen.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The second leaf is either a continuation of the letter dated Oct. 21, 1850, or a separate, incomplete letter. It was written by Deborah Weston perhaps to Caroline Weston, ca. 1850 Nov. 1. Deborah Weston quotes William Lloyd Garrison as saying that &quot;all he wanted was to get Thompson safe out of the country.&quot; Deborah had a good time at Henrietta [Sargent&apos;s]. Deborah describes the visit: &quot;Henrietta was left in a very Pharisaical state of mind, thanking God she was not like these Bostonians ... to have such a man among them &amp; not know it!&quot; At the Dorchester meeting, Deborah &quot;saw the sweat drop like rain from his [George Thompson&apos;s?] face, a perfect shower...&quot; Deborah reports &quot;there has been another attempt to catch a slave in Boston from Timothy Gilberts, but it was a failure.&quot; Marshall Devens has been summoned to Washington, to answer a charge made against him by the slave-hunter&apos;s lawyer. Deborah is going to work on the [Weymouth?] house as if she were an architect. Deborah said: &quot;Tell Lizzy [Chapman] if ever she means to enter the married state, she must do it while she is abroad for she never will in America. Emma does not need this admonition, as she knows it as well as I do.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b. 1814</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Emma Forbes,</subfield>
+    <subfield code="d">b. 1825-</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Apthorpe, Robert.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Laugel, Elizabeth Bates Chapman,</subfield>
+    <subfield code="d">b. 1831.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Devens, Charles,</subfield>
+    <subfield code="d">1820-1891.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Elliot, Samuel.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Lind, Jenny,</subfield>
+    <subfield code="d">1820-1887.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Parker, Theodore,</subfield>
+    <subfield code="d">1810-1860.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Quincy, Josiah,</subfield>
+    <subfield code="d">1772-1864.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Sargent, Henrietta.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Thompson, George,</subfield>
+    <subfield code="d">1804-1878.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webster, Daniel,</subfield>
+    <subfield code="d">1782-1852.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="t">Fugitive slave law (1850)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Fugitive slaves.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Deborah Weston Correspondence (1830-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

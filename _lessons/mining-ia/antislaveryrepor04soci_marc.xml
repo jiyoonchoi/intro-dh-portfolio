@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01263cas a2200301Ia 4500</leader>
+  <controlfield tag="001">3615094</controlfield>
+  <controlfield tag="005">20101123101600.0</controlfield>
+  <controlfield tag="008">820413d18301836enkuu p       0   a0eng d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">26086473</subfield>
+    <subfield code="a">191121819</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm08331445</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)8331445</subfield>
+    <subfield code="z">(OCoLC)26086473</subfield>
+    <subfield code="z">(OCoLC)191121819</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">VYN</subfield>
+    <subfield code="c">VYN</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">IUL</subfield>
+    <subfield code="d">KFS</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">AQM</subfield>
+    <subfield code="d">HLS</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-uk---</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">HT851</subfield>
+    <subfield code="b">.A657</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4285.70</subfield>
+  </datafield>
+  <datafield tag="130" ind1="0" ind2=" ">
+    <subfield code="a">Anti-slavery reporter (Society for the Abolition of Slavery throughout the British Dominions)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The anti-slavery reporter.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[London :</subfield>
+    <subfield code="b">London Society for the Abolition of Slavery throughout the British Dominions,</subfield>
+    <subfield code="c">1830]-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">v. ;</subfield>
+    <subfield code="c">23 cm.</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Vol. 3, no. 15 (July, 1830)- = No. 63-</subfield>
+  </datafield>
+  <datafield tag="362" ind1="1" ind2=" ">
+    <subfield code="a">Ceased with v. 6, no. 8 (July, 1836) = No. 113.</subfield>
+    <subfield code="z">Cf. British union-catalogue of periodicals.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="v">Periodicals.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">Great Britain</subfield>
+    <subfield code="v">Periodicals.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Antislavery periodicals.</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Society for the Mitigation and Gradual Abolition of Slavery Throughout the British Dominions.</subfield>
+  </datafield>
+  <datafield tag="780" ind1="0" ind2="0">
+    <subfield code="t">Anti-slavery monthly reporter</subfield>
+    <subfield code="w">(OCoLC)8331023</subfield>
+  </datafield>
+  <datafield tag="785" ind1="0" ind2="0">
+    <subfield code="t">British emancipator</subfield>
+    <subfield code="w">(OCoLC)70346105</subfield>
+  </datafield>
+  <datafield tag="936" ind1=" " ind2=" ">
+    <subfield code="a">July, 1830</subfield>
+  </datafield>
+</record>

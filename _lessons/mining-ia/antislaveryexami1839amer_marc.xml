@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02217cas a2200469 a 4500</leader>
+  <controlfield tag="001">3618743</controlfield>
+  <controlfield tag="005">20101203161300.0</controlfield>
+  <controlfield tag="008">850607d18361845nyuuu p       0   a0eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   11010262 </subfield>
+    <subfield code="z">sn 89039036</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="i">8902</subfield>
+    <subfield code="l">1</subfield>
+  </datafield>
+  <datafield tag="022" ind1="0" ind2=" ">
+    <subfield code="a">2156-2628</subfield>
+    <subfield code="2">1</subfield>
+  </datafield>
+  <datafield tag="029" ind1="1" ind2=" ">
+    <subfield code="a">AU@</subfield>
+    <subfield code="b">000014252609</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm12127652</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)12127652</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">VIC</subfield>
+    <subfield code="d">VIC</subfield>
+    <subfield code="d">MUL</subfield>
+    <subfield code="d">NYG</subfield>
+    <subfield code="d">NST</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">ZCU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">lcd</subfield>
+    <subfield code="a">premarc</subfield>
+    <subfield code="a">nsdp</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us---</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.A62357</subfield>
+  </datafield>
+  <datafield tag="082" ind1="1" ind2="0">
+    <subfield code="a">326</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.A62357</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4285.69</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7574.11</subfield>
+  </datafield>
+  <datafield tag="222" ind1=" " ind2="4">
+    <subfield code="a">The Anti-slavery examiner</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="4">
+    <subfield code="a">The Anti-slavery examiner.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York :</subfield>
+    <subfield code="b">American Anti-Slavery Society</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">v. ;</subfield>
+    <subfield code="c">24 cm.</subfield>
+  </datafield>
+  <datafield tag="362" ind1="1" ind2=" ">
+    <subfield code="a">Began with vol. 1, no. 1 (1836); ceased with no. 14 (1845).</subfield>
+    <subfield code="z">Cf. Union list of serials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Several of the numbers have been issued in three or more editions.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Description based on: Vol. 1, no. 2 (Sept. 1836); title from caption.</subfield>
+  </datafield>
+  <datafield tag="515" ind1=" " ind2=" ">
+    <subfield code="a">Started as periodical with volume numbering of first two numbers, vol. 1, no. 1-2 Aug.-Sept. 1836. With no. 3, volume number was dropped and each publication took form of monograph with separate title-page.</subfield>
+  </datafield>
+  <datafield tag="515" ind1=" " ind2=" ">
+    <subfield code="a">Error in numbering: no. 6, 3d ed. rev., numbered 5.</subfield>
+  </datafield>
+  <datafield tag="525" ind1=" " ind2=" ">
+    <subfield code="a">No. 7 has supplement, entitled: The Anti-slavery examiner--Extra, separately paged.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Also issued online, microfiche, and on microfilm from University Microfilms International (American periodical series, 1800-1850).</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Periodicals.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Periodicals.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">American Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="t">Anti-slavery examiner (Online)</subfield>
+    <subfield code="w">(DLC) 2006255624</subfield>
+    <subfield code="w">(OCoLC)48895988</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="t">Anti-slavery examiner</subfield>
+    <subfield code="w">(DLC)sf 94090896</subfield>
+    <subfield code="w">(OCoLC)24439980</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="t">Anti-slavery examiner</subfield>
+    <subfield code="w">(DLC)sf 88091888</subfield>
+    <subfield code="w">(OCoLC)7185395</subfield>
+  </datafield>
+  <datafield tag="850" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="a">N</subfield>
+    <subfield code="a">NcD</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">http://proquest.umi.com/pqdweb?RQT=318&amp;VName=HNP&amp;pmid=41234</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:pqd::hnp&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft_dat=xri:pqd:PMID=41234</subfield>
+  </datafield>
+</record>

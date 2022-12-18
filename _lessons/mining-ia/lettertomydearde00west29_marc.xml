@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02881ntm a22003737a 4500</leader>
+  <controlfield tag="001">3279986</controlfield>
+  <controlfield tag="005">20090314005400.0</controlfield>
+  <controlfield tag="008">090115s1837    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18370429</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3279986</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.9, p.30</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My Dear Debora[h]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">Saturday, April 29 / [18]37.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (4 p.) ;</subfield>
+    <subfield code="c">10 x 7 5/8 in. and 3 3/4 x 7 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Anne Warren Weston is going to New York on Thursday next. Mr. Garrison, Mr. and Mrs. John E. Fuller, Mary S. Parker, Julia Williams, most probably Henrietta Sargent, and very likely Mrs. Lydia Maria Child will be of &quot;our party.&quot; She expects to be invited to stay with Mrs. Dr. [Samuel Hanson?] Cox; she hopes that Dr. Amos Farnsworth, chosen a delegate, will also go. Anne was sorry, but not surprised, to hear of Charlotte Taber&apos;s death(?). Henry B. Stanton and Amos Dresser are to be licensed to preach in three weeks. Stanton said that &quot;the Parent Society are [sic] going to attack the four great states, Mass., N.Y., Penn. &amp; Ohio with all their might this year. Theodore [Weld], [Nathaniel] Colver, Stanton &amp; Orange Scott are to be turned into Mass.&quot; Mr. Samuel J. May is going to spend a week in New Bedford in July, &quot;preaching one Sunday for the Christians &amp; the next for the Unitarians.&quot; Anne gives news of pupils and family. &quot;Everybody almost has failed here, but Henry [G. Chapman] is in no danger.&quot; Mentions Amasa Walker among the failures. &quot;Negroes have fallen from $1200 to $150.&quot; John Greenleaf Whittier told Mrs. Maria Weston Chapman &quot;that he had written to John Q. Adams to attend the N. E. Convention.&quot; Theodore D. Weld &quot;is cutting &amp; drying the Ladies&apos; meeting, so that I trust all will go well.&quot; She longs for Ann Greene Chapman.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There is also a receipt: &quot;Ma&apos;ts [Massachusetts] Antislavery Society, Ac&apos;t of Wm. S. Andrews, [for] 25 Godwin on Slavery 50-- $12.50, May 1836, Rec&apos;d Payment.&quot; Signed by William S. Andrews. On verso, is the date of payment: 1 Feb. 1837.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah</subfield>
+    <subfield code="d">b. 1814.</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Walker, Amasa,</subfield>
+    <subfield code="d">1799-1875.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Taber, Charlotte.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stanton, Henry B.</subfield>
+    <subfield code="q">(Henry Brewster),</subfield>
+    <subfield code="d">1805-1887.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dresser, Amos,</subfield>
+    <subfield code="d">1812-1904.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weld, Theodore Dwight,</subfield>
+    <subfield code="d">1803-1895.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Massachusetts Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

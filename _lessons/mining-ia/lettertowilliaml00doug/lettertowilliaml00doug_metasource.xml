@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metasource>
+<textid>lettertowilliaml00doug</textid>
+<date>20130504141732</date>
+<userid>admin-tim-bigelow@archive.org</userid>
+<cclquery>@attr 1=5001 39999066767938 </cclquery>
+<zquery>local=39999066767938</zquery>
+<target id="bpl">Metro-Boston Library Network</target>
+<resultOffset></resultOffset>
+<service>yaz.us.archive.org/biblio.php</service>
+</metasource>

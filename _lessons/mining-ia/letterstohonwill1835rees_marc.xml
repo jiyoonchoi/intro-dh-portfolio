@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01067nam a2200265Ia 4500</leader>
+  <controlfield tag="001">3583982</controlfield>
+  <controlfield tag="005">20100930140800.0</controlfield>
+  <controlfield tag="008">730521s1835    nyu           000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   11011721 </subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">1279345</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)626604</subfield>
+    <subfield code="z">(OCoLC)1279345</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm00626604</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">HEI</subfield>
+    <subfield code="d">SER</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+    <subfield code="d">STF</subfield>
+    <subfield code="d">KRTAS</subfield>
+    <subfield code="d">AMAZN</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="4">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.J426</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.J426</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Reese, David Meredith,</subfield>
+    <subfield code="d">1800-1861.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Letters to the Hon. William Jay :</subfield>
+    <subfield code="b">being a reply to his &quot;Inquiry into the American Colonization and American Anti-Slavery Societies.&quot; /</subfield>
+    <subfield code="c">by David M. Reese ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2="4">
+    <subfield code="a">Reese&apos;s letters to the Hon. Wm. Jay</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York :</subfield>
+    <subfield code="b">Leavitt, Lord &amp; Co. ;</subfield>
+    <subfield code="a">Boston :</subfield>
+    <subfield code="b">Crocker &amp; Brewster,</subfield>
+    <subfield code="c">1835.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xii, 120 p. ;</subfield>
+    <subfield code="c">18 cm.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Jay, William,</subfield>
+    <subfield code="d">1789-1858.</subfield>
+    <subfield code="t">Inquiry into the character and tendency of the American Colonization and American anti-slavery societies.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Controversial literature.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03685nam a2200589Ia 4500</leader>
+  <controlfield tag="001">2339128</controlfield>
+  <controlfield tag="005">20050311093500.0</controlfield>
+  <controlfield tag="008">990331s1841    nyu          f000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   11027427 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm03469815</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">BRL</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us---</subfield>
+    <subfield code="a">e-sp---</subfield>
+    <subfield code="a">nwcu---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">res. 5577.55 no. 3</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Adams 251.18 (10)</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2="0">
+    <subfield code="a">Adams 831.Ad1O (10)</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Adams, John Quincy,</subfield>
+    <subfield code="d">1767-1848.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Argument of John Quincy Adams, before the Supreme Court of the United States :</subfield>
+    <subfield code="b">in the case of the United States, appellants, vs. Cinque, and others, Africans, captured in the schooner Amistad, by Lieut. Gedney, delivered on the 24th of February and 1st of March, 1841. With a review of the case of the Antelope, reported in the 10th, 11th, and 12th volumes of Wheaton&apos;s Reports.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York :</subfield>
+    <subfield code="b">S. W. Benedict,</subfield>
+    <subfield code="c">1841.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">135 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes &quot;The case of the Antelope reviewed&quot;--p. 94-134.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">John Adams Library copy (251.18) bound with numerous other volumes, all separately cataloged. Spine title: Adams addresses.</subfield>
+    <subfield code="5">BRL</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">John Adams Library copy (831.Ad1O) bound with numerous other volumes, all separately cataloged. Spine title: J.Q. Adams&apos; orations.</subfield>
+    <subfield code="5">BRL</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">John Adams Library copies are unlikely to have belonged to President John Adams.</subfield>
+    <subfield code="5">BRL</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">John Adams Library copy (251.15) has bookplate: John Adams Library, in the Custody of the Boston Public Library.</subfield>
+    <subfield code="5">BRL</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">John Adams Library copy (831.Ad1O) has bookplate: Given by. Hon. Josiah P. Quincy.</subfield>
+    <subfield code="5">BRL</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Checklist Amer. imprints,</subfield>
+    <subfield code="c">41-40</subfield>
+  </datafield>
+  <datafield tag="533" ind1=" " ind2=" ">
+    <subfield code="a">Also available on microfiche.</subfield>
+    <subfield code="b">Littleton, CO :</subfield>
+    <subfield code="c">Rothman,</subfield>
+    <subfield code="d">1983.</subfield>
+    <subfield code="e">2 microfiches : negative.</subfield>
+    <subfield code="f">(A collection of Trials on Microfiche, 3A).</subfield>
+  </datafield>
+  <datafield tag="533" ind1=" " ind2=" ">
+    <subfield code="a">Also available on microopaque.</subfield>
+    <subfield code="b">Louisville, KY :</subfield>
+    <subfield code="c">Lost Cause Press,</subfield>
+    <subfield code="d">1962.</subfield>
+    <subfield code="e">2 microopaques ; 8 x 13 cm.</subfield>
+    <subfield code="f">(Slavery Pamphlets).</subfield>
+  </datafield>
+  <datafield tag="533" ind1=" " ind2=" ">
+    <subfield code="a">Also available on microfiche.</subfield>
+    <subfield code="b">Sanford, NC :</subfield>
+    <subfield code="c">Microfilming Corporation of America,</subfield>
+    <subfield code="d">[1980].</subfield>
+    <subfield code="e">2 microfiches.</subfield>
+    <subfield code="f">(Slavery ; ST255).</subfield>
+  </datafield>
+  <datafield tag="533" ind1=" " ind2=" ">
+    <subfield code="a">Also available on microfiche.</subfield>
+    <subfield code="b">Louisville, KY :</subfield>
+    <subfield code="c">Lost Cause Press,</subfield>
+    <subfield code="d">1966. --</subfield>
+    <subfield code="e">4 microfiches ; 11 x 15 cm. --</subfield>
+    <subfield code="f">(Selected Americana from Sabin&apos;s Dictionary of Books Relating to America, from Its Discovery to the Present Time ; group 4 ; supplement no. 12).</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">John Adams Library copy (251.18) transferred from the supervisors of the Temple and School Fund. Quincy, Mass., 1894.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="0" ind2="0">
+    <subfield code="a">Cinque</subfield>
+    <subfield code="v">Trials, litigation, etc.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Amistad (Schooner)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Antelope (Ship : 1820)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Fugitive slaves</subfield>
+    <subfield code="x">Legal status, laws, etc.</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="x">Law and legislation</subfield>
+    <subfield code="z">Spain.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="x">Law and legislation</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave insurrections</subfield>
+    <subfield code="z">Cuba.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave insurrections</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Trials (Mutiny)</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Presidents</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Digital images.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Cinque.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="0">
+    <subfield code="a">Quincy, Josiah Phillips,</subfield>
+    <subfield code="d">1829-1910,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Boston Public Library (John Adams Library)</subfield>
+    <subfield code="5">BRL</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2="2">
+    <subfield code="a">Case of the Antelope reviewed.</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.archive.org/details/argumentofjohnqu41adam</subfield>
+    <subfield code="z">Click here to view digitized item.</subfield>
+    <subfield code="x">Digitized by Internet Archive on Mon Sep 13 19:10:55 -0400 2010</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.archive.org/details/argumentofjohnqu1841adam</subfield>
+    <subfield code="z">Click here to view digitized item.</subfield>
+    <subfield code="x">Digitized by Internet Archive on Tue Jul 08 16:01:53 -0400 2008</subfield>
+  </datafield>
+  <datafield tag="937" ind1=" " ind2=" ">
+    <subfield code="a">Law</subfield>
+    <subfield code="a">Politics and government.</subfield>
+  </datafield>
+  <datafield tag="955" ind1=" " ind2=" ">
+    <subfield code="a">R-B</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">02</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

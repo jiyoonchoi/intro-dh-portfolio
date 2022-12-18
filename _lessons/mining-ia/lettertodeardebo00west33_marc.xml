@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03588ntm a22003497a 4500</leader>
+  <controlfield tag="001">3338082</controlfield>
+  <controlfield tag="005">20090605021100.0</controlfield>
+  <controlfield tag="008">090115s1837    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">1837</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3338082</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.5, p.79</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Debora[h]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Worcester, [Mass.],</subfield>
+    <subfield code="c">[1837?].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">7 3/8 x 5 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Caroline Weston informs Deborah Weston that she will write at length when she gets to Boston. Presently, she will write about only a few items [concerning the anti-slavery convention]. She assumes that D. knows how the cause stood in Boston, and &quot;how rampant was clerical abolitionism--how [James G.] Birney was out in the Philanthropist against Garrison, his eyes evidently full of Channing&apos;s dust.&quot; Caroline refers to various newspapers and her opinion of them: the Evangelist is denouncing, the Emancipator is dumb, the Coloured American is refusing to publish the doings of the colored people in Boston. [John] Gulliver, [Charles] Fitch, [Joseph H.] Towne went up from Boston &quot;to get the ground,&quot; but the Lynn folks got a head start. She tells of her journey and her breakfast companions. They joined the [Samuel] Philbricks and [John Greenleaf] Whittier, who &quot;is somewhat bedeviled with the Presbyterian demon of New York.&quot; She tells how [Amos Augustus] Phelps, &quot;ploughing in the neighborhood,&quot; wrote Whittier to approach a circle of friends to meet him (Phelps) at Amesbury. Which Whittier did, but &quot;dodged himself and went to Haverill.&quot; Phelps, however, pursued him and brought him back. The train was loaded with abolitionists. At the depot was a long line of anxious faces &quot;looking to see who had come with inexpressible earnestness.&quot; [James Trask] Woodbury stayed away; and &quot;M.[aria] says nothing can equal his spite.&quot; The holding of the county convention at the same time cramps them for room, but the day was successful. Caroline commented: &quot;Dear dear Amos [Phelps]--no fox could manage better.&quot; The faithful looked &quot;chipper and happy but oh the forlorn &amp; distressed look of those miserable men [Charles] Fitch &amp; [Joseph H.] Towne. Dea[con] Gulliver brazens it out...&quot; The morning was occupied with business. But in the afternoon, &quot;the bear showed himself in opposition to a resolution that it was a minister&apos;s duty to pray &amp; preach.&quot; [The Rev. Luther] Lee and other proposed an amendment, which was indignantly rejected, and the resolution was adopted. In the evening, there was a Texas meeting, with excellent speeches by Brown of Lynn, Bronson, Amasa Walker, and Amos Phelps. Jushua Leavitt spoke, and was followed by William Lloyd Garrison, who was loudly applauded. Caroline Weston feels that G. is safe from the attacks of his enemies.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah</subfield>
+    <subfield code="d">b. 1814.</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Whittier, John Greenleaf,</subfield>
+    <subfield code="d">1807-1892.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phelps, Amos A.</subfield>
+    <subfield code="q">(Amos Augustus),</subfield>
+    <subfield code="d">1805-1847.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Fitch, Charles,</subfield>
+    <subfield code="d">1805-1844.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Towne, Joseph H.</subfield>
+    <subfield code="q">(Joseph Hardy),</subfield>
+    <subfield code="d">1805-1897.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Caroline Weston Correspondence (1834-1874)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

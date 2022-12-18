@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00883nam a2200241Ia 4500</leader>
+  <controlfield tag="001">1842630</controlfield>
+  <controlfield tag="005">20090727095600.0</controlfield>
+  <controlfield tag="008">010711s1821    maua          000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">1842630</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm47280852</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MAH</subfield>
+    <subfield code="c">MAH</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">BRL</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4264.55 No. 23</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Massachusetts.</subfield>
+    <subfield code="b">Secretary of the Commonwealth.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Commonwealth of Massachusetts :</subfield>
+    <subfield code="b">Secretary&apos;s office, April 17, 1821. As directed by an order . . . secretary of the commonwealth has examined into the present condition of the public records and documents belonging to the commonwealth. . .</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Boston :</subfield>
+    <subfield code="b">s.n. ,</subfield>
+    <subfield code="c">1821.]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">19 p. ;</subfield>
+    <subfield code="c">22.5 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signed at end, Alden Bradford.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Caption title.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Public records</subfield>
+    <subfield code="z">Massachusetts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bradford, Alden,</subfield>
+    <subfield code="d">1765-1843.</subfield>
+  </datafield>
+  <datafield tag="962" ind1=" " ind2=" ">
+    <subfield code="a">ALN-7614</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">02</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

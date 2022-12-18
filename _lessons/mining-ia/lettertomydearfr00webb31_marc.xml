@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03431ntm a22003977a 4500</leader>
+  <controlfield tag="001">3585399</controlfield>
+  <controlfield tag="005">20101007220600.0</controlfield>
+  <controlfield tag="008">090115s1846    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18461031</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3585399</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.22, p.109</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Dublin, [Ireland],</subfield>
+    <subfield code="c">Oct. 31, 1846.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 leaves (15 p.) ;</subfield>
+    <subfield code="c">8 x 4 7/8 in.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 envelope ;</subfield>
+    <subfield code="c">4 7/8 x 3 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The first four pages of this manuscript are unnumbered and then the pagination skips to pages 9-19. See Call No. Ms.A.9.2 v.16, p.21 for the possible missing pages 5-8 of this letter written by Richard Davis Webb on [2 Nov. 1846?].</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Richard Davis Webb begins this letter on the steamer on the way to Liverpool to see William Lloyd Garrison off. He sent a Liberty Bell and a copy of &quot;Martyr Age&quot; to the poet Thomas Moore. He thinks that Maria Weston Chapman&apos;s application (that Moore contribute some writing to the Liberty Bell?) will not be successful because Moore &quot;is too old and worldly to enter with poetic zeal into such a cause as ours.&quot; He does not expect much help for the literati of England. Richard D. Webb attributes Frederick Douglass&apos;s steadiness to William Lloyd Garrison&apos;s influence. He remarks on the &quot;immense change in his position&quot; when Douglass returns to America. Richard D. Webb wonders how Douglass will be able to bear the sight of his wife after &quot;all the petting he gets&quot; from elegant women in a country without color prejudice. Contributions from this side of the Atlantic to the anti-slavery bazaar will be finer than ever. Richard D. Webb saw much of William Lloyd Garrison in London and Dublin and comments that &quot;he is truy transparent and guileless.&quot; Richard D. Webb has written to Charles McKay and to William and Mary Howitt for contributions to the Liberty Bell, but he hardly expects any. He sends notes from Mary Howitt, which may be sold for autographs at the fair; there is also one from Miss Maria Edgeworth. William Lloyd Garrison has been collecting daguerreotypes. Richard D. Webb continues this letter on November 3 and 4, and describes the people assembled to see William Lloyd Garrison. In the postscript, Richard Davis Webb announces a contribution from Mazzini.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes an envelope with the delivery address: M. W. Chapman, Federal Street. On the envelope, is this note, which is written very lightly in pencil: &quot;W. Phillips, Please to give to Edmund as soon as you &amp; Ann have read them &amp; tell him to return to me as soon as he has.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Edgeworth, Maria,</subfield>
+    <subfield code="d">1767-1849.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Howitt, Mary Botham,</subfield>
+    <subfield code="d">1799-1888.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Moore, Thomas,</subfield>
+    <subfield code="d">1779-1852.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 18</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02923ntm a22003377a 4500</leader>
+  <controlfield tag="001">3326277</controlfield>
+  <controlfield tag="005">20090502004900.0</controlfield>
+  <controlfield tag="008">090115s1849    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18491228</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3326277</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.24, p.119</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Caroline</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">5 Chauncy Place, [Boston], [and] Weymouth, [Mass.],</subfield>
+    <subfield code="c">Dec. 28, 1849. Sunday afternoon. [Through] Monday night, Jan. 7, [1850].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 leaves (16 p.) ;</subfield>
+    <subfield code="c">8 7/8 x 7 1/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Anne Warren Weston wrote: &quot;We opened the Fair last Monday &amp; our receipts up to now are about $2400.&quot; The Westons had an easier time than last year. Anne comments, &quot;I am so tired of the whole affair...&quot; She praises the work of the Lorings. She describes the dreadful storm on the day when the boxes from France had to be unpacked. She describes the damage done to certain objects unpacked, and the devices for getting them restored. &quot;Ah, thought I, I can&apos;t lay down my life over those boxes.&quot; Anne relates who presided over and helped at the various fair tables. She tells of a troublesome non-abolitionist who assisted, and the commotion caused by Anne&apos;s protest. Mrs. (Evelina A.S.) Smith told about her ailment, but feels encouraged. &quot;The (?) Table was never handsomer.&quot; Anne thinks that not many of Douglass&apos; Life will be sold. Emma (Weston) has been dreadfully missed at the fair, more than the others. Speaking occurred only once, by Wendell Phillips. Mary (Chapman) received a letter from Mrs. (Joshua) Bates saying that they would go to Paris if Mr. Bates could get the time. Expecting a long court morning after the death of Queen Caroline, Mrs. Bates charged Mary (Chapman) with sending her black crepe. Describes in detail a visit to the fair by Miss (Frederica) Bremer, describing her appearance. &quot;On these occasions Maria and Mrs. Follen are greatly missed.&quot; Anne refused to advertise in the Republican because it had united with the Emancipator, and &quot;the latter paper was ours, had been basely taken from us.&quot; She tells about visitors to the fair and gives news of acquaintances. Anne discusses the book &quot;Shirley,&quot; by Charlotte Bronte.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Bremer, Fredrika,</subfield>
+    <subfield code="d">1801-1865.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Brontë, Charlotte,</subfield>
+    <subfield code="d">1816-1855.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 16</subfield>
+  </datafield>
+</record>

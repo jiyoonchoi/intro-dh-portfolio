@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01541nam a2200373Ia 4500</leader>
+  <controlfield tag="001">3587740</controlfield>
+  <controlfield tag="005">20101020122200.0</controlfield>
+  <controlfield tag="008">030709s1789    fr            000 0 fre d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)80802570</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm80802570</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPJCB</subfield>
+    <subfield code="e">dcrb</subfield>
+    <subfield code="c">RBN</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nwla---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">H.710.A10D3</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Dernieres observations des citoyens de couleur des isles et colonies françoises ; du 27 novembre 1789.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Paris :</subfield>
+    <subfield code="b">s.n.],</subfield>
+    <subfield code="c">1789</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">19, [1] p. ;</subfield>
+    <subfield code="c">18 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Caption title.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Dated on p. 19: Paris, le 27 novembre 1789.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Place and year of publication suggested by Bissainthe.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signatures: A[B]²([B]2 verso blank).</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Citizens such as De Joly, Raymond aîné, and Ogé jeune ask the Assemblée nationale to grant the Citoyens de couleur rights and privileges.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Martin &amp; Walter. Révolution française. Anonymes,</subfield>
+    <subfield code="c">5290</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Bissainthe, M. Dict. de bib. haïtienne,</subfield>
+    <subfield code="c">5439</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="0">
+    <subfield code="a">France.</subfield>
+    <subfield code="b">Assemblée nationale constituante (1789-1791)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Blacks</subfield>
+    <subfield code="z">West Indies, French.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Blacks</subfield>
+    <subfield code="x">Legal status, laws, etc.</subfield>
+    <subfield code="z">West Indies, French.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Racially mixed people</subfield>
+    <subfield code="x">Legal status, laws, etc.</subfield>
+    <subfield code="z">West Indies, French.</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" ">
+    <subfield code="a">Imprint 1789</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Joly, Etienne-Louis-Hector de,</subfield>
+    <subfield code="d">1756-1837.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Raimond, Julien,</subfield>
+    <subfield code="d">1743?-1802?</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Ogé, Vincent,</subfield>
+    <subfield code="c">jeune,</subfield>
+    <subfield code="d">ca. 1750-1791.</subfield>
+  </datafield>
+  <datafield tag="752" ind1=" " ind2=" ">
+    <subfield code="a">France</subfield>
+    <subfield code="d">Paris.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

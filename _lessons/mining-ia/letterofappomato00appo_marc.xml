@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02757nam a2200409Ia 4500</leader>
+  <controlfield tag="001">3641336</controlfield>
+  <controlfield tag="005">20110223150300.0</controlfield>
+  <controlfield tag="008">910426s1832    vau           000 0 eng d</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   11010183 </subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">5516619</subfield>
+    <subfield code="a">6073087</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)80746284</subfield>
+    <subfield code="z">(OCoLC)5516619</subfield>
+    <subfield code="z">(OCoLC)6073087</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm80746284</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NHi</subfield>
+    <subfield code="e">bdrb</subfield>
+    <subfield code="c">AOX</subfield>
+    <subfield code="d">OCLCG</subfield>
+    <subfield code="d">VIC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">KRTAS</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-va</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.A65</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7573.8 no. 12</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Appomattox,</subfield>
+    <subfield code="c">pseud.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The letter of Appomatox [sic] to the people of Virginia :</subfield>
+    <subfield code="b">exhibiting a connected view of the recent proceedings in the House of Delegates, on the subject of the abolition of slavery; and a succinct account of the doctrines broached by the friends of abolition, in debate: and the mischievous tendency of those proceedings and doctrines.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Richmond [Va.] :</subfield>
+    <subfield code="b">Thomas W. White, Printer,</subfield>
+    <subfield code="c">1832.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">47 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Attributed to B.W. Leigh by Swem.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">From the Richmond enquirer of Feb. 4 and 28, 1832. Cf. p. [3] and [33].</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Pages [31]-[32] blank.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Checklist Amer. imprints</subfield>
+    <subfield code="c">13372</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Swem, E.G. Virginia,</subfield>
+    <subfield code="c">3102</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Lib. Company. Afro-Americana,</subfield>
+    <subfield code="c">644</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. Speech of Thomas J. Randolph ... on the abolition of slavery -- 2. The speech of Thomas J. Randolph, (of Albemarle,) ... on the abolition of slavery -- 3. The speech of William B. Preston (of Montgomery) ... on the policy of the state in relation to her colored population -- 4. The speech of Thomas Marshall, (of Fauquier) ... on the policy of the state in relation to her colored population -- 5. The speech of Thomas Marshall ... on the abolition of slavery -- 6. Speech of James M&apos;Dowell, Jr. ... on the slave question -- 7. The speech of John Thompson Brown ... on the abolition of slavery -- 8. The speech of William H. Brodnax, (of Dinwiddie) ... on the policy of the state with respect to its colored population -- 9. The speech of Henry Berry ... on the abolition of slavery -- 10. The speech of John A. Chandler, (of Norfolk County,) ... on the policy of the state with respect to her slave population -- 11. The speech of William O. Goode ... on the abolition of slavery -- 12. The letter of Appomattox to the people of Virginia.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Turner, Nat,</subfield>
+    <subfield code="d">1800?-1831.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Randolph, Thomas Jefferson,</subfield>
+    <subfield code="d">1792-1875.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="0">
+    <subfield code="a">Virginia.</subfield>
+    <subfield code="b">General Assembly.</subfield>
+    <subfield code="b">House of Delegates.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="x">Law and legislation</subfield>
+    <subfield code="z">Virginia.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave insurrections</subfield>
+    <subfield code="z">Virginia.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Southampton Insurrection, 1831.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Leigh, Benjamin Watkins,</subfield>
+    <subfield code="d">1781-1849.</subfield>
+  </datafield>
+  <datafield tag="730" ind1="0" ind2=" ">
+    <subfield code="a">Richmond enquirer.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

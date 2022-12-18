@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02166nam a2200313Ia 4500</leader>
+  <controlfield tag="001">3637943</controlfield>
+  <controlfield tag="005">20110217140200.0</controlfield>
+  <controlfield tag="008">780314s1860    mau           000 0 eng d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">4756488</subfield>
+    <subfield code="a">228685143</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)3714851</subfield>
+    <subfield code="z">(OCoLC)4756488</subfield>
+    <subfield code="z">(OCoLC)228685143</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm03714851</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TOL</subfield>
+    <subfield code="c">TOL</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+    <subfield code="d">OCLCA</subfield>
+    <subfield code="d">HUV</subfield>
+    <subfield code="d">DRB</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ma</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.C53x</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">5574.57 no.7</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Child, Lydia Maria,</subfield>
+    <subfield code="d">1802-1880.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The duty of disobedience to the Fugitive Slave Act :</subfield>
+    <subfield code="b">an appeal to the legislators of Massachusetts /</subfield>
+    <subfield code="c">by L. Maria Child.</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2="0">
+    <subfield code="a">Pamphlets.Slavery.Legal aspect;</subfield>
+    <subfield code="i">no.7</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boston :</subfield>
+    <subfield code="b">American Anti-Slavery Society,</subfield>
+    <subfield code="c">1860.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">36 p. ;</subfield>
+    <subfield code="c">19 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Anti-slavery tracts ;</subfield>
+    <subfield code="v">new ser., no. 9</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">BAL,</subfield>
+    <subfield code="c">3190</subfield>
+  </datafield>
+  <datafield tag="563" ind1=" " ind2=" ">
+    <subfield code="a">Self-wrapper, stabbed and stiched at inner margin.</subfield>
+    <subfield code="5">NhD</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume contains: 1. State of New York, in Supreme Court, Seth W. Benedict, ads. Daniel D. Nash / by Seth Williston Benedict. -- 2. Constitutional argument against american slavery / by Gerrit Smith. -- 3. Views of American Constitutional Law in its bearing upon american slavery / by William Goodell. -- 4. The Fugitive Slave Bill: its history and unconstitutionality... . -- 5. The Fugitive Slave Law and its victims. -- 6. A sketch of the laws relating to slavery... / by George M. Strout. -- 7. The duty of disobedience to the Fugitive Slave Act... / by L. Maria Child. -- 8. Speech of John Hossack convicted of a violation of the Fugitive Slave Law... . -- 9. Rights and duties of the United States relative to slavery under the laws of the war... / by David Lee Child. -- 10. The abolition of slavery: the right of the government under the war power. -- 11. The Law of Slavery in the United States / by Christian Charles Josias Bunsen. -- 12. The Commander-in-Chief... / by Grosvenor P. Lowrey. -- 13. Illegality of slavery / by Benjamin Shaw.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="t">Fugitive slave law (1850)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Fugitive slaves</subfield>
+    <subfield code="z">Massachusetts.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery tracts ;</subfield>
+    <subfield code="v">new ser., no. 9.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

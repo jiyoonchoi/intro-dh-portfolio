@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00901nam a2200241Ia 4500</leader>
+  <controlfield tag="001">3587040</controlfield>
+  <controlfield tag="005">20101018151900.0</controlfield>
+  <controlfield tag="008">780530s1791    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)3937067</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm03937067</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">COO</subfield>
+    <subfield code="c">COO</subfield>
+    <subfield code="d">KRTAS</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">HT1091</subfield>
+    <subfield code="b">.F79</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">H.710.F83Ae</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fox, William,</subfield>
+    <subfield code="d">fl. 1791-1813.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">An address to the people of Great Britain on the utility of refraining from the use of West India sugar and rum.</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">5th ed., corrected.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[London] :</subfield>
+    <subfield code="b">M. Gurney, ... and W. Darton, ...,</subfield>
+    <subfield code="c">1791.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">12 p. ;</subfield>
+    <subfield code="c">19 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The author&apos;s name appears on the title page of later editions.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy ex libris (inscription): Benjamin P. Hunt.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Hunt, Benjamin P.</subfield>
+    <subfield code="q">(Benjamin Peter),</subfield>
+    <subfield code="d">b. 1808,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01078nam a2200265Ia 4500</leader>
+  <controlfield tag="001">3638013</controlfield>
+  <controlfield tag="005">20110216162900.0</controlfield>
+  <controlfield tag="008">800927s1840    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)6760518</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm06760518</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RRR</subfield>
+    <subfield code="c">RRR</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nwcu---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">5575.52 no.2</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Madden, Richard Robert,</subfield>
+    <subfield code="d">1798-1886.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Address on slavery in Cuba :</subfield>
+    <subfield code="b">presented to the General Anti-Slavery Convention /</subfield>
+    <subfield code="c">by R.R. Madden.</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2="0">
+    <subfield code="a">Slavery in the West Indies;</subfield>
+    <subfield code="i">no.2</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Johnston &amp; Barrett, printers,</subfield>
+    <subfield code="c">[1840]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">31 p. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Caption title.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Date from Dictionary of National Biography.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume contains: 1. Extinction of slavery .../ by John R. Beard. -- 2. Address on slavery in Cuba... / by R. R. Madden. -- 3. The utter extinction of slavery, an object of scripture prophecy / by Joseph Ivimey.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">Cuba.</subfield>
+  </datafield>
+  <datafield tag="711" ind1="2" ind2=" ">
+    <subfield code="a">General Anti-slavery Convention</subfield>
+    <subfield code="n">(1st :</subfield>
+    <subfield code="d">1840 :</subfield>
+    <subfield code="c">London, England)</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

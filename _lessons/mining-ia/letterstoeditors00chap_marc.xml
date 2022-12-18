@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03763ntm a22003857a 4500</leader>
+  <controlfield tag="001">3445764</controlfield>
+  <controlfield tag="005">20091106095900.0</controlfield>
+  <controlfield tag="008">090115s1864    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">1864</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.32, p.3</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letters to the editors of the Evening Post &amp; Boston Daily Advertiser regarding the Dress League and economy in dress and living during wartime]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York,</subfield>
+    <subfield code="c">[1864].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">5 leaves (19 p.) ;</subfield>
+    <subfield code="c">8 x 4 7/8 in; 8 x 5 in; and envelope 3 1/2 x 5 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this folder, there are two letters, a newspaper clipping, and a envelope that all have the Call No. Ms.A.9.2 v.32, p.3.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There is an unsigned letter signed &quot;A Considerate Observer&quot; to the editors of the Evening Post; it is presumably by Maria Weston Chapman. This is a rough draft of a letter, 3 leaves, 11 pages, with deletions and corrections. Chapman refers to a leading article in the newspaper, with the heading &quot;Economy in Dress &amp; Living.&quot; She points out certain irrelevances. Chapman said: &quot;Pray do not let us become so bewildered as to call either our virtues or good fortune a sin. It is because we are a republican people that every woman above the condition of abject poverty has a silk gown ...&quot; The only issue is the saving of money. Chapman said: &quot;The Ladies of Boston have through a Committee consulted their own Members of Congress who have advised a non-importation policy.&quot; She doubts the utility of discussing the use of wine and cigars and ladies will probably not give up tea and coffee. She objects to the doctrine of &quot;inordinate luxury&quot; of the South. In spite of misplaced emphasis, the pledge [of the Economical League?] &quot;seems most judiciously drawn up. If no good reasons are brought forward against it, let it be thoroughly circulated and signed.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There is another unsigned letter presumably by Maria Weston Chapman, 2 leaves, 8 pages. It was to the editors of the Boston Daily Advertiser regarding &quot;A few suggestions to the Managers of the proposed Loyal League for Women.&quot; Chapman writes that the &quot;formation of a League on any general consideration of extravagance and economy seems to me to be unwise.&quot; She defends women against the reproach of extravagance. Chapman believes that the only fact &quot;with which the League should concern itself is the derangement of the finances of the country so far as they are affected by the present drain of gold.&quot; All that needs to be kept in mind is to &quot;buy no article of dress of foreign manufacture.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There are two newspaper clippings (information artifacts), 1 leaf, 1 page, to the editors of the Boston Daily Advertising: &quot;New England Women&apos;s League,&quot; Boston, July 4, 1864; and &quot;Foreign Luxuries,&quot; Boston, May 7, 1864.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">It is accompanied by an envelope addressed to Miss Anne W. Weston, Weymouth, Mass., with the notation &quot;Articles about the Dress League.&quot; It is postmarked June, New York.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Evening post</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Boston daily advertiser</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Clothing and dress.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Evening post,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="730" ind1="0" ind2=" ">
+    <subfield code="a">Boston daily advertiser.</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 24</subfield>
+  </datafield>
+</record>

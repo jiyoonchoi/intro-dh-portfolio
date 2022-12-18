@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03969ntm a22004337a 4500</leader>
+  <controlfield tag="001">3279827</controlfield>
+  <controlfield tag="005">20090313021000.0</controlfield>
+  <controlfield tag="008">090115s1837    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18371230</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3279827</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.9, p.9</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Debora[h]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boston,</subfield>
+    <subfield code="c">January 30th, 1837, Monday.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">9 3/4 x 7 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Anne Warren Weston describes the Anti-Slavery meeting which was held in the stable-loft of the Marlborough Hotel. Garrison read the Annual Report, which was a &quot;most masterly production.&quot; Moses Thacher stated that he had received a letter from &quot;a lady&quot; who had been a slave, indicating that &quot;it was one of the women who ran away from the [Boston] Court House.&quot; Other speakers were &quot;Brother [Samuel J.] May,&quot; Mr. Cyrus Pitt Grosvenor, Henry Brewster Stanton, and [William Lawrence?] Chaplin. More than a thousand were present and many could not get in. Amos Dresser told &quot;the Nashville story. He is a small delicate, pretty looking young man... Great sobbing was heard all over the room.&quot; Anne also describes the evening meeting at the State House. After Orange Scott, Ellis Gray Loring spoke in his &quot;little happy quiet soft way.&quot; First describing [Thomas] Clarkson, he spoke of Garrison--&quot;...this brought down a tremendous clap, interspersed with a few hisses.&quot; Henry B. Stanton made a speech on slavery in the District of Columbia. &quot;It was one of those Free Discussion flourishes, in which his soul so much delights.&quot; Mr. Dresser retold his story, because the audience clamored for his immediate appearance. &quot;He was clapped uproariously.&quot; Anne describes the meeting the next morning, again in the stable. Mr. [David] Root, Mr. Philemon R. Russell, Amasa Walker, and Mr. [Charles] Fitch spoke. Then Robert Williams, a black man living in Boston told his story, of which part of &quot;the scene was laid in Weymouth.&quot; The problem of a building for free discussion and the Free Church were discussed. The Free Church was turned out of Congress Hall for allowing the Massachusetts Anti-Slavery Society to go in. The Ladies&apos; Anti-Slavery meeting was held at the Artists&apos; Gallery. Mrs. Lydia Maria Child dined at the house of Mrs. Maria Weston Chapman. Anne describes the ladies&apos; meeting. Some villains had thrown Cayenne pepper into the stove, which made the audience cough. The [Ladies&apos;] Society pledged $100 to New York. Anne describes the guests and conversation at Mrs. Chapman&apos;s. At the next morning&apos;s meeting, &quot;a eulogium had been passed on Henry Benson, which had drowned the whole audience in tears.&quot; Anne describes the evening party at her house. Tells of the &quot;Monthly Concert,&quot; which Wendell Phillips attended. &quot;He is beginning to be quite an Abolitionist.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There is cross writing on the first page that is very difficult to read.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah</subfield>
+    <subfield code="d">b. 1814.</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Benson, Henry Egbert,</subfield>
+    <subfield code="d">1814-1837.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Root, David,</subfield>
+    <subfield code="d">1791-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Williams, Robert.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chaplin, William L.</subfield>
+    <subfield code="q">(William Lawrence),</subfield>
+    <subfield code="d">1796-1871.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Thacher, Moses,</subfield>
+    <subfield code="d">1795-1878.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dresser, Amos,</subfield>
+    <subfield code="d">1812-1904.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Loring, Ellis Gray,</subfield>
+    <subfield code="d">1803-1858.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stanton, Henry B.</subfield>
+    <subfield code="q">(Henry Brewster),</subfield>
+    <subfield code="d">1805-1887.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

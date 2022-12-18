@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02713cam a2200433Ia 4500</leader>
+  <controlfield tag="005">20080125154356.0</controlfield>
+  <controlfield tag="008">890731s1784    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm23627358 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)23627358</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">EYM</subfield>
+    <subfield code="c">EYM</subfield>
+    <subfield code="d">GZM</subfield>
+    <subfield code="d">OCLCQ</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nw-----</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">HT1091</subfield>
+    <subfield code="b">.R18</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">326</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">XH.710.R14E no.1</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">XH.710.R14E</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ramsay, James,</subfield>
+    <subfield code="d">1733-1789.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">An essay on the treatment and conversion of African slaves in the British sugar colonies /</subfield>
+    <subfield code="c">by ... James Ramsay ...</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Phillips,</subfield>
+    <subfield code="c">1784.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xx, [1], 298, [1] p. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">&quot;Errata&quot;: p. [xxi].</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy 2 disbound from tract volume possibly from library of Capel Lofft, each item of which is now bound separately.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy 2, errata leaf is bound following p. 298.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy 2 ex libris (signature &amp; armorial bookplate): William Wilberforce.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy 2 a gift from F.J. Garrison; presumably from the library of his father, William Lloyd Garrison.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy 1 ex libris (bookplate) James Jacob Welsh.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy 1 ex libris (inscription) Benjamin P. Hunt.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy 1 has, on a preliminary page, ms. list of contents of original volume from which this item was removed.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy 1 contains bookplate with the words &quot;Wyn God wyn all&quot; surrounding the initials C.G.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy 1 contains a brief single page ms. biography of James Ramsay bound in before t.p.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">West Indies, British</subfield>
+    <subfield code="v">Early works to 1800.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879,</subfield>
+    <subfield code="e">former owner</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Wilberforce, William,</subfield>
+    <subfield code="d">1759-1833,</subfield>
+    <subfield code="e">former owner</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Welsh, James Jacob,</subfield>
+    <subfield code="e">former owner</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Hunt, Benjamin P.</subfield>
+    <subfield code="q">(Benjamin Peter),</subfield>
+    <subfield code="d">b. 1808,</subfield>
+    <subfield code="e">former owner</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1RB</subfield>
+    <subfield code="b">BRLRB</subfield>
+    <subfield code="h">XH.710.R14E no.1</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2008). Backstage Library Works.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1RB</subfield>
+    <subfield code="b">BRLRB</subfield>
+    <subfield code="h">XH.710.R14E</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2008). Backstage Library Works.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1ST</subfield>
+    <subfield code="b">BANF</subfield>
+    <subfield code="h">7585.33</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2008). Backstage Library Works.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1ST</subfield>
+    <subfield code="b">BANF</subfield>
+    <subfield code="h">No.1 in 4304.56</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2008). Backstage Library Works.</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">Deduped record</subfield>
+  </datafield>
+</record>

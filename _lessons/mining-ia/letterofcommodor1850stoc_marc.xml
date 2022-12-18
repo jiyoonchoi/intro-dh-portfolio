@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01986nam a2200265I  4500</leader>
+  <controlfield tag="001">3638119</controlfield>
+  <controlfield tag="005">20110217142100.0</controlfield>
+  <controlfield tag="008">110216s1850    nyu           000 0 eng  </controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)702135307</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn702135307</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+    <subfield code="c">BRL</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">5574.54 no.1-13</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stockton, Robert Field,</subfield>
+    <subfield code="d">1795-1866.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Letter of Commodore Stockton on the slavery question /</subfield>
+    <subfield code="c">Robert Field Stockton.</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2="0">
+    <subfield code="a">Pamphlets. Slavery 1850-60.Vol.III ;</subfield>
+    <subfield code="i">no.1</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York :</subfield>
+    <subfield code="b">S. W. Benedict, Printer,</subfield>
+    <subfield code="c">1850.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">23 p. ;</subfield>
+    <subfield code="c">18 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">At head of title: Interesting correspondence.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Also available in digital form on the Internet Archive Web site.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume contains: 1. Letter of Commodore Stockton on the slavery question / by Robert Field Stockton. -- 2. Speech...delivered at the anti-slavery meeting, Broadmead, Bristol, Sept.4th, 1851 / by George Thompson. -- 3. Some views of freedom and slavery... / by Richard De Charms. -- 4. Speech... in the county convention at Syracuse, October 14, 1851 / by Samuel J. May. -- 5. A letter on &quot;Uncle Tom&apos;s Cabin&quot; / by the author of &quot;Friends in Council&quot;. -- 6. Slavery in the southern states / by a Carolinian. -- 7. Slavery in the southern states / by Edward J. Pringle. -- 8. Report of the Twentieth National Anti-Slavery Bazaar. -- 9. Plain statement addressed to all honest democrats / by one of the people. -- 10. (Removed to XH.A856.H47P) -- 11. The &quot;manifest destiny&quot; of the American Union. -- 12. A few remarks upon &quot;Four papers from the Boston Courier&quot;... . -- 13. The Natick Resolution; or resistance to slaveholders... / by Henry C. Wright.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Online version:</subfield>
+    <subfield code="a">Stockton, Robert Field, 1795-1866.</subfield>
+    <subfield code="t">Letter of Commodore Stockton on the slavery question.</subfield>
+    <subfield code="d">New York, S. W. Benedict, Printer, 1850</subfield>
+    <subfield code="w">(OCoLC)656525247</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.00118985229</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">02</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

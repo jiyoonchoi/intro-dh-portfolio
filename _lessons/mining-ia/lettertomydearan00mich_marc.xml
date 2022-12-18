@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03280ntm a22003497a 4500</leader>
+  <controlfield tag="001">3540224</controlfield>
+  <controlfield tag="005">20100507125400.0</controlfield>
+  <controlfield tag="008">090115s1853    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18531120</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.7, p.26A</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Michell, Emma.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Annie</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">47 Park St., [Bristol, England],</subfield>
+    <subfield code="c">Nov. 20th / [18]53(?).</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 leaves (12 p.) ;</subfield>
+    <subfield code="c">7 x 4 1/2 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, Emma Michell reflects on the spiritual bond that unites all abolitionists. She imagines the pleasure with which Anne Warren Weston will look upon the daguerreotype of Mr. John Bishop Estlin, which cannot, however, give &quot;the benevolent play of his countenance.&quot; She discusses at length on the state of the Estlins&apos; health. Mr. Estlin&apos;s lack of strength in his right hand appears to be the only trace left of his attack, and his vigor for long walks remains unimpaired. Mary [Estlin] has been overworked and will try the water cure near Birmingham. She refers to (evidently another) daguerreotype, which they consider a failure in regard to John Biship Estlin, his coloring being so high &quot;that it gives one the idea of his not belonging to anything in the shape of a Temperance Soc[ie]ty.&quot; Emma Michell tells of the meeting of the Bristol and Clifton Ladies Society; Mr. [Francis] Bishop &quot;touched and warmed all our hearts&quot; with an account of his American experiences. Mr. S. Alfred Steinthal sketched the formation of a new society in Bridgewater. Steinthal wrote to the American abolitionists for information and &quot;there seems now to be an opening for awakening a more extensive interest than hither to.&quot; Though [Frederick] Douglass &quot;has been their hero,&quot; Mr. Steinthal, who had seen only Douglass&apos;s own paper [The North Star], &quot;gathered from it what Douglass really is--with regard to his late attack on the real abolitionists ...&quot; She points out the difficulty of finding in Bristol &quot;anything like masculine energy in behalf of the slave.&quot; She congratulates Anne W. Weston on not having to get up a Liberty Bell this year. She looks forward to a possible reunion with Mrs. Maria Weston Chapman. She wishes that Mr. [James Miller] M&apos;Kim could have stayed longer in England and that Mr. Wendell Phillips would come. She hopes Anne W. Weston will find her brother&apos;s health improved by his visit to Europe. She has heard from Mr. [Richard David] Webb, whose son Alfred has arrived safely in Australia.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">See Ms.A.9.2 v.7, p.26B for the envelope that accompanied this letter.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Michell, Emma</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Bishop, Francis.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Steinthal, S. Alfred.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 12</subfield>
+  </datafield>
+</record>

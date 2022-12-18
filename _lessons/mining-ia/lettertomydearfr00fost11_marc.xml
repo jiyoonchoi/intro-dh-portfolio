@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03117ntm a22003737a 4500</leader>
+  <controlfield tag="001">3492859</controlfield>
+  <controlfield tag="005">20100312151800.0</controlfield>
+  <controlfield tag="008">090115s1843    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18430910</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.19, p.59</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Foster, Abby Kelley,</subfield>
+    <subfield code="d">1811-1887.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">West Winfield, [NY],</subfield>
+    <subfield code="c">Oct. 10, [18]43.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">12 1/2 x 8 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Alluding to a letter from Maria Weston Chapman in which Abby Kelley Foster was apparently asked to define her position, Foster declares: &quot;My life is a constant definition.&quot; Enough abuse of Abby K. Foster will be seen in the next Liberty Press to satisfy the most doubtful. Abby Kelley Foster refers to a convention in Winfield. There are hundreds of recent converts, not yet thoroughly indoctrinated, whom Abby K. Foster holds in her hand. A one-day meeting was held at Canastata previous to the State Nominating Convention. Abby Kelley Foster comments on the Wesleyans and their attitude toward the &quot;infidel Garrisonians.&quot; About $130 were raised, &quot;and the triumph over the New-organizers was quite delightful.&quot; She tells how &quot;the muck worms [William Lawrence] Chaplan &amp; [James Caleb] Jackson crawled into the convention. Their solemnity was broken into by that crazy [Stephen S.] Foster ...&quot; Abby K. Foster thinks Stephen S. Foster may &quot;crush New Organization and save the true abolitionists of the party ...&quot; She recounts the appeals for cooperation made to the opponents: &quot;But our tears were all in vain ...[Alvan] Stewart declared it necessary to go to the ballot box in order to be an abolitionist and J.C. Jackson would not work in a society with nonresistants.&quot; The opposing party withdrew to a schoolhouse where they had &quot;as large a number as ourselves.&quot; Abby K. Foster asks Maria W. Chapman &quot;never again to suspect me of being under the influence of such reptiles as Jackson and Co.&quot; Abby K. Foster wants Stephen S. Foster to stay in the central part of the state. &quot;Between you and I, that Western [State] Society is merely a name and the Central Society would be were I not here.&quot; Criticizes David L. Child in the Standard.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Foster, Abby Kelley,</subfield>
+    <subfield code="d">1811-1887</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chaplin, William L.</subfield>
+    <subfield code="q">(William Lawrence),</subfield>
+    <subfield code="d">1796-1871.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Child, David Lee,</subfield>
+    <subfield code="d">1794-1874.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Foster, Stephen S.</subfield>
+    <subfield code="q">(Stephen Symonds),</subfield>
+    <subfield code="d">1809-1881.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Jackson, James Caleb,</subfield>
+    <subfield code="d">1811-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Monroe, James,</subfield>
+    <subfield code="d">1821-1898.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Stewart, Alvan,</subfield>
+    <subfield code="d">1790-1849.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Wesleyan Methodist Church of America.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Liberty press.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

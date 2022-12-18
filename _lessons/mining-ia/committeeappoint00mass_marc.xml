@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01191nam a2200277Ia 4500</leader>
+  <controlfield tag="001">2773579</controlfield>
+  <controlfield tag="005">20070129222500.0</controlfield>
+  <controlfield tag="008">021001s1813    mau           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm50702581</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+    <subfield code="c">BRL</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4264.55 No. 1</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Massachusetts.</subfield>
+    <subfield code="b">General Court.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Reports.</subfield>
+    <subfield code="p">Territorial limits</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The committee appointed to consider &quot;so much of His Excellency&apos;s speech as relates to an extension of territorial limits &quot;and forming new states without territorrial [sic] limits of the United States,&quot;</subfield>
+    <subfield code="b">respectfully report ...</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Boston, Mass., : </subfield>
+    <subfield code="b">s.n., </subfield>
+    <subfield code="c">1813]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">11 p. ;</subfield>
+    <subfield code="c">22.5 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There is no title-page.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Dept.) copy has a mss. page shelved under Ms.acc.5015.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This report was due to the passing, April 8, 1812, of the act entitled &quot;An act for the admission of the State of Louisiana.&quot;</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Territories of the United States</subfield>
+    <subfield code="x">History.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">U.S. states</subfield>
+    <subfield code="x">Admission into the Union.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Louisiana</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="x">Admission into the Union.</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="k">4264.55 No. 1</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">rcp3745</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">02</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

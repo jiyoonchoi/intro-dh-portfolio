@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01165cam a2200289Ia 4500</leader>
+  <controlfield tag="001">1064927</controlfield>
+  <controlfield tag="005">20020510090500.0</controlfield>
+  <controlfield tag="008">930729s1854    nyuafc        000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   05005877</subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">3613557</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm01656076</subfield>
+    <subfield code="z">05005877</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">MIA</subfield>
+    <subfield code="d">SER</subfield>
+    <subfield code="d">PIT</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">IVC</subfield>
+    <subfield code="d">BRL</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.G851</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.G851</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">301.45</subfield>
+    <subfield code="b">G</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Autographs for freedom /</subfield>
+    <subfield code="c">edited by Julia Griffiths.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Auburn: :</subfield>
+    <subfield code="b">Alden, Beardsley &amp; Co. ;</subfield>
+    <subfield code="a">Rochester: :</subfield>
+    <subfield code="b">Wanzer, Beardsley &amp; Co.,</subfield>
+    <subfield code="c">1854.</subfield>
+    <subfield code="f">Stereotyped by Thomas B. Smith, N.Y.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">309, [1], 2, 4, 3 p., [13] leaves of plates :</subfield>
+    <subfield code="b">ill. (ports.) ;</subfield>
+    <subfield code="c">20.5 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">A collection of signed articles, poems, etc., by men and women prominent in the anti-slavery movement. Most of the signatures are in facsimile.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Edited for the Rochester Ladies&apos; Anti-slavery Society.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Publisher&apos;s dark green cloth binding blind &amp; gilt-stamped.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Griffiths, Julia.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Rochester Ladies&apos; Anti-slavery Society.</subfield>
+  </datafield>
+  <datafield tag="962" ind1=" " ind2=" ">
+    <subfield code="a">ACU-9384</subfield>
+  </datafield>
+</record>

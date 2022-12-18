@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03414ntm a22003977a 4500</leader>
+  <controlfield tag="001">3583869</controlfield>
+  <controlfield tag="005">20100930222000.0</controlfield>
+  <controlfield tag="008">090115s1849    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18491104</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3583869</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.24, p.107</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to Anne Warren Weston]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[4 Nov. 1849].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (8 p.) ;</subfield>
+    <subfield code="c">7 1/4 x 4 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There are two letters in this manuscript. On pages 1-6, there is a letter by Richard Davis Webb to Anne Warren Weston. Richard D. Webb characterizes James Haughton as a simple hearted man who would believe anything. Richard D. Webb believes &quot;Father Mathew is not to be compared with James Haughton for nobility of character, and he is not worthy to tie Garrison&apos;s shoes.&quot; Richard D. Webb gives information about the articles contributed to the Boston fair. He mentions among the donors Mrs. Edmundson, the sister of Eliza Wigham; a Miss Phebe Mary Henzell, who is an admirer of Frederick Douglass; Richard D. Webb&apos;s cousin, Deborah Moore; and Maria Waring, whose &quot;kind of munificence is not common with us.&quot; A child&apos;s muff was made by Richard Davis Webb&apos;s daughter Anne, who is not yet eleven years old. Richard D. Webb sends copies of an index to his anti-slavery pamphlets.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On pages 6-8 in this manuscript, there is a separate letter by Hannah Webb to Anne Warren Weston. Hannah Webb suggests mentioning the Misses Haughton and Miss Henzell in the acknowledgements of the anti-slavery fair contributions. She comments on the difficulty of arousing anti-slavery interest and believes &quot;people are so terribly afraid of contamination &amp; heresy.&quot; Hannah Webb is troubled by &quot;this whole matter of father Mathew&quot; in the Liberator. Hannah Webb says: &quot;I know that Garrison is right &amp; I am wrong &amp; yet I wish to see the man handled more gently.&quot; She considers Father Mathew&apos;s advanced years and infirmities. Hannah Webb was delighted with William Lloyd Garrison&apos;s article, &quot;Kossuth &amp; Jesus.&quot; Garrison is &quot;above caring whether you (or anybody in the whole universe) approve of what he says---he only stands for the right, &amp; herein is his strength.&quot; Hannah Webb refers to the &quot;grand time&quot; that her husband had with our friends at Versailles. She tells about the marriage of Lizzy Poole to one Addey. Hannah Webb explains her Quaker use of &quot;thou.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This manuscript is a continuation of Richard Davis Webb&apos;s letter to Anne Warren Weston on Nov. 4, 1849, Call No. Ms.A.9.2 v.24, p.108.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Hannah,</subfield>
+    <subfield code="d">1809-1862</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Haughton, James,</subfield>
+    <subfield code="d">1795-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Kossuth, Lajos,</subfield>
+    <subfield code="d">1802-1894.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Poole, Elizabeth.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Mathew, Theobald,</subfield>
+    <subfield code="d">1790-1856.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">Ireland.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

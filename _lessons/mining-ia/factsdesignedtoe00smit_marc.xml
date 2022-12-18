@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01577nam a2200265Ia 4500</leader>
+  <controlfield tag="001">3614803</controlfield>
+  <controlfield tag="005">20101122134200.0</controlfield>
+  <controlfield tag="008">780207s1833    enk           000 0 eng d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">48018351</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)3614904</subfield>
+    <subfield code="z">(OCoLC)48018351</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm03614904</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSH</subfield>
+    <subfield code="c">PSH</subfield>
+    <subfield code="d">OCLCQ</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">f------</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">E448</subfield>
+    <subfield code="b">.S649</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7574.5.5 no. 4</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith, George.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Facts designed to exhibit the real character and tendency of the American Colonization Society /</subfield>
+    <subfield code="c">by Clericus.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Liverpool :</subfield>
+    <subfield code="b">Printed and sold by Egerton Smith and Co.,</subfield>
+    <subfield code="c">1833.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">19 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. The utter extinction of slavery, an object of scripture prophecy -- 2. Songs of a sojourn -- 3. Is slavery defensible from scripture? -- 4. Facts designed to exhibit the real character and tendency of the American Colonization Society -- 5. Abstract of the report of the Lords committees on the condition and treatment of the colonial slaves -- 6. Analysis of the report of a Committee of the House of commons on the extinction of slavery -- 7. Thoughts on the necessity of improving the condition of the slaves in the British colonies -- 8. Colonial slavery -- 9. A letter to Thomas Clarkson; and Prejudice vincible -- 10. Substance of the speech delivered at the meeting of the Edinburgh Society for the Abolition of Slavery.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">American Colonization Society.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">African Americans</subfield>
+    <subfield code="x">Colonization</subfield>
+    <subfield code="z">Africa</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Clericus,</subfield>
+    <subfield code="c">pseud.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

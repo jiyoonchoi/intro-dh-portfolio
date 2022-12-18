@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01434nam a2200205Ia 4500</leader>
+  <controlfield tag="001">3599213</controlfield>
+  <controlfield tag="005">20101109153200.0</controlfield>
+  <controlfield tag="008">101108s1840    riu           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)679681465</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn679681465</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+    <subfield code="c">BRL</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Res.7589a.54 no. 3</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Baptist Anti-Slavery Society.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Constitution of the Baptist Anti-slavery Society, Providence :</subfield>
+    <subfield code="b">formed December 12, 1839 ; with an address to the first, second, third and fourth Baptist churches.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Providence :</subfield>
+    <subfield code="b">Baptist Anti-slavery Society,</subfield>
+    <subfield code="c">1840.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">17 p. ;</subfield>
+    <subfield code="c">18 cm.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. Address to the friends of liberty -- 2. The constitution of the American Anti-Slavery Society -- 3. Constitution of the Baptist Anti-slavery Society, Providence -- 4. British and Foreign AntiSlavery Society -- 5. A vindication of female anti-slavery associations -- 6. Constitution of the ... Anti-Slavery Society -- 7. Work for abolitionists!! -- 8. Constitution of the New-England Anti-Slavery Society -- 9. An apology for abolitionists -- 10. The constitution of the Pennsylvania Society, for Promoting the Abolition of Slavery and the relief of free Negroes (1787) -- 11. The constitution of the Pennsylvania Society, for Promoting the Abolition of Slavery, and the relief of Free Negroes (1788).</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">Societies, etc.</subfield>
+    <subfield code="x">Constitution.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00902cam a2200265I  4500</leader>
+  <controlfield tag="001">2518412</controlfield>
+  <controlfield tag="005">20060125172100.0</controlfield>
+  <controlfield tag="008">770926s1784    xxu           000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   11025826 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm03296565</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">LZU</subfield>
+    <subfield code="d">OCL</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">E446</subfield>
+    <subfield code="b">.B446</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">XB.776.M36F no.3.</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Res. 7586.64 no. 1-18</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Benezet, Anthony,</subfield>
+    <subfield code="d">1713-1784.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="2">
+    <subfield code="a">A caution to Great Britain and her colonies,</subfield>
+    <subfield code="c">in a short representation of the calamitous state of the enslaved Negroes in the British dominions.</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">A new ed.</subfield>
+    <subfield code="b">By Ant. Benezet.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Philadelphia printed,</subfield>
+    <subfield code="a">London,</subfield>
+    <subfield code="b">Reprinted and sold by J. Phillips,</subfield>
+    <subfield code="c">1784.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">46, [1] p.</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Pamphlets</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">West Indies</subfield>
+    <subfield code="v">Pamphlets</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="h">XB.776.M36F no.3 </subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">20030425 dgi/llk</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">X0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

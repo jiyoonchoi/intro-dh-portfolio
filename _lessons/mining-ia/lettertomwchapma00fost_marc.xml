@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03406ntm a22003137a 4500</leader>
+  <controlfield tag="001">3573431</controlfield>
+  <controlfield tag="005">20100826221700.0</controlfield>
+  <controlfield tag="008">090115s1840    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18401221</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3573431</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.3449</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Foster, Abby Kelley,</subfield>
+    <subfield code="d">1811-1887.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] M. W. Chapman, My dear friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Millbury, [Mass.],</subfield>
+    <subfield code="c">Dec. 21, [18]40.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In this letter, Abby Kelley Foster introduces her sister Lucy &quot;who visits Boston at this time to attend the Fair. She would be happy to receive whatever suggestions she can as to the best manner of conducting Fairs, as we trust the little sewing circle recently formed in this place will get up a sale of useful articles occasionally, and do whatever they can in other ways to subserve the cause. That you will have a happy week, this, I doubt not, and my earnest desire is that there may be no sting left behind, but that upon reflection all may feel satisfied that whatever has been done has promoted righteousness---has been to the glory of God.&quot; Abby Kelley Foster continues: &quot;One word as the Mass. Society. Why do they not send out their agents. I am in wonder when I look at the condition of affairs in the state. It will not do. I protest against it in the name of the slave. ...I blush for Mass. while I am abroad and were I not absolutely bound to absent myself I would not for a day. I am at home now for a little time in consequence of sickness in our family. It was well for me that I was sent for, as I found on sitting down in my own home and throwing off all thought of what I &apos;must do,&apos; I was myself quite sick. Tis very trying even to a good constitution, this going from place to place in the cold weather sometimes in an oven house and then in an icy cold one, sometimes compelled to breathe over again in the air from three or four hundred lungs crowded into a house somewhat after the fashion of human cattle on the middle passage, and then going forthwith into the keen air with the lungs in a state of exhaustion having been talking from an hour and a half to three hours. It is not till very recently that I have been willing to believe I was sustaining any injury but I am compelled to believe it and for the future until I regain my wonted vigor I shall not lecture every evening in the week nor speak so long at a time. Tis easy to make such resolution but the thought of three millions come up to break them. How long, O! Lord!&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In the postscript, Abby Kelley Foster asks for copies of Maria Weston Chapman&apos;s controversial pamphlet, &quot;Right and Wrong in Massachusetts,&quot; which argues that women&apos;s rights were the basis for the division in anti-slavery ranks. &quot;If you have any on hand and can spare them, a few copies will be of eminent service.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Foster, Abby Kelley,</subfield>
+    <subfield code="d">1811-1887</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

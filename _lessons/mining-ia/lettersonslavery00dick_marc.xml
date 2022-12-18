@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01235nam a2200265Ia 4500</leader>
+  <controlfield tag="001">3574081</controlfield>
+  <controlfield tag="005">20100827162700.0</controlfield>
+  <controlfield tag="008">870410s1789    enk           001 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)43586230</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm43586230</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MNU</subfield>
+    <subfield code="c">MNU</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">KRTAS</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nw-----</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">E449</subfield>
+    <subfield code="b">.D53 1789</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">XH.710.D56L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dickson, William.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Letters on slavery /</subfield>
+    <subfield code="c">by William Dickson, formerly private secretary to the late Hon. Edward Hay, governor of Barbadoes ; to which are added, addresses to the Whites, and to the Free Negroes of Barbadoes, and accounts of some Negroes eminent for their virtues and abilities.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">printed and sold by J. Phillips ... and sold by J. Johnson ... and Elliot and Kay ...,</subfield>
+    <subfield code="c">M.DCC.LXXXIX [1789].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[2], x, 190, [1] p. ;</subfield>
+    <subfield code="c">22.5 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Errata: last page.</subfield>
+  </datafield>
+  <datafield tag="501" ind1=" " ind2=" ">
+    <subfield code="a">With: Clarkson, T. An essay on the impolicy of the African slave trade. London, 1788.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy signed by William Lloyd Garrison.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">West Indies, British</subfield>
+    <subfield code="v">Early works to 1800.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+    <subfield code="5">former owner</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

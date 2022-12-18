@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01873cam a2200253Ia 4500</leader>
+  <controlfield tag="001">1733974</controlfield>
+  <controlfield tag="005">20021115205000.0</controlfield>
+  <controlfield tag="008">A00905s1830    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm04217630</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm04217630</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ISM</subfield>
+    <subfield code="c">ISM</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">BRL</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">HT1165</subfield>
+    <subfield code="b">.W55</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7574.5.6 no. 4</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wilson, Daniel,</subfield>
+    <subfield code="d">1778-1858.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The guilt of forbearing to deliver our British colonial slaves. :</subfield>
+    <subfield code="b">A sermon preached at the Parish church of Cheltenham, Gloucestershire on Wednesday, October 7th, at the Parish Church of St. Mary, Islington on Wednesday, October 28th, and at St. John&apos;s Chapel, Bedford Row, London, on Sunday, October 31, 1830. /</subfield>
+    <subfield code="c">by Daniel Wilson.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">George Wilson...,</subfield>
+    <subfield code="c">1830.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[2], 22 p. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) ex libris (inscription): C.W. Denison.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. A Review of the report of a select committee of the house of Commons, on the state of the West India colonies -- 2. Three months in Jamaica, in 1832 -- 3. The West India question -- 4. The guilt of forbearing to deliver our British colonial slaves -- 5. A review of some of the arguments which are commonly advanced against parliamentary interference  ... -- 6. The slave colonies of Great Britain -- 7. Negro slavery -- 8. [removed] -- 9. A short review of the slave trade and slavery -- 10. Review of the last session of Parliament (Anti-slavery monthly reporter (for August, 1828)) -- 11. Review of the last session of Parliament ... {Anti-slavery monthly reporter (for September, 1828)) -- 12. The West Indian manifesto examined {Anti-slavery monthly reporter (June 25, 1831)).</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">Great Britain</subfield>
+    <subfield code="v">Pamphlets</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Denison, Charles Wheeler,</subfield>
+    <subfield code="d">1809-1881,</subfield>
+    <subfield code="e">former owner</subfield>
+  </datafield>
+  <datafield tag="962" ind1=" " ind2=" ">
+    <subfield code="a">AFK-6548</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">02</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>04039ntm a22004217a 4500</leader>
+  <controlfield tag="001">3584162</controlfield>
+  <controlfield tag="005">20101001102500.0</controlfield>
+  <controlfield tag="008">090115s1849    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18490325</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.24, p.69</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Dublin, [Ireland],</subfield>
+    <subfield code="c">25th of March 1849.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">9 x 7 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Richard Davis Webb and his wife approve of the plan to hold the anti-slavery bazaar in Philadelphia. Because of Quaker sympathies, donations might even be increased from Great Britain and Ireland. Richard D. Webb writes: &quot;In Dublin all the trouble is taken by my wife, myself, and the Jennings family in Cork.&quot; He expresses sympathy for Lizzy (Elizabeth Bates Chapman Laugel), who is suffering from rheumatic fever. Richard D. Webb is glad that Caroline Weston liked his piece in the Liberty Bell; he remarks on the &quot;lamentably&quot; and &quot;wonderfully small&quot; number of literary people who have any interest in the cause. He admires Harriet Martineau&apos;s stand. Richard D. Webb explains that no disrespect was intended to Harriet Martineau in his letter to the National Anti-Slavery Standard. He thinks that Harriet Martineau is &quot;tremendously clever---and that she looks a little scornfully on a large portion of those on whom her fame depends.&quot; Richard D. Webb would like to have Mrs. Follen and her son as guests, if they &quot;thought Dublin worth looking at.&quot; Dr. Follen &quot;is one of my saints.&quot; Richard D. Webb comments on various contributions to the Liberty Bell. Dr. John Bowring has gone to Hong Kong to serve as British consul. Richard D. Webb discourses at length on the misfortunes of Ireland: &quot;The mass of the people are so miserable, degraded, demoralized &amp; superstitious ... that it is almost impossible to help them.&quot; Also, &quot;Ireland is not one nation, it is two which have little or nothing in common.&quot; Richard D. Webb dwells on the influence of priests, but admits that the &quot;low Irish Protestants are not a whit less fanatical than the Catholics.&quot; He deprecates Daniel O&apos;Connell&apos;s influence. Richard D. Webb never heard of a Roman Catholic who was an abolitionist. Richard D. Webb comments: &quot;All Irishmen know what no Englishman seems disposed to admit---that nearly all of our misfortunes and faults and miseries including the ascendancy of popery, ignorance, &amp; slavery are the legitimate result of ages of gross tyranny &amp; deliberate misgovernment on the part of England.&quot; Webb remarks on Charles Lenox Remond: &quot;I only wonder that he stood by you so long. When here I often blushed for him and the cause. He was a shameless beggar at times.&quot; Webb refers to George Bradburn&apos;s attack on William Lloyd Garrison as &quot;the most revolting thing.&quot; Webb asks if Caroline Weston has heard of this Julia Griffiths, an enthusiastic friend of Frederick Douglass. He discusses on the disagreement between the Howitts and Harriet Martineau.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Bowring, John,</subfield>
+    <subfield code="c">Sir,</subfield>
+    <subfield code="d">1792-1872.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Bradburn, George,</subfield>
+    <subfield code="d">1806-1880.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Follen, Eliza Lee Cabot,</subfield>
+    <subfield code="d">1787-1860.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Griffiths, Julia,</subfield>
+    <subfield code="d">d. 1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Howitt, Mary Botham,</subfield>
+    <subfield code="d">1799-1888.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Laugel, Elizabeth Bates Chapman,</subfield>
+    <subfield code="d">b. 1831.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Martineau, Harriet,</subfield>
+    <subfield code="d">1802-1876.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">O&apos;Connell, Daniel,</subfield>
+    <subfield code="d">1775-1847.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Remond, Charles Lenox,</subfield>
+    <subfield code="d">1810-1873.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Liberty bell (Boston, Mass.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Anti-slavery fairs.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Ireland.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Caroline Weston Correspondence (1834-1874)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

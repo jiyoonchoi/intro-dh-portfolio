@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03504ntm a22004697a 4500</leader>
+  <controlfield tag="001">3486457</controlfield>
+  <controlfield tag="005">20100226095200.0</controlfield>
+  <controlfield tag="008">090115s1851    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18510302</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3486457</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.25, p.67</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Mrs. Chapman</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Bristol, [England], Park St[reet],</subfield>
+    <subfield code="c">March 2, 1851.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">5 leaves (18 p.) ;</subfield>
+    <subfield code="c">8 1/4 x 5 3/8 in.; 8 1/2 x 5 3/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The Estlins have heard via America of Caroline Weston&apos;s illness. Mary Anne Estlin admires Miss Weston&apos;s ability to describe her symptoms to &quot;a medical adviser some hundred miles off [John Bishop Estlin].&quot; She wishes to see Maria Weston Chapman and Miss Weston, but she does not consider Tintern a suitable meeting place. Mary A. Estlin explains the circumstances that led Mr. John B. Estlin to publish his anonymous article in the Morning Advertiser. She remarks how &quot;Dr. [Ezra Stiles] Gannet &amp; his fraternity in Boston must hate this mischief maker.&quot; She tells of Mrs. Armstrong&apos;s and Mary A. Estlin&apos;s own efforts at influencing opinion. It has been proposed that William W. Brown and the Crafts should come to Bristol. &quot;Mr. [Andrew] Paton is indignant with Pennington.&quot; Mary A. Estlin tells of the dilemma of Miss Wigham, who differs from the majority of the committee which she represents. Mrs. Anna H. Richardson and her ally [Henry Highland] Garnet are hostile to the Garrisonians. Mary A. Estlin suspects that the Quaker lady at the anti-slavery meeting was a spy for Mrs. Richardson. She hopes to find the best introduction for Anne W. Weston&apos;s Bazaar Report for 1849. Mary A. Estlin is eager to prevent &quot;the self-destructive act of uniting&quot; the Free Labor movement with the anti-slavery committee&apos;s &quot;awakening genuine anti-slavery zeal.&quot; Mrs. Eliza Lee Cabot Follen&apos;s health has improved. Anne W. Weston&apos;s &quot;statement to Miss Wigham of her religious conviction&quot; has been a great help, but &quot;these views fail to give universal satisfaction.&quot; The Carpenters don&apos;t like Mr. Estlin&apos;s article in the Morning Advertiser, &quot;feeling Russell [Carpenter] &amp; his Boston friends vulnerable to its darts.&quot; Mary A. Estlin has heard from Miss Martineau that William W. Brown and the Crafts are going to see her.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, Mary Anne,</subfield>
+    <subfield code="d">1820-1902</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Armstrong,</subfield>
+    <subfield code="c">Mrs.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Brown, William Wells,</subfield>
+    <subfield code="d">1814?-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Carpenter, Russell Lant,</subfield>
+    <subfield code="d">1816-1892.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Craft, William.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Craft, Ellen.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Follen, Eliza Lee Cabot,</subfield>
+    <subfield code="d">1787-1860.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Gannett, Ezra S.</subfield>
+    <subfield code="q">(Ezra Stiles),</subfield>
+    <subfield code="d">1801-1871.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garnet, Henry Highland,</subfield>
+    <subfield code="d">1815-1882.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Paton, Andrew,</subfield>
+    <subfield code="d">1805-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Pennington.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Richardson, Anna H.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Free Soil Party (U.S.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 18</subfield>
+  </datafield>
+</record>

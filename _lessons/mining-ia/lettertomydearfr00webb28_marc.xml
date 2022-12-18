@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>05793ntm a22005177a 4500</leader>
+  <controlfield tag="001">3581900</controlfield>
+  <controlfield tag="005">20100923220600.0</controlfield>
+  <controlfield tag="008">090115s1846    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18460226</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3581900</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.22, p.26 (A &amp; B)</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Dublin, [Ireland],</subfield>
+    <subfield code="c">February 26, 1846.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 leaves (12 p.) ;</subfield>
+    <subfield code="c">10 5/8 x 8 1/2 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On pages 1-12 of this manuscript, there is a letter by Richard Davis Webb to Maria Weston Chapman. Richard D. Webb has an opportunity to pick up books cheaply. In reference to correspondence with Edward S. Abdy, Webb remarks: &quot;You know how we are cut up into classes here.&quot; Richard D. Webb is only a tradesman, with nothing in his position, wealth, birth, or demeanor to commend him to a gentleman, which he supposes Abdy to be. It is more difficult to start and sustain a periodical here than in America, and Richard D. Webb doubts if Abdy would be the man (to have charge of it). In respect to a proposition for an anti-slavery convention in London, Richard D. Webb thinks that London conventions &quot;do hardly any good.&quot; The preachers that would take part in it are ignorant about American slavery and some such paper as the Liberator &quot;is calculated to supply the void.&quot; In opening the Liberator, &quot;you are almost sure to find something fresh and racy, kindly &amp; cheery.&quot; Richard D. Webb would prefer, instead of a formal convention, a free meeting of all the friends of the cause who would come; he suggests names. However, in practice, most of them would probably be prevented from attending. He will write to Elizabeth Pease, H.C. Wright, and a few others. He gives reminiscences of the convention of 1840, when Richard D. Webb was excited at the prospect of meeting William Lloyd Garrison. Webb welcomes Maria Weston Chapman to his house when she comes to Ireland. Webb says: &quot;I would go farther to see you than any woman in the world.&quot; Webb characterizes Joseph Sturge as benevolent but narrow minded and George Thompson as very able but ambitious and pliable. He describes Miss Sarah Hilditch and her sister Blanche. Miss (Sarah?) Hilditch is fired with zeal by Frederick Douglass&apos;s narrative and hopes to be able to send Maria W. Chapman 30 pounds worth next year. Douglass must have made no less than $750 on the first edition of his book. He tells how Douglass was flattered and spoiled in Ireland. He relates in detail an incident that pertained to an engraving of a portrait of Douglass as frontispiece to his book and in which he was extremely rude to Richard D. Webb. Professor John Pringle Nichol of Glasgow wrote that Douglass and James Haughton were making a great stir on the Free Church question. In Dundee, boys were crying on the street: &quot;Send back that blood-stained money!&quot; Richard D. Webb comments on the contents of the Liberty Bell for 1846. He remarks on the case of George Bradburn. Elizabeth Pease is worried about her father&apos;s gout. Richard D. Webb discusses British politics. Signs portend a famine in Ireland. Richard D. Webb thinks John Bishop Estlin is a most valuable ally in the cause. Webb writes about Darwin&apos;s expressions on slavery in the voyage...</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On page 12 of this manuscript, there is a separate note by Mrs. Hannah Webb, Richard Davis Webb&apos;s wife, to Maria Weston Chapman. Hannah Webb tells of family affairs. The Webbs are spending a few weeks in the country. Their oldest son, Alfred Webb, is delicate and the town does not agree with him. Hannah Webb was delighted to receive books and a letter from Boston. She considers the Liberty Bell excellent but lacking in &quot;spunk.&quot; She comments on the Belfry of Bruges; she thinks there is too much mannerism in Longfellow. Hannah Webb thinks that Nathaniel P. Rogers still has the light of genius, though dimmed, and that he was &quot;more misled &amp; erring than wicked.&quot; She characterizes Dr. Richard Robert Madden, who visited them, as a good Catholic and a regular Irish rebel, &quot;as rebels were counted forty years ago.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Also includes a fragment, dated September 10th, 1899, by Helen Weston. She writes: &quot;On the 10 &amp; 11th page of this letter there is a good deal about Douglass. Which was not at the time to be made public. Told in confidence. I have hesitated about cutting it out but thought on the whole I had better send it.&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Hannah,</subfield>
+    <subfield code="d">1809-1862</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Abdy, E. S.</subfield>
+    <subfield code="q">(Edward Strutt),</subfield>
+    <subfield code="d">1791-1846.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Bradburn, George,</subfield>
+    <subfield code="d">1806-1880.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Darwin, Charles,</subfield>
+    <subfield code="d">1809-1882.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Estlin, J. B.</subfield>
+    <subfield code="q">(John Bishop),</subfield>
+    <subfield code="d">1785-1855.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Haughton, James,</subfield>
+    <subfield code="d">1795-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hilditch, Sarah.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Longfellow, Henry Wadsworth,</subfield>
+    <subfield code="d">1807-1882.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Madden, Richard Robert,</subfield>
+    <subfield code="d">1798-1886.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Nichol, Elizabeth Pease,</subfield>
+    <subfield code="d">1807-1897.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Rogers, Nathaniel Peabody,</subfield>
+    <subfield code="d">1794-1846.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Sturge, Joseph,</subfield>
+    <subfield code="d">1793-1859.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Thompson, George,</subfield>
+    <subfield code="d">1804-1878.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Free Church of Scotland.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Liberator (Boston, Mass. : 1831)</subfield>
+  </datafield>
+  <datafield tag="630" ind1="0" ind2="0">
+    <subfield code="a">Liberty bell (Boston, Mass.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 14</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01055nam a2200217Ia 4500</leader>
+  <controlfield tag="001">3586363</controlfield>
+  <controlfield tag="005">20101014103800.0</controlfield>
+  <controlfield tag="008">830815s1821    enk      b    000 0 fre d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)9810915</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm09810915</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IXA</subfield>
+    <subfield code="c">IXA</subfield>
+    <subfield code="d">UMC</subfield>
+    <subfield code="d">OCL</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">HT985</subfield>
+    <subfield code="b">.F67314 1821</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">H.710.Af8R 1821B</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">De l&apos;état actuel de la traite des noirs :</subfield>
+    <subfield code="b">extrait des renseignemens déposés récemment à ce sujet sur le Bureau de la Chambre des communes d&apos;Angleterre ; composant le rapport présenté, le 8 mai, 1821, aux directeurs de l&apos;Institution africaine par le comité spécial nommé à cet effect ; imprimé par ordre de l&apos;Institution Africaine, comme supplément à son rapport annuel pour 1821 ; traduit de l&apos;anglais et accompagné d&apos;un avant-propos du traducteur.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Londres :</subfield>
+    <subfield code="b">Imprimé par G. Schulze,</subfield>
+    <subfield code="c">1821.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xix, [1], 208 p. ;</subfield>
+    <subfield code="c">23 cm.</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave trade.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">African Institution (London, England)</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01227nam a2200277Ia 4500</leader>
+  <controlfield tag="001">3586659</controlfield>
+  <controlfield tag="005">20101015165900.0</controlfield>
+  <controlfield tag="008">970701s1827    fr            000 0 fre d</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">FRBNF301644260000004</subfield>
+    <subfield code="2">FrPBN</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)457155897</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn457155897</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BDF</subfield>
+    <subfield code="b">fre</subfield>
+    <subfield code="c">BDF</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">H.710.B78O</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Broglie, Victor de,</subfield>
+    <subfield code="d">1785-1870.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Chambre des Pairs. Séance du 24 janvier 1827. Opinion de M. le duc de Broglie, :</subfield>
+    <subfield code="b">Sur l&apos;art. 1er du projet de loi relatif à la répression de la traite des Noirs.</subfield>
+  </datafield>
+  <datafield tag="246" ind1="2" ind2="3">
+    <subfield code="a">Opinion de M. le duc de Broglie sur l&apos;art. 1er du projet de loi relatif à la répression de la traite des noirs</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[France :</subfield>
+    <subfield code="b">The Chambre,</subfield>
+    <subfield code="c">1827?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">40 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Chambre des Pairs. Impressions diverses. Session de 1827 ;</subfield>
+    <subfield code="v">n° 31.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy in 3 unbound signatures, uncut.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave trade.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">France.</subfield>
+    <subfield code="b">Chambre des pairs.</subfield>
+  </datafield>
+  <datafield tag="810" ind1="2" ind2=" ">
+    <subfield code="a">Chambre des Pairs. Impressions diverses. Session de 1827 ;</subfield>
+    <subfield code="v">n. 31.</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="3">Bibliothèque nationale de France catalogue record</subfield>
+    <subfield code="u">http://catalogue.bnf.fr/ark:/12148/cb30164426j</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

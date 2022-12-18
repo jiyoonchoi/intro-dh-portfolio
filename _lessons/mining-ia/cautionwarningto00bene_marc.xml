@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01012nam a2200265Ia 4500</leader>
+  <controlfield tag="001">2526515</controlfield>
+  <controlfield tag="005">20060126092200.0</controlfield>
+  <controlfield tag="008">771202s1766    pau           000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   10034585 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm03460340</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">PHA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">E446</subfield>
+    <subfield code="b">.B445</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">XH.710.B43C2 no. 1</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Benezet, Anthony,</subfield>
+    <subfield code="d">1713-1784.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="2">
+    <subfield code="a">A caution and warning to Great-Britain and her colonies, in a Short representation of the calamitous state of the Enslaved negroes in the British Dominions :</subfield>
+    <subfield code="b">Collected from various Authors, and submitted to the Serious consideration of all, more especially of those in power /</subfield>
+    <subfield code="c">By Ant. Benezet.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Philadelphia:</subfield>
+    <subfield code="b">Printed by Henry Miller,</subfield>
+    <subfield code="c">MDCCLXVI [1766].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">35 p. ;</subfield>
+    <subfield code="c">18 cm.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Evans</subfield>
+    <subfield code="c">10240</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">West Indies.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Warburton, William,</subfield>
+    <subfield code="d">1698-1779.</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="h">XH.710 .B43 C2 no. 1</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">20030425 dgi/llk</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">X0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

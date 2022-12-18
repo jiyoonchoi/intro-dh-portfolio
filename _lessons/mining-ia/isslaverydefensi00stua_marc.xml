@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01828cam a2200277Ia 4500</leader>
+  <controlfield tag="001">3399076</controlfield>
+  <controlfield tag="005">20090707235700.0</controlfield>
+  <controlfield tag="008">920625s1831    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)26086252</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm26086252</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">KFS</subfield>
+    <subfield code="e">dcrb</subfield>
+    <subfield code="c">KFS</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-uk---</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7574.5.5 no. 3</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stuart, Charles,</subfield>
+    <subfield code="d">1783?-1865.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Is slavery defensible from scripture? :</subfield>
+    <subfield code="b">To the Rev. Dr. Hincks, Killileagh.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Belfast :</subfield>
+    <subfield code="b">Printed at the Belfast News-Letter Office,</subfield>
+    <subfield code="c">1831]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[1] 2-15 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Caption title.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Author identified on p. 14.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Printer and place of printing from p. 15. -- Imprint date from p. 14.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) ex libris (gift inscription): C.W. Dennison.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. The utter extinction of slavery, an object of scripture prophecy -- 2. Songs of a sojourn -- 3. Is slavery defensible from scripture? -- 4. Facts designed to exhibit the real character and tendency of the American Colonization Society -- 5. Abstract of the report of the Lords committees on the condition and treatment of the colonial slaves -- 6. Analysis of the report of a Committee of the House of commons on the extinction of slavery -- 7. Thoughts on the necessity of improving the condition of the slaves in the British colonies -- 8. Colonial slavery -- 9. A letter to Thomas Clarkson; and Prejudice vincible -- 10. Substance of the speech delivered at the meeting of the Edinburgh Society for the Abolition of Slavery.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">Great Britain</subfield>
+    <subfield code="x">Colonies.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery in the Bible.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dennison, C.W.,</subfield>
+    <subfield code="e">former owner</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">BPL1ST</subfield>
+    <subfield code="b">BANF</subfield>
+    <subfield code="h">No.3 in 7574.5.5</subfield>
+    <subfield code="z">Bates Hall Catalog Conversion (FY2009). Backstage Library Works.</subfield>
+  </datafield>
+</record>

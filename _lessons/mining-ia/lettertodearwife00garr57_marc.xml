@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03499ntm a22004577a 4500</leader>
+  <controlfield tag="001">3760538</controlfield>
+  <controlfield tag="005">20111210005500.0</controlfield>
+  <controlfield tag="008">090115s1867    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18670607</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.1.1 v.7, p.42B</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Wife</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Paris, [France],</subfield>
+    <subfield code="c">June 7, 1867.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (8 p.) ;</subfield>
+    <subfield code="c">8 1/4 x 5 1/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed with initials.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Letter written in pencil.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">William Lloyd Garrison writes to Helen Eliza Garrison: &quot;The matter of absorbing interest to me, while I am gone, will be the state of your health and spirits; and I want you to keep me truly apprised of your actual condition, so that I may govern myself accordingly. You write that you are feeling very well, and getting along comfortably; and this gives me great relief and pleasure.&quot; He asks Helen E. Garrison about the magnetic treatments she is receiving from Miss Andrews and suggests using &quot;the galvanic battery...with manipulation by the hand.&quot; He urges Helen E. Garrison to walk as much as possible and to swing her parlyzed arm. He assumes that Mrs. Oliver Johnson has gone home but expects her to return if needed. He urges her to take rides accompanied by Ellie Garrison, Mrs. Mary Ann Johnson, or Julia Randall. William L. Garrison will remain in Europe until October. He discusses the Villards&apos; plans. He was surprised at the news of Lydia Spooner&apos;s death. He saw an &quot;immense military demonstration&quot; at the Bois de Boulogne. He dined with Madame Coignet and Miss Dowling, &quot;who have been at the head of the Freedmen&apos;s movement in Paris.&quot; He met N. Turgenev and Professor Edouard Laboulaye. He has heard nothing from George Thompson. William L. Garrison and Francis J. Garrison called on Eliza Frances Eddy. Mrs. William Lloyd Garrison Jr. (Ellen Wright Garrison) forgot to enclose a photograph of Agnes in her last letter. William L. Garrison remembered Wendell Phillips&apos;s birthday. He was glad to hear that Helen E. Garrison had delightful visit with Dr. Drew. William L. Garrison says to &quot;tell George time is flying, and he must try to fall in love with some worthy girl, and push the matter, remembering &apos;faint heart never yet won fair lady.&apos;&quot;</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Merrill, Walter M. Letters of William Lloyd Garrison,</subfield>
+    <subfield code="c">v.5, no.203.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, Helen Eliza,</subfield>
+    <subfield code="d">1811-1876</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Coignet, C.</subfield>
+    <subfield code="q">(Clarisse),</subfield>
+    <subfield code="d">b. 1823.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Dowling,</subfield>
+    <subfield code="c">Miss.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Drew, Thomas Bradford,</subfield>
+    <subfield code="d">1834-1898.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Eddy, Eliza Frances Jackson Meriam,</subfield>
+    <subfield code="d">1816-1881.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, Agnes,</subfield>
+    <subfield code="d">1866-1950.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, Francis Jackson,</subfield>
+    <subfield code="d">1848-1916.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Johnson, Mary Ann White,</subfield>
+    <subfield code="d">1808-1872.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="0" ind2="0">
+    <subfield code="a">Napoleon</subfield>
+    <subfield code="b">III,</subfield>
+    <subfield code="c">Emperor of the French,</subfield>
+    <subfield code="d">1808-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Randall, Julia,</subfield>
+    <subfield code="d">b. 1828.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Spooner, Lydia Sylvester,</subfield>
+    <subfield code="d">d. 1867.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Turgenev, Nikolai,</subfield>
+    <subfield code="d">1789-1871.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Villard, Henry,</subfield>
+    <subfield code="d">1835-1900.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Magnetotherapy.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, Helen Eliza,</subfield>
+    <subfield code="d">1811-1876,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">William Lloyd Garrison Correspondence (1823-1879)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 8</subfield>
+  </datafield>
+</record>

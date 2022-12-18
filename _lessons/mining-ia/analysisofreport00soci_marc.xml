@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02020nam a2200289Ia 4500</leader>
+  <controlfield tag="001">3614834</controlfield>
+  <controlfield tag="005">20101122134100.0</controlfield>
+  <controlfield tag="008">791204s1833    enk           000 0 eng d</controlfield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">21935370</subfield>
+    <subfield code="a">47911961</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)5760512</subfield>
+    <subfield code="z">(OCoLC)21935370</subfield>
+    <subfield code="z">(OCoLC)47911961</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm05760512</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AFU</subfield>
+    <subfield code="c">AFU</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">KIJ</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-uk---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">HT1161</subfield>
+    <subfield code="b">.S6</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7574.5.5 no. 6</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Society for the Mitigation and Gradual Abolition of Slavery Throughout the British Dominions.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Analysis of the report of a Committee of the House of commons on the extinction of slavery. :</subfield>
+    <subfield code="b">with notes /</subfield>
+    <subfield code="c">by the editor.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Printed for the Society for the abolition of slavery throughout the British dominions,</subfield>
+    <subfield code="c">1833.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">213 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) ex libris (inscription): C.W. Denison.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Bound volume includes: 1. The utter extinction of slavery, an object of scripture prophecy -- 2. Songs of a sojourn -- 3. Is slavery defensible from scripture? -- 4. Facts designed to exhibit the real character and tendency of the American Colonization Society -- 5. Abstract of the report of the Lords committees on the condition and treatment of the colonial slaves -- 6. Analysis of the report of a Committee of the House of commons on the extinction of slavery -- 7. Thoughts on the necessity of improving the condition of the slaves in the British colonies -- 8. Colonial slavery -- 9. A letter to Thomas Clarkson; and Prejudice vincible -- 10. Substance of the speech delivered at the meeting of the Edinburgh Society for the Abolition of Slavery.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">Great Britain.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Denison, Charles Wheeler,</subfield>
+    <subfield code="d">1809-1881,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">Great Britain.</subfield>
+    <subfield code="b">Parliament.</subfield>
+    <subfield code="b">House of Commons.</subfield>
+    <subfield code="b">Select Committee on the Extinction of Slavery Throughout the British Dominions.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

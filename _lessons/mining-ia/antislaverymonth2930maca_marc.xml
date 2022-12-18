@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01518cas a2200337 a 4500</leader>
+  <controlfield tag="001">3615078</controlfield>
+  <controlfield tag="005">20101123095800.0</controlfield>
+  <controlfield tag="008">820413d18251830enkmr p       0    0eng d</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">  2007238319</subfield>
+    <subfield code="z">12002138</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm08331023</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)8331023</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">VYN</subfield>
+    <subfield code="c">VYN</subfield>
+    <subfield code="d">OCL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">IUL</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">lcd</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">b------</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">HT851</subfield>
+    <subfield code="b">.A65</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">4285.70</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Anti-slavery monthly reporter.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Bagster and Thoms,</subfield>
+    <subfield code="c">1825-1830.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 v. ;</subfield>
+    <subfield code="c">23 cm.</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">Monthly</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">[Vol. 1], no. 1 (June 30 1825)-v. 3, no. 14 (July 1830) = No. 1-62.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Title from caption.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Editor: Zachary Macaulay.</subfield>
+  </datafield>
+  <datafield tag="525" ind1=" " ind2=" ">
+    <subfield code="a">Includes supplements.</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="a">Issued 1825-1830 by the Society for the Mitigation and Gradual Abolition of Slavery Throughout the British Dominions under its earlier forms of name: London Society for the Mitigation and Abolition of Slavery in the British Dominions, June 1825-May 1829; : London Society for the Abolition of Slavery Throughout the British Dominions, June, 1829-July, 1830.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slavery</subfield>
+    <subfield code="z">Commonwealth countries</subfield>
+    <subfield code="v">Periodicals.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">Great Britain</subfield>
+    <subfield code="v">Periodicals.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Macaulay, Zachary,</subfield>
+    <subfield code="d">1768-1838.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Society for the Mitigation and Gradual Abolition of Slavery Throughout the British Dominions.</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Online version:</subfield>
+    <subfield code="t">Anti-slavery monthly reporter</subfield>
+    <subfield code="w">(OCoLC)609823887</subfield>
+  </datafield>
+  <datafield tag="785" ind1="1" ind2="0">
+    <subfield code="t">Anti-slavery reporter</subfield>
+    <subfield code="w">(OCoLC)8331445</subfield>
+  </datafield>
+</record>

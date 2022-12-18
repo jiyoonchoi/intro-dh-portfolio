@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01377nam a2200301 a 4500</leader>
+  <controlfield tag="001">3614819</controlfield>
+  <controlfield tag="005">20101122115400.0</controlfield>
+  <controlfield tag="008">820626s1840    ctuabf        000 0deng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   10032270 </subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">191238132</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)8555374</subfield>
+    <subfield code="z">(OCoLC)191238132</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm08555374</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">AQM</subfield>
+    <subfield code="d">KRTAS</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us---</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">E447</subfield>
+    <subfield code="b">.B23</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">7586.58 No.2</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="2">
+    <subfield code="a">A history of the Amistad captives :</subfield>
+    <subfield code="b">being a circumstantial account of the capture of the Spanish schooner Amistad by the Africans on board, their voyage and capture near Long Island, New York, with biographical sketches of each of the surviving Africans : also, an account of the trials had on their case, before the district and circuit courts of the United States for the district of Connecticut /</subfield>
+    <subfield code="c">compiled from authentic sources by John W. Barber .</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New Haven :</subfield>
+    <subfield code="b">E.L. &amp; J.W. Barber,</subfield>
+    <subfield code="c">1840.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">32 p., [1] folded leaves of plates :</subfield>
+    <subfield code="b">ill., map ;</subfield>
+    <subfield code="c">23 cm.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Checklist Amer. imprints</subfield>
+    <subfield code="c">40-480</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Amistad (Schooner)</subfield>
+    <subfield code="v">Pamphlets.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave insurrections</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Trials (Mutiny)</subfield>
+    <subfield code="z">United States.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slave ships</subfield>
+    <subfield code="x">Trials, litigation, etc.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Barber, John Warner,</subfield>
+    <subfield code="d">1798-1885.</subfield>
+  </datafield>
+  <datafield tag="938" ind1=" " ind2=" ">
+    <subfield code="a">Kirtas Technologies, Inc.</subfield>
+    <subfield code="b">KRTS</subfield>
+    <subfield code="n">891623</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

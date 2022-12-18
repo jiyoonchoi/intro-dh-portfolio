@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01429nam a2200277Ia 4500</leader>
+  <controlfield tag="001">3586278</controlfield>
+  <controlfield tag="005">20101013163100.0</controlfield>
+  <controlfield tag="008">920227s1823    enk           000 0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)25356455</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm25356455</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBE</subfield>
+    <subfield code="c">OBE</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nw-----</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="092" ind1=" " ind2=" ">
+    <subfield code="a">326</subfield>
+    <subfield code="b">P191 v.82 no.4</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">H.710.M36C</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Martin, Henry William,</subfield>
+    <subfield code="c">Sir.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="2">
+    <subfield code="a">A counter appeal in answer to &quot;An appeal&quot; from William Wilberforce, Esq., M.P. :</subfield>
+    <subfield code="b">designed to prove that the emancipation of the Negroes in the West Indies, by a legislative enactment, without the consent of the planters, would be a flagrant breach of national honour, hostile to the principles of religion, justice, and humanity, and highly injurious to the planter and to the slave /</subfield>
+    <subfield code="c">by Sir Henry William Martin.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Printed for C. &amp; J. Rivington, and sold by Lloyd,</subfield>
+    <subfield code="c">1823.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">vi, [2], 52 p. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">[Pamphlets on slavery ;</subfield>
+    <subfield code="v">v. 82, no. 4]</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy contains author&apos;s gift inscription to Rev. Thomas Sikes.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Wilberforce, William,</subfield>
+    <subfield code="d">1759-1833.</subfield>
+    <subfield code="t">Appeal to the religion, justice, and humanity of the inhabitants of the British empire.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Slaves</subfield>
+    <subfield code="x">Emancipation</subfield>
+    <subfield code="z">West Indies.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Sikes, Thomas,</subfield>
+    <subfield code="e">former owner.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Pamphlets on slavery ;</subfield>
+    <subfield code="v">v. 82, no. 4.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>

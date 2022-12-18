@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03449ntm a22003977a 4500</leader>
+  <controlfield tag="001">3280127</controlfield>
+  <controlfield tag="005">20090314005600.0</controlfield>
+  <controlfield tag="008">090115s1837    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18370915</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3280127</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.9, p.67</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My Dearest Debora[h]</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boylston St., [Boston],</subfield>
+    <subfield code="c">Sept. 15, 1837, Friday afternoon.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 leaves (6 p.) ;</subfield>
+    <subfield code="c">9 3/4 x 7 3/4 in. and 3 1/8 x 7 7/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Anne Warren Weston has read the fourth part of Lockhart&apos;s &quot;Scott&quot; and found it the most interesting part that has yet appeared. She gives an account of visits paid and received. She describes the wedding of Eliza Ammidon. Anne wore herself out &quot;petitioning.&quot; She gives more news of friends Sylvia Ammidon Owen, Mr. and Mrs. Ebenezer Bailey, etc. The Weymouth Anti-slavery Society is &quot;contriving, if possible ... to pass resolutions against the [Clerical] Appeal.&quot; Wendell Phillips is going to New Bedford next week. &quot;He and Ann [Terry Greene] were published yesterday.&quot; [The marriage of Wendell Phillips and Ann Terry Greene took place on October 12, 1837.] She discloses confidentially that Garrison has received a letter from Elizur Wright, which it would seem that &apos;the very elect&apos; have almost denied ... the faith.&quot; Maria Weston Chapman has written to Elizur Wright and Theodore Dwight Weld, &quot;giving it to them about right,&quot; and also to William Goodell, &quot;approving him,&quot; for he alone has borne himself valiantly. She characterizes the attitudes of the National and Massachusetts societies toward the appeal. &quot;Mary [S.] Parker waxes valiant in fight &amp; it is to be hoped that the Female Society will stand to their colours.&quot; The Bristol County petition came yesterday with 3000 names. Henry G. Chapman, returning from New York, brought letters for his wife from Theodore D. Weld and Elizur Wright. &quot;Wright&apos;s letter was in much the best spirit. I think Weld was a little piqued.&quot; She summarizes Weld&apos;s letter. She wishes Debora &quot;to make some of the brethren ... go to Worcester. Send Andrew Robeson if you see him.&quot; The Grimkes have lectured at Acton in Mr. [James Trask] Woodbury&apos;s meeting house.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There is a receipt, Boston, Sept. 11, 1837, for Mr. Henry Grafton Chapman, Treasurer, Massachusetts Anti-slavery Society, &quot;Sir Please pay to Amos Lyon -- an order, fifty dollars when in funds, and oblige.&quot; Signed, your obedient servant, Isaac Knapp. On verso, the amount was paid on Nov. 27, and signed Amos Lyon.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Deborah</subfield>
+    <subfield code="d">b. 1814.</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grimké, Angelina Emily,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Grimké, Sarah Moore,</subfield>
+    <subfield code="d">1792-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weld, Theodore Dwight,</subfield>
+    <subfield code="d">1803-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Wright, Elizur,</subfield>
+    <subfield code="d">1804-1885.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phillips, Wendell,</subfield>
+    <subfield code="d">1811-1884.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Henry Grafton,</subfield>
+    <subfield code="d">1804-1842.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Knapp, Isaac,</subfield>
+    <subfield code="d">1804-1843.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Deborah,</subfield>
+    <subfield code="d">b.1814</subfield>
+    <subfield code="e">recipient</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 6</subfield>
+  </datafield>
+</record>

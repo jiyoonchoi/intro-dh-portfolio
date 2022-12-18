@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03851ntm a22004097a 4500</leader>
+  <controlfield tag="001">3586236</controlfield>
+  <controlfield tag="005">20101013221300.0</controlfield>
+  <controlfield tag="008">090115s1847    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18470916</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3586236</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.23, p.43</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My dear Friend</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Dublin, [Ireland],</subfield>
+    <subfield code="c">Sept. 16, 1847.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 leaves (12 p.) ;</subfield>
+    <subfield code="c">12 x 8 5/8 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">It is very kind of &quot;the clique&quot; to insist on Richard Davis Webb crossing the Atlantic. However, though always out of debt, Webb is by no means &quot;riding on the crest of the waves of fortune like Richard Allen.&quot; Webb would rather see the abolitionists face to face than Rome or Athens. Webb received from H. C. Wright a letter from Halifax, which was intended for publication. Webb considers the habit of holding oneself before the public apt to result in a style neither natural or pleasing. He regrets that Charles C. Burleigh is not to go abroad. Webb has only a slight acquaintance with the Howitts. Webb comments about the Howitts: &quot;I take them to be an upright, independent, well-minded pair.&quot; He thinks that William Howitt is quick tempered, and perhaps apt to take offence. Webb says: &quot;I greatly like his wife.&quot; Webb thinks &quot;they have been entrapped by [John] Saunders to their very great annoyance and pecuniary loss.&quot; Richard Davis Webb judges John Saunders to be a rascal from the fact that William Howitt has published statements about John Saunders that would entitle him to large damages for libel if they could be refuted. As Harriet Martineau remains the only contributor of note to the People&apos;s Journal, Webb suspects that she takes Saunder&apos;s side. Richard D. Webb hears that Ralph Waldo Emerson intends to be in England in a few weeks and encloses an invitation for Emerson to stay with him. It has seemed better not to circulate appeals for the Boston fair this year since &quot;the extent of poverty and pauperism in Ireland is really frightful.&quot; Richard D. Webb sends a copy of a letter from Lewis Tappan to Maria Waring answering her request for information about the secession of 1840. Webb comments on past anti-slavery incidents. A Lutheran minister, the Rev. Mr. McCoues, has asked James Haughton to become a contributor to the National Era. Richard D. Webb tells about the education of his children at home. He perceives the advantage of a &quot;very nearly nonresistant education.&quot; Frederick Douglass showed &quot;wonderful pluck to keep from striking that ruffian who haled him out of the Railway car.&quot; Richard D. Webb inquires about the family of Nathaniel Peabody Rogers. Richard D. Webb asks: &quot;What do you think of the Pope?&quot; Webb considers him to be the greatest man in Europe. [Pope Pius IX (Giovanni Maria Mastai-Ferretti) succeeded Pope Gregory XVI in 1846.]</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Webb, Richard Davis,</subfield>
+    <subfield code="d">1805-1872</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Allen, Richard,</subfield>
+    <subfield code="d">1803-1886.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Douglass, Frederick,</subfield>
+    <subfield code="d">1818-1895.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Emerson, Ralph Waldo,</subfield>
+    <subfield code="d">1803-1882.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Haughton, James,</subfield>
+    <subfield code="d">1795-1873.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Howitt, Mary Botham,</subfield>
+    <subfield code="d">1799-1888.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Howitt, William,</subfield>
+    <subfield code="d">1792-1879.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Martineau, Harriet,</subfield>
+    <subfield code="d">1802-1876.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="0" ind2="0">
+    <subfield code="a">Pius</subfield>
+    <subfield code="b">IX,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">1792-1878.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Rogers, Nathaniel Peabody,</subfield>
+    <subfield code="d">1794-1846.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Saunders, John,</subfield>
+    <subfield code="d">1811-1895.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Maria Weston,</subfield>
+    <subfield code="d">1806-1885,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Maria Weston Chapman Correspondence (1835-1885)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 12</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03073ntm a22003137a 4500</leader>
+  <controlfield tag="001">3279996</controlfield>
+  <controlfield tag="005">20090314005400.0</controlfield>
+  <controlfield tag="008">090115s1837    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18370807</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3279996</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">Ms.A.9.2 v.9, p.59</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Caroline</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Groton, [Mass.],</subfield>
+    <subfield code="c">August 7th, 1837, Monday morning.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">11 5/8 x 7 3/4 in.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This letter is concerned with the visit of the Grimke sisters to Groton and their reception as public speakers. The writer tells of her calling on Mrs. Rugg (of the Groton women&apos;s society) to strengthen her. &quot;I explained away all St. Paul&apos;s verses that are &apos;hard to be understood,&apos; and charged Mrs. R. now to hold her ground.&quot; Mr. Phelps, the Groton minister having refused to open the meeting at which the Grimkes were to speak from the pulpit, Henry B. Stanton made the opening prayer. She gives the substance of Angelina Emily Grimke&apos;s address. While entertaining company, the writer received a letter from Deborah Weston with news that caused joy (at the birth of a child to Mrs. Maria Weston Chapman?). Anne describes a party given by &quot;the Dr.&quot; (Amos Farnsworth) for the Grimkes, and her remonstrance at his omitting invitations to many good Abolitionists, whereupon he &quot;agreed to making the party genuinely democratic.&quot; When it was over, &quot;the Dr. thought that some of the aristocracy felt badly, not at being brought into collision with Abolitionists, but with mechanics.&quot; Stanton has left, &quot;having I believe picked $100 from the Dr. Money, money, being the whole burden of his song.&quot; Anne describes a call by Mr. Davenport and his daughter Mary Ann, and the unhappiness of the latter, who has been forbidden to visit in Groton and to return to the We--? (as a pupil?) after vacation. Anne gives an account of a meeting held in a barn in Pepperell, where &quot;the meeting house had been refused to the Grimkes.&quot; Angelina &quot;spoke with great eloquence,&quot; and Sarah, following, spoke equally well. Anne enumerates other towns on the Grimkes&apos; speaking schedule. The writer will stay while they do, for she feels that she is some use. &quot;The Grimkes are the pleasantest of people in conversation.&quot; Anne calls attention to an article in the Religions Magazine &quot;in which the testimony that insanity is hereditary in the Grimke family is quoted from a Southern correspondent.&quot;</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Six lines are written crosswise on the first page.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Anne Warren,</subfield>
+    <subfield code="d">1812-1890</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Weston, Caroline</subfield>
+    <subfield code="d">1808-1882.</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Davenport, Mary Ann.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women abolitionists</subfield>
+    <subfield code="z">Massachusetts</subfield>
+    <subfield code="z">Boston</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weston, Caroline,</subfield>
+    <subfield code="d">1808-1882.</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Anne Warren Weston Correspondence (1834-1886)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+</record>

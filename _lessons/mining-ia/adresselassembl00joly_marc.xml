@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01475nam a2200325Ia 4500</leader>
+  <controlfield tag="001">3585875</controlfield>
+  <controlfield tag="005">20101012145900.0</controlfield>
+  <controlfield tag="008">880929s1789    fr            000 0 fre d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)81395007</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm81395007</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NHi</subfield>
+    <subfield code="e">bdrb</subfield>
+    <subfield code="c">NHL</subfield>
+    <subfield code="d">OCLCG</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-fr---</subfield>
+    <subfield code="a">nw-----</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">BRLL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">XH.710.A10A3</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Adresse a l&apos;Assemblée-nationale, pour les citoyens-libres de couleur, des isles &amp; colonies françoises :</subfield>
+    <subfield code="b">18 Octobre 1789.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Paris? :</subfield>
+    <subfield code="b">s.n.],</subfield>
+    <subfield code="c">1789</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[2], 9, [1] p. (last p. blank) ;</subfield>
+    <subfield code="c">21 cm. (8vo)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Caption title: Adresse a l&apos;Assemblée-nationale. A nosseigneurs, nosseigneurs les représentans de la nation.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signed at end, with others: De Joly, avocat aux conseils.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="c">NA0078742</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) copy has inscription on t.p. and marbled paper covers.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Colons françois.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Blacks</subfield>
+    <subfield code="x">Legal status, laws, etc.</subfield>
+    <subfield code="z">France.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Blacks</subfield>
+    <subfield code="z">West Indies, French</subfield>
+    <subfield code="x">Politics and government.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Blacks</subfield>
+    <subfield code="x">Civil rights</subfield>
+    <subfield code="z">West Indies, French.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Representative government and representation</subfield>
+    <subfield code="z">France</subfield>
+    <subfield code="x">Colonies.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Joly, Etienne-Louis-Hector de,</subfield>
+    <subfield code="d">1756-1837.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">France.</subfield>
+    <subfield code="b">Assemblée nationale constituante (1789-1791)</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2=" ">
+    <subfield code="a">Adresse a l&apos;Assemblée-nationale. A nosseigneurs, nosseigneurs les représentans de la nation.</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">BRL</subfield>
+  </datafield>
+</record>
